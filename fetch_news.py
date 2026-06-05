@@ -13,22 +13,25 @@ from datetime import datetime, timezone
 # FEEDS
 # ──────────────────────────────────────────────
 
+_GN = "https://news.google.com/rss/search?hl=es-419&gl=MX&ceid=MX:es-419&q="
+
 FEEDS = [
-    # General / World
-    {"url": "https://feeds.bbci.co.uk/mundo/rss.xml",                           "source": "BBC Mundo",        "cat": "Mundo"},
-    {"url": "https://feeds.bbci.co.uk/mundo/america_latina/rss.xml",            "source": "BBC Mundo",        "cat": "México"},
-    {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "source": "El País",          "cat": "Mundo"},
-    # Mexico
-    {"url": "https://aristeguinoticias.com/feed/",                               "source": "Aristegui Noticias","cat": "México"},
-    {"url": "https://www.proceso.com.mx/rss",                                    "source": "Proceso",          "cat": "México"},
-    # Science / Tech
-    {"url": "https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml",      "source": "BBC Mundo",        "cat": "Ciencia"},
+    # BBC Mundo — always reliable
+    {"url": "https://feeds.bbci.co.uk/mundo/rss.xml",                            "source": "BBC Mundo",     "cat": "Mundo"},
+    {"url": "https://feeds.bbci.co.uk/mundo/america_latina/rss.xml",             "source": "BBC Mundo",     "cat": "México"},
+    {"url": "https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml",       "source": "BBC Mundo",     "cat": "Ciencia"},
+    {"url": "https://feeds.bbci.co.uk/mundo/economia/rss.xml",                   "source": "BBC Mundo",     "cat": "Economía"},
+    # El País
+    {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",  "source": "El País",       "cat": "Mundo"},
+    # Google News MX (aggregates all Mexican sources: Proceso, Aristegui, etc.)
+    {"url": "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419",       "source": "Google News MX","cat": "México"},
+    {"url": _GN + "política+México",                                              "source": "Google News",   "cat": "Política"},
+    {"url": _GN + "entretenimiento+cine+música+México",                           "source": "Google News",   "cat": "Entretenimiento"},
     # Economy
-    {"url": "https://www.elfinanciero.com.mx/rss/todas.xml",                     "source": "El Financiero",    "cat": "Economía"},
-    {"url": "https://feeds.bbci.co.uk/mundo/economia/rss.xml",                   "source": "BBC Mundo",        "cat": "Economía"},
+    {"url": "https://www.elfinanciero.com.mx/rss/todas.xml",                     "source": "El Financiero", "cat": "Economía"},
     # Sports
-    {"url": "https://www.marca.com/rss/portada.xml",                             "source": "MARCA",            "cat": "Deportes"},
-    {"url": "https://e00-marca.uecdn.es/rss/futbol/mexico.xml",                  "source": "MARCA México",     "cat": "Deportes"},
+    {"url": "https://www.marca.com/rss/portada.xml",                             "source": "MARCA",         "cat": "Deportes"},
+    {"url": "https://e00-marca.uecdn.es/rss/futbol/mexico.xml",                  "source": "MARCA México",  "cat": "Deportes"},
 ]
 
 # ──────────────────────────────────────────────
