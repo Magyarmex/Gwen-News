@@ -6,7 +6,10 @@
    CONFIGURATION
    ============================================================ */
 
-const RSS2JSON = 'https://api.rss2json.com/v1/api.json?count=12&rss_url=';
+// Primary: static news.json generated hourly by GitHub Actions.
+// Fallback: rss2json.com (less reliable, rate-limited, kept as backup).
+const NEWS_JSON_URL = './news.json';
+const RSS2JSON      = 'https://api.rss2json.com/v1/api.json?count=12&rss_url=';
 
 const FEEDS = [
   { url: 'https://feeds.bbci.co.uk/mundo/rss.xml',                          source: 'BBC Mundo',        cat: 'Mundo' },
@@ -330,8 +333,29 @@ function initAds() {
 }
 
 /* ============================================================
-   RSS FETCH
+   NEWS LOADING — news.json → rss2json fallback → hardcoded fallback
    ============================================================ */
+
+function annotate(articles) {
+  return articles.map(a => ({
+    ...a,
+    gwenTake: pick(GWEN_TAKES),
+    biasTag:  pick(BIAS_RATINGS),
+  }));
+}
+
+async function loadFromNewsJson() {
+  const res = await fetch(NEWS_JSON_URL + '?v=' + Date.now(), {
+    signal: AbortSignal.timeout(6000),
+  });
+  if (!res.ok) throw new Error(`news.json returned ${res.status}`);
+  const data = await res.json();
+  if (!Array.isArray(data.articles) || data.articles.length === 0) {
+    throw new Error('news.json is empty');
+  }
+  console.log(`[Gwen] Loaded ${data.articles.length} articles from news.json (generated ${data.generated})`);
+  return annotate(data.articles);
+}
 
 async function fetchFeed(feed) {
   try {
@@ -341,20 +365,40 @@ async function fetchFeed(feed) {
     if (!res.ok) return [];
     const data = await res.json();
     if (data.status !== 'ok' || !Array.isArray(data.items)) return [];
-
     return data.items.map(item => ({
-      title:     stripHtml(item.title) || 'Sin título',
-      link:      item.link || '#',
+      title:       stripHtml(item.title) || 'Sin título',
+      link:        item.link || '#',
       description: stripHtml(item.description || '').slice(0, 240),
-      pubDate:   item.pubDate || '',
-      source:    feed.source,
-      category:  detectCategory(item.title, item.description, feed.cat),
-      thumbnail: item.thumbnail || item.enclosure?.link || null,
-      gwenTake:  pick(GWEN_TAKES),
-      biasTag:   pick(BIAS_RATINGS),
+      pubDate:     item.pubDate || '',
+      source:      feed.source,
+      category:    detectCategory(item.title, item.description, feed.cat),
+      thumbnail:   item.thumbnail || item.enclosure?.link || null,
     }));
   } catch {
     return [];
+  }
+}
+
+async function loadFromRss2Json() {
+  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
+  let articles = [];
+  results.forEach(r => { if (r.status === 'fulfilled') articles = articles.concat(r.value); });
+  if (articles.length === 0) throw new Error('All rss2json feeds failed');
+  console.log(`[Gwen] Loaded ${articles.length} articles via rss2json fallback`);
+  return annotate(shuffle(articles));
+}
+
+async function loadArticles() {
+  try {
+    return await loadFromNewsJson();
+  } catch (e1) {
+    console.warn('[Gwen] news.json unavailable:', e1.message, '— trying rss2json fallback');
+    try {
+      return await loadFromRss2Json();
+    } catch (e2) {
+      console.warn('[Gwen] rss2json also failed:', e2.message, '— using hardcoded fallback');
+      return annotate(FALLBACK);
+    }
   }
 }
 
@@ -645,17 +689,7 @@ async function init() {
   const editorial = document.getElementById('gwen-editorial');
   if (editorial) editorial.textContent = pick(GWEN_EDITORIALS);
 
-  const results = await Promise.allSettled(FEEDS.map(fetchFeed));
-  let articles = [];
-  results.forEach(r => {
-    if (r.status === 'fulfilled') articles = articles.concat(r.value);
-  });
-
-  if (articles.length < 4) {
-    articles = FALLBACK.map(a => ({ ...a, gwenTake: pick(GWEN_TAKES), biasTag: pick(BIAS_RATINGS) }));
-  } else {
-    articles = shuffle(articles);
-  }
+  const articles = await loadArticles();
 
   allArticles = articles;
 
