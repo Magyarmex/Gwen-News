@@ -19,7 +19,11 @@ FEEDS = [
     # BBC Mundo — always reliable
     {"url": "https://feeds.bbci.co.uk/mundo/rss.xml",                            "source": "BBC Mundo",     "cat": "Mundo"},
     {"url": "https://feeds.bbci.co.uk/mundo/america_latina/rss.xml",             "source": "BBC Mundo",     "cat": "México"},
-    {"url": "https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml",       "source": "BBC Mundo",     "cat": "Ciencia"},
+    {"url": "https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml",       "source": "BBC Mundo",        "cat": "Ciencia"},
+    {"url": "https://feeds.feedburner.com/xatakamexico",                         "source": "Xataka México",    "cat": "Tech"},
+    {"url": "https://www.xataka.com/feedburner.xml",                             "source": "Xataka",           "cat": "Tech"},
+    {"url": "https://hipertextual.com/feed",                                     "source": "Hipertextual",     "cat": "Tech"},
+    {"url": _GN + "tecnología+IA+Apple+Google+startup",                          "source": "Google News",      "cat": "Tech"},
     {"url": "https://feeds.bbci.co.uk/mundo/economia/rss.xml",                   "source": "BBC Mundo",     "cat": "Economía"},
     # El País
     {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",  "source": "El País",       "cat": "Mundo"},
