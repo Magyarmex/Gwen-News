@@ -430,6 +430,103 @@ input { font-family: inherit; }
 }
 
 /* ============================================================
+   AD — MID-BREAK (between featured and grid)
+   ============================================================ */
+
+.ad-mid {
+  background: var(--bg-alt);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 10px 20px;
+  min-height: 46px;
+  margin-bottom: 24px;
+}
+
+/* ============================================================
+   AD — PRE-FOOTER (before newsletter)
+   ============================================================ */
+
+.ad-pre-footer {
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 12px 20px;
+  min-height: 48px;
+  margin-bottom: 24px;
+}
+
+/* ============================================================
+   AD — FOOTER TOP STRIP (above footer)
+   ============================================================ */
+
+.ad-footer-top {
+  background: var(--topbar-bg);
+  border-top: 1px solid #222;
+  padding: 0;
+}
+
+.ad-footer-top-inner {
+  max-width: 1260px;
+  margin: 0 auto;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.ad-footer-top .ad-marker {
+  border-color: #444;
+  color: #555;
+}
+
+.ad-footer-top .ad-brand { color: #e0e0e0; }
+.ad-footer-top .ad-copy  { color: #888; }
+.ad-footer-top .ad-cta   { color: var(--accent); }
+
+/* ============================================================
+   AD — SIDEBAR WIDGET
+   ============================================================ */
+
+.sidebar-ad-widget {
+  padding: 12px 14px;
+  background: var(--bg-alt);
+}
+
+.sidebar-ad-widget .ad-marker {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.sidebar-ad-widget .ad-content {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.sidebar-ad-widget .ad-brand {
+  font-size: 15px;
+}
+
+.sidebar-ad-widget .ad-copy {
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.sidebar-ad-widget .ad-cta {
+  font-size: 11px;
+  margin-top: 4px;
+}
+
+/* ============================================================
    MAIN NAV
    ============================================================ */
 

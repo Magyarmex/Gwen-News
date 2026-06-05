@@ -116,14 +116,43 @@ const BIAS_VERDICTS = [
 ];
 
 const ADS = [
-  { brand: 'TelMex™', copy: 'Conectividad garantizada. Horarios seleccionados.', cta: 'Contratar servicio →' },
-  { brand: 'CFÉ™', copy: 'La energía que tenemos. Disponible la mayor parte del tiempo.', cta: 'Reportar falla →' },
-  { brand: 'ÖXXO Plus™', copy: 'Café caliente. Servicio también. En horarios de alta demanda.', cta: 'Encontrar sucursal →' },
-  { brand: 'ÏMSS™', copy: 'Tu salud, nuestra prioridad. Próxima cita: disponible.', cta: 'Agendar cita →' },
-  { brand: 'BánMex™', copy: 'Tu dinero, gestionado con tecnología moderna. Casi siempre.', cta: 'Abrir cuenta →' },
-  { brand: 'Gwen Seguros™', copy: 'Protección integral contra la incertidumbre. Cobertura: limitada a lo evitable.', cta: 'Conocer planes →' },
-  { brand: 'LíverpoolPlus™', copy: 'Más de lo mismo, mejor presentado. Garantía de 30 días.', cta: 'Ver catálogo →' },
-  { brand: 'AT&Té™', copy: 'Señal donde hay señal. Compromiso de cobertura total (relativa).', cta: 'Ver planes →' },
+  // Telco
+  { brand: 'TelMex™',          copy: 'Conectividad garantizada. Horarios seleccionados.',                        cta: 'Contratar servicio →' },
+  { brand: 'TelcéL™',          copy: 'Señal donde hay señal. Planes desde $199/mes.',                            cta: 'Ver planes →'         },
+  { brand: 'AT&Té™',           copy: 'Cobertura total. Relativa. Términos y condiciones aplican.',               cta: 'Conocer más →'        },
+  { brand: 'MegaCábLE™',       copy: 'Internet, televisión y teléfono. Dos de tres, garantizados.',              cta: 'Ver paquetes →'       },
+  // Energía / Gobierno
+  { brand: 'CFÉ™',             copy: 'La energía que tenemos. Disponible la mayor parte del tiempo.',            cta: 'Reportar falla →'     },
+  { brand: 'PéMEX™',          copy: 'Petróleo nacional. Gasolina disponible en la mayoría de estaciones.',      cta: 'Encontrar bomba →'    },
+  { brand: 'SATÉ™',            copy: 'Tu declaración anual. En línea. Eventualmente.',                           cta: 'Declarar ahora →'     },
+  { brand: 'IñfonavIt™',       copy: 'Tu crédito hipotecario. En proceso. Siempre en proceso.',                  cta: 'Consultar saldo →'    },
+  { brand: 'ÏMSS™',            copy: 'Tu salud, nuestra prioridad. Próxima cita: disponible.',                   cta: 'Agendar cita →'       },
+  { brand: 'InstitutoSSTE™',   copy: 'Servicios para servidores públicos. Y sus familiares. Eventualmente.',     cta: 'Ver beneficios →'     },
+  // Retail
+  { brand: 'ÖXXO Plus™',       copy: 'Café caliente. Servicio también. En horarios de alta demanda.',            cta: 'Encontrar sucursal →' },
+  { brand: 'LíverpoolPlus™',   copy: 'Más de lo mismo, mejor presentado. Garantía de 30 días.',                  cta: 'Ver catálogo →'       },
+  { brand: 'CóppelPlus™',      copy: 'Crédito disponible para todo. Intereses: también disponibles.',            cta: 'Abrir cuenta →'       },
+  { brand: 'SörianA™',         copy: 'Precios bajos. Todos los días. La mayoría de los días.',                   cta: 'Ver ofertas →'        },
+  { brand: 'WalMárt™',         copy: 'Ahorra dinero. Vive mejor. Resultados individuales varían.',               cta: 'Ir a tienda →'        },
+  { brand: 'HöME Dépot MX™',   copy: 'Todo para el hogar que no terminas de reparar.',                          cta: 'Ver proyectos →'      },
+  // Bancos
+  { brand: 'BánMex™',          copy: 'Tu dinero, gestionado con tecnología moderna. Casi siempre.',              cta: 'Abrir cuenta →'       },
+  { brand: 'BBVÁ™',            copy: 'Banca digital. Sin ir al banco. La mayoría de las veces.',                 cta: 'Descargar app →'      },
+  { brand: 'ScotiábankMX™',    copy: 'Tu banco de toda la vida. O al menos desde que llegamos a México.',        cta: 'Conocer productos →'  },
+  { brand: 'SántanderMX™',     copy: 'Banca responsable. Con comisiones también responsables.',                  cta: 'Ver tarifas →'        },
+  // Transporte
+  { brand: 'AeroMéxxo™',       copy: 'Vuele con nosotros. A donde vayamos. Cuando podamos.',                    cta: 'Buscar vuelos →'      },
+  { brand: 'ÜberMX™',          copy: 'Tu viaje en minutos. O en los minutos que llegue el conductor.',           cta: 'Solicitar viaje →'    },
+  // Alimentos / Consumo
+  { brand: 'Cerveza ModelÄ™',  copy: 'La cerveza más vendida de México. Por algo será.',                        cta: 'Encontrar punto →'    },
+  { brand: 'MASECÁ™',          copy: 'La tortilla que conoces. Desde siempre. Sin cambios planeados.',           cta: 'Ver recetas →'        },
+  { brand: 'BïMBO™',           copy: 'Pan fresco. Todos los días. El camión llegará.',                          cta: 'Ver productos →'      },
+  { brand: 'GrüPO LALA™',      copy: 'Leche, yogurt, queso. Productos lácteos. En ese orden.',                  cta: 'Ver catálogo →'       },
+  // Gwen universe
+  { brand: 'Gwen Seguros™',    copy: 'Protección contra la incertidumbre. Cobertura: limitada a lo evitable.',  cta: 'Conocer planes →'     },
+  { brand: 'GwenPay™',         copy: 'Pagos digitales verificados por una IA que hace su mejor esfuerzo.',      cta: 'Registrarse →'        },
+  { brand: 'GwenCloud™',       copy: 'Almacenamiento en la nube. La nube de Gwen. Es una nube normal.',         cta: 'Prueba gratis →'      },
+  { brand: 'Gwen Premium™',    copy: 'Noticias sin sátira. Servicio disponible en un futuro cercano.',          cta: 'Suscribirse →'        },
 ];
 
 const WEATHER_CODES = {
@@ -323,13 +352,25 @@ function renderAd(container, ad) {
 }
 
 function initAds() {
-  const container = document.getElementById('ad-content');
-  let idx = 0;
-  renderAd(container, ADS[idx]);
-  setInterval(() => {
-    idx = (idx + 1) % ADS.length;
-    renderAd(container, ADS[idx]);
-  }, 12000);
+  // Each slot gets a different starting offset so they don't all show the same ad
+  const slots = [
+    { id: 'ad-content',           offset: 0  },
+    { id: 'ad-mid-content',       offset: 7  },
+    { id: 'sidebar-ad-content',   offset: 14 },
+    { id: 'ad-pre-footer-content',offset: 21 },
+    { id: 'ad-footer-top-content',offset: 28 },
+  ];
+
+  slots.forEach(({ id, offset }) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    let idx = offset % ADS.length;
+    renderAd(el, ADS[idx]);
+    setInterval(() => {
+      idx = (idx + 1) % ADS.length;
+      renderAd(el, ADS[idx]);
+    }, 10000 + offset * 400); // stagger rotation so they don't all flip at once
+  });
 }
 
 /* ============================================================
@@ -542,8 +583,8 @@ function renderGrid(articles, containerId) {
   let html = '';
   items.forEach((a, i) => {
     html += articleCardHtml(a);
-    if ((i + 1) % 4 === 0 && i < items.length - 1) {
-      html += adCardHtml(ADS[(Math.floor(i / 4)) % ADS.length]);
+    if ((i + 1) % 3 === 0 && i < items.length - 1) {
+      html += adCardHtml(ADS[(Math.floor(i / 3) + 3) % ADS.length]);
     }
   });
   grid.innerHTML = html;
