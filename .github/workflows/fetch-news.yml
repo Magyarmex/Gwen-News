@@ -39,4 +39,5 @@ jobs:
           git config user.email "gwen@gwennews.mx"
           git add news.json
           git diff --staged --quiet || git commit -m "chore: update news.json [skip ci]"
+          git pull --rebase origin main
           git push
