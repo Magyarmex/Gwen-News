@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gwen News — Noticias verificadas por una IA que hace su mejor esfuerzo</title>
+  <meta name="description" content="Gwen News: periódico satírico. Los titulares son reales. Los comentarios son de Gwen.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&family=UnifrakturMaguntia&family=Source+Serif+4:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="satire-banner">
+    ⚠ SÁTIRA — Este sitio es un periódico ficticio con fines cómicos y satíricos. Los titulares son reales. Los comentarios son inventados. ⚠
+  </div>
+
+  <header class="masthead">
+    <div class="masthead-meta">
+      <span class="masthead-date" id="date-display"></span>
+      <span class="masthead-divider">·</span>
+      <span class="masthead-edition">Edición Nº <span id="edition-num"></span></span>
+      <span class="masthead-divider">·</span>
+      <span class="masthead-price">Precio: La cordura</span>
+    </div>
+
+    <div class="masthead-title-row">
+      <h1 class="masthead-title">Gwen News</h1>
+    </div>
+
+    <p class="masthead-tagline">&ldquo;Noticias verificadas por una IA que hace su mejor esfuerzo&rdquo;</p>
+
+    <nav class="categories-nav" id="categories-nav">
+      <a href="#" data-cat="all" class="active">Inicio</a>
+      <a href="#" data-cat="México">México</a>
+      <a href="#" data-cat="Mundo">Mundo</a>
+      <a href="#" data-cat="Política">Política</a>
+      <a href="#" data-cat="Tech">Tech</a>
+      <a href="#" data-cat="Entretenimiento">Entretenimiento</a>
+      <a href="#" data-cat="Economía">Economía</a>
+    </nav>
+  </header>
+
+  <main class="main-content">
+
+    <section class="featured-section" id="featured-section">
+      <div class="loading-state">
+        <p>Gwen está procesando el estado de la realidad&hellip;</p>
+      </div>
+    </section>
+
+    <div class="content-layout">
+      <section class="articles-section">
+        <div class="section-heading">
+          <span class="section-label" id="section-label">Últimas Noticias</span>
+        </div>
+        <div class="articles-grid" id="articles-grid">
+        </div>
+      </section>
+
+      <aside class="sidebar">
+
+        <div class="widget bias-meter-widget">
+          <h3 class="widget-title">Medidor de Sesgo™</h3>
+          <p class="widget-subtitle">Calibrado por Gwen con una precisión del 0%</p>
+          <div class="bias-scale-container">
+            <div class="bias-scale">
+              <div class="bias-needle" id="bias-needle"></div>
+            </div>
+            <div class="bias-labels">
+              <span>Izquierda</span>
+              <span>Centro</span>
+              <span>Derecha</span>
+            </div>
+          </div>
+          <p class="bias-verdict" id="bias-verdict">Analizando…</p>
+        </div>
+
+        <div class="widget gwen-editorial-widget">
+          <h3 class="widget-title">Editorial de Gwen</h3>
+          <p class="widget-editorial" id="gwen-editorial">Cargando perspectiva editorial…</p>
+        </div>
+
+        <div class="widget most-read-widget">
+          <h3 class="widget-title">Lo Más Leído</h3>
+          <ol class="most-read-list" id="most-read-list">
+            <li class="most-read-loading">Cargando…</li>
+          </ol>
+        </div>
+
+        <div class="widget disclaimer-widget">
+          <h3 class="widget-title">Aviso Legal</h3>
+          <p class="disclaimer-text">
+            Gwen News es una publicación satírica. Cualquier parecido con periodismo real es
+            coincidental y ligeramente preocupante.
+          </p>
+          <p class="disclaimer-text" style="margin-top: 8px;">
+            Los titulares provienen de fuentes reales. Gwen no se hace responsable de la realidad.
+          </p>
+        </div>
+
+      </aside>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-rule"></div>
+    <div class="footer-inner">
+      <p class="footer-title">GWEN NEWS</p>
+      <p class="footer-satire">⚠ SÁTIRA: Periódico ficticio con fines cómicos</p>
+      <p class="footer-credits">
+        Los titulares son reales &middot; Los comentarios son de Gwen &middot; La responsabilidad es de nadie
+      </p>
+      <p class="footer-copy">&copy; 2026 Gwen News &mdash; Todos los derechos reservados, especialmente el de equivocarse.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
