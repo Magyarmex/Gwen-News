@@ -15,19 +15,20 @@ from datetime import datetime, timezone
 
 FEEDS = [
     # General / World
-    {"url": "https://feeds.bbci.co.uk/mundo/rss.xml",                             "source": "BBC Mundo",        "cat": "Mundo"},
-    {"url": "https://feeds.bbci.co.uk/mundo/noticias/america_latina/rss.xml",     "source": "BBC Mundo",        "cat": "México"},
-    {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",   "source": "El País",          "cat": "Mundo"},
-    {"url": "https://cnnespanol.cnn.com/feed/",                                    "source": "CNN en Español",   "cat": "Mundo"},
-    {"url": "https://www.infobae.com/feeds/rss/",                                  "source": "Infobae",          "cat": "México"},
-    {"url": "https://www.jornada.com.mx/rss/ultimas.xml",                          "source": "La Jornada",       "cat": "México"},
+    {"url": "https://feeds.bbci.co.uk/mundo/rss.xml",                           "source": "BBC Mundo",        "cat": "Mundo"},
+    {"url": "https://feeds.bbci.co.uk/mundo/america_latina/rss.xml",            "source": "BBC Mundo",        "cat": "México"},
+    {"url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "source": "El País",          "cat": "Mundo"},
+    # Mexico
+    {"url": "https://aristeguinoticias.com/feed/",                               "source": "Aristegui Noticias","cat": "México"},
+    {"url": "https://www.proceso.com.mx/rss",                                    "source": "Proceso",          "cat": "México"},
     # Science / Tech
-    {"url": "https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml",        "source": "BBC Mundo",        "cat": "Ciencia"},
+    {"url": "https://feeds.bbci.co.uk/mundo/ciencia_y_tecnologia/rss.xml",      "source": "BBC Mundo",        "cat": "Ciencia"},
     # Economy
-    {"url": "https://www.elfinanciero.com.mx/rss/todas.xml",                       "source": "El Financiero",    "cat": "Economía"},
+    {"url": "https://www.elfinanciero.com.mx/rss/todas.xml",                     "source": "El Financiero",    "cat": "Economía"},
+    {"url": "https://feeds.bbci.co.uk/mundo/economia/rss.xml",                   "source": "BBC Mundo",        "cat": "Economía"},
     # Sports
-    {"url": "https://www.marca.com/rss/portada.xml",                               "source": "MARCA",            "cat": "Deportes"},
-    {"url": "https://e00-marca.uecdn.es/rss/futbol/mexico.xml",                    "source": "MARCA México",     "cat": "Deportes"},
+    {"url": "https://www.marca.com/rss/portada.xml",                             "source": "MARCA",            "cat": "Deportes"},
+    {"url": "https://e00-marca.uecdn.es/rss/futbol/mexico.xml",                  "source": "MARCA México",     "cat": "Deportes"},
 ]
 
 # ──────────────────────────────────────────────
