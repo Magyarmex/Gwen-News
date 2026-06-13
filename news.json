@@ -1,7 +1,268 @@
 {
-  "generated": "2026-06-13T11:05:51.439995+00:00",
-  "count": 168,
+  "generated": "2026-06-13T13:16:23.134960+00:00",
+  "count": 167,
   "articles": [
+    {
+      "title": "Anthropic suspende el acceso a sus modelos más avanzados de inteligencia artificial por el veto de EE UU a los extranjeros",
+      "link": "https://elpais.com/economia/2026-06-13/anthropic-suspende-el-acceso-a-sus-modelos-mas-avanzados-de-inteligencia-artificial-por-el-veto-de-ee-uu-a-los-extranjeros.html",
+      "description": "Washington esgrime razones de seguridad nacional para justificar las restricciones",
+      "pubDate": "2026-06-13T13:06:20Z",
+      "source": "El País",
+      "category": "Tech",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/SCAZXISFKZBZZEUPMOZHBUVV7M.jpg?auth=ae8245eaeebfe09dc7d2a6e2da6ab3f2bb19dfec6c6faf97f8bb1ba80ec5710f"
+    },
+    {
+      "title": "La clasificación del GP de Barcelona de F1, en directo",
+      "link": "https://www.marca.com/motor/formula1/2026/06/13/05-0501-20260613-7-2.html",
+      "description": "Sigue en directo la clasificación del Gran Premio de Barcelona-Catalunya",
+      "pubDate": "2026-06-13T13:01:06Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Rusia cerró el grifo y Europa miró al sur: los dos faraónicos gasoductos africanos que quieren cambiar el mapa energético",
+      "link": "https://www.xataka.com/energia/rusia-cerro-grifo-europa-miro-al-sur-asi-dos-faraonicos-gasoductos-africanos-que-quieren-cambiar-mapa-energetico-mundial",
+      "description": "La invasión de Ucrania en 2022 dinamitó los cimientos de la seguridad energética europea. Antes del conflicto, Rusia suministraba entre el 40% y el 45% de las importaciones de gas natural de la Unión Europea, inyectando más de 155.000 millones de metros cúbico",
+      "pubDate": "2026-06-13T13:00:17Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/a3d2e9/africa-gas-/1024_2000.jpeg"
+    },
+    {
+      "title": "Una película y dos series geniales para ver en Netflix este fin de semana",
+      "link": "https://hipertextual.com/cine-television/una-pelicula-y-dos-series-geniales-para-ver-en-netflix-este-fin-de-semana/",
+      "description": "Hay un antes y un después de la llegada de Netflix al mundo del entretenimiento. En especial, porque la pionera en el auge de los servicios por suscripción tiene varias cosas que celebrar. En especial, ahora que se ha convertido en el gigante de las plataforma",
+      "pubDate": "2026-06-13T13:00:00Z",
+      "source": "Hipertextual",
+      "category": "Entretenimiento",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Tres-de-fin-de-semana.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Brasil vs. Marruecos EN VIVO: ¿A qué hora y dónde ver el debut de la ‘Canarinha’ en el Mundial 2026 HOY?",
+      "link": "https://www.elfinanciero.com.mx/deportes/mundial-2026/2026/06/13/brasil-vs-marruecos-en-vivo-resultado-del-partido-de-fase-de-grupos/",
+      "description": "Brasil y Marruecos debutan en el Mundial 2026 con realidades distintas. La 'Canarinha' estrena proyecto con Carlo Ancelotti, mientras los africanos llegan como campeones continentales y con importantes ausencias por lesión.",
+      "pubDate": "2026-06-13T13:00:00Z",
+      "source": "El Financiero",
+      "category": "Deportes",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/P_NjMMKn165aCo791raMIpBaKi4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FSNF6MCKMNCPBPRHWDGSE3XY5A.jpeg"
+    },
+    {
+      "title": "Fueron ‘compas’ de Los Zetas y el Cártel del Golfo: 4 exgobernadores que fueron vinculados con el narco",
+      "link": "https://www.elfinanciero.com.mx/nacional/2026/06/13/fueron-compas-de-los-zetas-y-el-cartel-del-golfo-4-exgobernadores-que-fueron-vinculados-con-el-narco/",
+      "description": "En las últimas tres décadas, al menos cuatro exgobernadores han sido señalados por presuntos vínculos con el crimen organizado en investigaciones realizadas en México y Estados Unidos; estos son los casos.",
+      "pubDate": "2026-06-13T13:00:00Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Ly8MEfFFcFgoWnp1pcyDu3x6bC0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/V4GDQFFMDBFDDEM7CJ7I45F2HA.jpeg"
+    },
+    {
+      "title": "El futuro de la Selección Mexicana: Estos son sus rivales si califica 1ero., 2do o 3ero de grupo",
+      "link": "https://www.elfinanciero.com.mx/deportes/mundial-2026/2026/06/13/el-futuro-de-la-seleccion-mexicana-estos-son-sus-rivales-si-califica-1ero-2do-o-3ero-de-grupo/",
+      "description": "Estos son los escenarios posibles para la Selección Mexicana en el Mundial 2026 en caso de que clasifique a la ronda de 16avos de final.",
+      "pubDate": "2026-06-13T13:00:00Z",
+      "source": "El Financiero",
+      "category": "Política",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/00Wtvv5SzhDSCTWvRBOwc0v5P0U=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HNPLHJEWERCCLCFG33YFNUTYZM.jpeg"
+    },
+    {
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pakistán espera que la firma del acuerdo de paz entre EE UU e Irán se produzca en las próximas 24 horas",
+      "link": "https://elpais.com/internacional/2026-06-13/ultima-hora-de-la-guerra-de-estados-unidos-e-israel-contra-iran-en-directo.html",
+      "description": "Israel emite una orden de evacuación para 20 localidades en el sur de Líbano y reanuda los bombardeos | EE UU asegura que Irán ha lanzado ataques con drones en el estrecho de Ormuz",
+      "pubDate": "2026-06-13T12:58:30Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/4TAIAK7J7NFZZALYQUK3AA2VCQ.JPG?auth=180480d80e7d2f7193837bb1429de6bbd7c58a768f729827c2b52606dee6c04e"
+    },
+    {
+      "title": "Zverev y su triunfo en Roland Garros: \"Cuando perdió Sinner, no pegué ojo esa noche; de repente yo era el gran favorito\"",
+      "link": "https://www.marca.com/tenis/2026/06/13/zverev-triunfo-roland-garros-perdio-sinner-pegue-ojo-noche-repente-gran-favorito.html",
+      "description": "El tenista alemán reflexiona en Sky Sports sobre lo que vivió los días previos a conquistar su primer grand slam",
+      "pubDate": "2026-06-13T12:49:02Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Francia-Senegal y una de las mayores sorpresas en la historia de los Mundiales",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/13/senegal-quiere-volver-bailar-francia-nadie-creia-salvo-nosotros.html",
+      "description": "Ambas selecciones vuelven a verse las caras en el primer partido con el triunfo histórico de fondo de los africanos en 2002 en Seúl",
+      "pubDate": "2026-06-13T12:40:30Z",
+      "source": "MARCA",
+      "category": "Política",
+      "thumbnail": ""
+    },
+    {
+      "title": "Brutal cambio físico de la influencer RoRo no exento de polémica: \"Muy orgullosa de lo conseguido\"",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/06/13/brutal-cambio-fisico-influencer-roro-exento-polemica-orgullosa-hemos-conseguido.html",
+      "description": "La influencer&nbsp;ha cambiado muchos de sus hábitos con la consiguiente transformación física",
+      "pubDate": "2026-06-13T12:39:15Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Audi cree que la medición de la FIA \"es correcta\", pero plantea otra vía para el ADUO",
+      "link": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/13/audi-cree-medicion-fia-correcta-plantea-via.html",
+      "description": "Mattia Binotto cree que la base del programa de actualizaciones podría ampliarse a otros aspectos de los coches como el chasis",
+      "pubDate": "2026-06-13T12:32:38Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "El mayor legado de la Revolución Industrial no son las fábricas: es hacer tres comidas cada día",
+      "link": "https://www.xataka.com/medicina-y-salud/creiamos-que-comer-tres-veces-al-dia-era-ley-biologica-realidad-remanente-revolucion-industrial",
+      "description": "El patrón que seguimos hoy día de desayuno, comida y cena está tan arraigado en nuestra rutina diaria que solemos asumirlo como una necesidad fisiológica humana. Sin embargo, ni la biología evolutiva ni la nutrición clínica dictan una regla universal sobre cuá",
+      "pubDate": "2026-06-13T12:30:16Z",
+      "source": "Xataka",
+      "category": "Ciencia",
+      "thumbnail": "https://i.blogs.es/a05f74/comer/1024_2000.jpeg"
+    },
+    {
+      "title": "Paula Blasi sigue haciendo historia: asalta el Tourmalet y deja sentenciado el Tour de los Pirineos",
+      "link": "https://www.marca.com/ciclismo/2026/06/13/paula-blasi-sigue-haciendo-historia-asalta-tourmalet-deja-sentenciado-tour-pirineos.html",
+      "description": "La catalana gana la etapa reina en solitario, se viste de líder y apunta al podio final antes de la última jornada",
+      "pubDate": "2026-06-13T12:27:21Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "La defensa de Jonathan Andic minimiza sus mensajes sobre “matar al padre” y los enmarca en la terapia familiar",
+      "link": "https://elpais.com/espana/catalunya/2026-06-13/la-defensa-de-jonathan-andic-minimiza-sus-mensajes-sobre-matar-al-padre-y-los-enmarca-en-la-terapia-familiar.html",
+      "description": "Los abogados aseguran que los textos, incluidos en el escrito de la Fiscalía como prueba de su mala relación, tienen “un tono positivo” puestos en contexto",
+      "pubDate": "2026-06-13T12:24:44Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XMR4CI2MLFBFVECXCBYO3VT26Y.jpg?auth=ac98db66a0eeab9bc3c66481a8119eef161fe5b6aed7441783aa728a683eeaee"
+    },
+    {
+      "title": "La fiebre por España llega a Asia",
+      "link": "https://www.marca.com/futbol/seleccion/2026/06/13/fiebre-espana-llega-asia.html",
+      "description": "Varias marcas referentes en China y la India apuestan por la selección.",
+      "pubDate": "2026-06-13T12:23:23Z",
+      "source": "MARCA",
+      "category": "Política",
+      "thumbnail": ""
+    },
+    {
+      "title": "¡Qué locura de Pepe! Golazo de la leyenda blanca en un Bernabéu rendido a sus pies",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/06/13/locura-pepe-golazo-leyenda-blanca-bernabeu-rendido-pies-video.html",
+      "description": "",
+      "pubDate": "2026-06-13T12:17:41Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "¿Conoces las camisetas del Mundial? ¡Ponte a prueba con este quiz!",
+      "link": "https://www.bbc.com/mundo/articles/c4gy775wkxjo?at_medium=RSS&at_campaign=rss",
+      "description": "¿Qué tan bien conoces las nuevas camisetas que participan en este Mundial? ¡Ponte a prueba con este quiz y descubre si eres capaz de identificar todas!",
+      "pubDate": "2026-06-13T12:14:10Z",
+      "source": "BBC Mundo",
+      "category": "Deportes",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b37/live/0030d8f0-6418-11f1-b1db-af71d47507d6.png"
+    },
+    {
+      "title": "La \"traición\" de Demichelis",
+      "link": "https://www.marca.com/futbol/mallorca/2026/06/13/traicion-demichelis.html",
+      "description": "El Mallorca se tuvo que enterar de su marcha al Leipzig por Radio Marca Baleares, después de descender y ser renovado por el club",
+      "pubDate": "2026-06-13T12:05:38Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Creíamos que un máster era una garantía de encontrar trabajo. Está empezando a servir exactamente de nada",
+      "link": "https://www.xataka.com/empresas-y-economia/creiamos-que-master-era-garantia-encontrar-trabajo-esta-empezando-a-servir-exactamente-nada",
+      "description": "Cuando tienes estudios superiores y no encuentras trabajo o quieres ascender, históricamente una buena idea siempre ha sido volver a estudiar. Hacerse un máster era una inversión casi segura frente a la incertidumbre porque permitía especializarse y encontrar ",
+      "pubDate": "2026-06-13T12:00:17Z",
+      "source": "Xataka",
+      "category": "Economía",
+      "thumbnail": "https://i.blogs.es/93fc04/pexels-irene-vega-2151814552-37761864/1024_2000.jpeg"
+    },
+    {
+      "title": "5 películas claves para entender ‘El día de la revelación’ de Steven Spielberg",
+      "link": "https://hipertextual.com/cine-television/5-peliculas-claves-para-entender-el-dia-de-la-revelacion-de-steven-spielberg/",
+      "description": "El día de la revelación marca el regreso triunfal de Steven Spielberg al género de la ciencia ficción. También, al misterio alienígena. Un tema que ha obsesionado al director durante buena parte de su carrera. Pero además, marca un hito curioso. Es la cuarta p",
+      "pubDate": "2026-06-13T12:00:00Z",
+      "source": "Hipertextual",
+      "category": "Entretenimiento",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/El-dia-de-la-revelacion.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Lamine, impacto mundial",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/13/lamine-yamal-aduena-times-square.html",
+      "description": "El crack español sacude hasta tres pantallas de la famosa plaza de Nueva York, una demostración de fuerza comercial pocas veces vista",
+      "pubDate": "2026-06-13T11:59:17Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "El K4 500 femenino encabeza con un oro el festín matinal de España en el Europeo",
+      "link": "https://www.marca.com/otros-deportes/2026/06/13/k4-500-femenino-encabeza-oro-festin-matinal-espana-europeo.html",
+      "description": "Sara Ouzande, Lucía Val, Daniela García y Bárbara Pardo se erigen campeonas continentales, mientras que el K4 500 masculino y&nbsp;C1 200 se cuelgan la plata en esta cita europea&nbsp;",
+      "pubDate": "2026-06-13T11:58:43Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ione Belarra anuncia que encabezará la candidatura de Podemos a la Comunidad de Madrid",
+      "link": "https://elpais.com/espana/2026-06-13/ione-belarra-anuncia-que-encabezara-la-candidatura-de-podemos-a-la-comunidad-de-madrid.html",
+      "description": "La líder del partido se propone ante la militancia para dar el paso como hizo Pablo Iglesias en 2021",
+      "pubDate": "2026-06-13T11:53:30Z",
+      "source": "El País",
+      "category": "Política",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3L2JZACBEFCRFE755B543D3NLE.jpg?auth=d008be3b5f18030a00d22d81573a7d0375565fda875c7374dce68b23e1f2ac29"
+    },
+    {
+      "title": "Alarma Paul Seixas",
+      "link": "https://www.marca.com/ciclismo/2026/06/13/alarma-seixas-frances-suelo-pierde-tres-minutos.html",
+      "description": "El lionés sufrió un accidente tras la reanudación de la séptima etapa de la ronda francesa",
+      "pubDate": "2026-06-13T11:52:35Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "El Bernabéu se vuelve loco con Pepe en plena oleada de rumores",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/06/13/pepe-vuelve-abrazarse-bernabeu-rendido-leyendas.html",
+      "description": "El coliseo blanco albergó otra edición del Corazón Classic Match, que se saldó un 2-1 favorable a los madridistas gracias a los goles del portugués y Barral",
+      "pubDate": "2026-06-13T11:48:44Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Más opciones de medalla: el esquí de montaña seguirá siendo olímpico y entra la prueba individual",
+      "link": "https://www.marca.com/deportes-aventura/2026/06/13/opciones-medalla-esqui-montana-seguira-siendo-olimpico-entra-prueba-individual.html",
+      "description": "Estará en&nbsp;Los Alpes Franceses 2030 e introduce la modalidad individual al tiempo que mantiene el sprint y los relevos.",
+      "pubDate": "2026-06-13T11:46:19Z",
+      "source": "MARCA",
+      "category": "Cultura",
+      "thumbnail": ""
+    },
+    {
+      "title": "El \"hombre de hielo\" lleva 5.300 años congelado. En su interior todavía hay vida",
+      "link": "https://www.xataka.com/magnet/hombre-hielo-lleva-5-300-anos-congelado-su-interior-todavia-hay-vida",
+      "description": "En 1991, dos senderistas alemanes se encontraron con un cadáver en plenos Alpes, más concretamente en los Alpes de Ötztal. En un principio pensaron que sería un cuerpo reciente, pero nada más lejos de la realidad: Ötzi, que toma su nombre del lugar donde se en",
+      "pubDate": "2026-06-13T11:30:16Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/b3e71b/oziiii/1024_2000.jpeg"
+    },
+    {
+      "title": "En 1950, un millonario se subió a un Bentley y firmó una de las mayores hazañas de las 24 horas de Le Mans: completarlas solo",
+      "link": "https://www.xataka.com/movilidad/1950-millonario-se-subio-a-bentley-completo-solito-24-horas-le-mans-objetivo-que-nadie-tocara-su-coche",
+      "description": "11 de junio de 1955, el circuito de La Sarthe firma el día más negro de su historia.&nbsp; Juan Manuel Fangio y Mike Hawthorn disputan la cabeza de la carrera. Han pasado unas horas desde la salida cuando Hawthorn, que acaba de doblar al Austin de Lance Mackli",
+      "pubDate": "2026-06-13T11:00:17Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/3a1269/24-horas-le-mans-bentley-millonario/1024_2000.jpeg"
+    },
     {
       "title": "Esta película ganadora del Oscar ya está disponible en streaming y deberías verla cuanto antes",
       "link": "https://hipertextual.com/cine-television/esta-pelicula-ganadora-del-oscar-ya-esta-disponible-en-streaming-y-deberias-verla-cuanto-antes/",
@@ -10,15 +271,6 @@
       "source": "Hipertextual",
       "category": "Entretenimiento",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Premios-Oscar-2026-Lista-de-ganadores.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Sinner, entre los jugadores que podrían boicotear el dobles mixto del US Open",
-      "link": "https://www.marca.com/tenis/us-open/2026/06/13/sinner-jugadores-boicotear-dobles-mixto-us-open.html",
-      "description": "Los jugadores de individuales podrían no participar para aumentar la presión y que los organizadores aumenten la bolsa de premios",
-      "pubDate": "2026-06-13T10:36:19Z",
-      "source": "MARCA",
-      "category": "Economía",
-      "thumbnail": ""
     },
     {
       "title": "El biberón no es solo un trozo de plástico: es el resultado de miles de años de ensayo, error y la teoría germinal de Pasteur",
@@ -48,33 +300,6 @@
       "thumbnail": "https://i.blogs.es/e5a555/caloool/1024_2000.jpeg"
     },
     {
-      "title": "El Bernabéu se vuelve loco con Pepe en plena oleada de rumores",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/06/13/bernabeu-vuelve-loco-pepe-plena-oleada-rumores.html",
-      "description": "El excentral portugués fue uno de los jugadores más ovacionados en el Corazón Classic Match ante el Inter Legends, en una jornada solidaria marcada por la nostalgia y el recuerdo de grandes leyendas del madridismo",
-      "pubDate": "2026-06-13T10:15:43Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Martín Anselmi, nuevo entrenador del Elche",
-      "link": "https://www.marca.com/futbol/elche/2026/06/13/martin-anselmi-nuevo-entrenador-elche.html",
-      "description": "El Elche CF ha anunciado la incorporación de Martín Anselmi como nuevo entrenador del primer equipo para la temporada 2026/27. El técnico argentino firma por una campaña, con una segunda opcional vinculada al cumplimiento de objetivos, y será el encargado de l",
-      "pubDate": "2026-06-13T10:12:47Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
-    },
-    {
-      "title": "Colocan a Alonso en la órbita de Gucci Alpine pero Aston Martin lo niega todo",
-      "link": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/13/colocan-alonso-orbita-gucci-alpine.html",
-      "description": "MARCA puede afirmar que Aston Martin niega toda posibilidad de un nuevo desembarco en el equipo con corazón francés",
-      "pubDate": "2026-06-13T10:09:16Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
       "title": "La Ley de Bienestar Animal es clara sobre si los perros pueden entrar en los bares. Y también sobre la multa por saltarse la norma",
       "link": "https://www.xataka.com/magnet/pregunta-mascotas-pueden-entrar-bares-restaurantes-ley-bienestar-animal-clara",
       "description": "A los humanos (lo sabemos desde hace poco) nos gusta rodearnos de mascotas desde mucho antes de que empezáramos a cultivar la tierra o la invención de la escritura. Sin embargo, nunca habían jugado un papel tan relevante en nuestros hogares. La primera estadís",
@@ -102,33 +327,6 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/1BsYvuFGOE2AcykQ7KS2KIsxWks=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2KRIHTZPYJDLJBUJIX3IW3GUGE.jpg"
     },
     {
-      "title": "Theo Hernández: \"Te quedas con esa espina de que no lo di todo en España\"",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/13/theo-hernandez-mundial-maximo-digan-mejor-cinco-champions.html",
-      "description": "El lateral de Francia analiza el Mundial de MARCA y espera volver a jugar en España tras su aventura en Arabia",
-      "pubDate": "2026-06-13T09:47:17Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "\"Si el Villarreal prefiere dar tres años a un entrenador nuevo y no dos al que ya tenía, lo acepto pero no lo comparto\"",
-      "link": "https://www.marca.com/futbol/2026/06/13/marcelino-he-tenido-ofertas-entrenar-hay-selectivos.html",
-      "description": "Finalizada su segunda etapa en el Villarreal, el entrenador asturiano se toma con calma su vuelta a los banquillos • Salvo un cambio inesperado en los clubes con aspiraciones de la Liga ve su futuro fuera de España",
-      "pubDate": "2026-06-13T09:46:57Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Cancelo recuerda el accidente de tráfico que cambió su vida: \"Aún recuerdo el último grito de mi madre\"",
-      "link": "https://www.marca.com/futbol/barcelona/2026/06/13/cancelo-aun-recuerdo-ultimo-grito-mi-madre.html",
-      "description": "Emotiva entrevista del defensa azulgrana",
-      "pubDate": "2026-06-13T09:36:37Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
       "title": "China sabe que va a tener menos niños que nunca, así que ha activado su plan B: convertir al jubilado en industria millonaria",
       "link": "https://www.xataka.com/magnet/china-sabe-que-va-a-tener-ninos-que-nunca-asi-que-ha-activado-su-plan-b-convertir-al-jubilado-industria-millonaria",
       "description": "En Japón existe una curiosa tradición empresarial: algunas compañías siguen contratando a jubilados para que continúen trabajando después de retirarse oficialmente. Lo hacen porque la escasez de mano de obra y el envejecimiento de la población han convertido a",
@@ -136,51 +334,6 @@
       "source": "Xataka",
       "category": "Tech",
       "thumbnail": "https://i.blogs.es/6ef5c4/5484215983_f9bc8be067_k/1024_2000.jpeg"
-    },
-    {
-      "title": "Hallan un cadáver en un coche aparcado frente al lugar de entrenamiento de Irán",
-      "link": "https://www.marca.com/tiramillas/sucesos/2026/06/13/investigan-hallazgo-cadaver-coche-aparcado-frente-lugar-entrenamiento-iran-mundial.html",
-      "description": "La selección asiática está concentrada en la ciudad de Tijuana",
-      "pubDate": "2026-06-13T09:28:06Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
-    },
-    {
-      "title": "Nigeria 'toma' la velocidad de las NCAA: Ogazi y Ajayi hacen historia",
-      "link": "https://www.marca.com/atletismo/2026/06/13/nigeria-toma-velocidad-ncaa-ogazi-ajayi-historia.html",
-      "description": "Samuel se impone en los 400 metros con&nbsp;43.38, cuarto mejor atleta de siempre, y&nbsp;Kanyinsola se lleva el título en los 100 con unos ligeramente ventosos 9.72",
-      "pubDate": "2026-06-13T09:25:55Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Libres 3 del GP de Barcelona, en directo",
-      "link": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/13/6a2d1e4ccf1a9beb61887ae6.html",
-      "description": "Sigue en vivo y en directo los entrenamientos libres del GP de Barcelona",
-      "pubDate": "2026-06-13T09:25:20Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "El PSG piensa en Ferran",
-      "link": "https://www.marca.com/futbol/barcelona/2026/06/13/psg-piensa-ferran.html",
-      "description": "Podrían fichar al azulgrana si sale Barcola, según la prensa francesa",
-      "pubDate": "2026-06-13T09:04:53Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "ADUO, el término más polémico de la F1... y que ayudará a Aston",
-      "link": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/13/aduo-termino-polemico-f1-ayudara-aston-motor-quedar-ridiculo.html",
-      "description": "La polémica con las ayudas adicionales a los equipos sigue viva y sólo Mercedes parece conforme con las primeras mediciones de la FIA",
-      "pubDate": "2026-06-13T09:03:43Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
     },
     {
       "title": "Dos amigos vendieron su empresa por 1.500 millones de dólares y volvieron a comprarla por 450 millones: hoy vale 150.000 millones",
@@ -199,24 +352,6 @@
       "source": "Hipertextual",
       "category": "Tech",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/01/juez_demanda_inteligencia_artificial.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "La última salida de tono de Ibrahimovic después de que un polémico streamer desvele su gran favorito al Mundial",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/13/ultima-salida-tono-ibra-despues-polemico-streamer-desvele-gran-favorito-mundial-pleno.html",
-      "description": "El sueco reaccionó en pleno directo durante el Estados Unidos-Paraguay después de que el creador de contenido eligiera a Cristiano Ronaldo",
-      "pubDate": "2026-06-13T08:57:17Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Tsegay admite que su positivo fue por un proceso de fertilidad... y que está embarazada",
-      "link": "https://www.marca.com/atletismo/2026/06/13/tsegay-admite-positivo-proceso-fertilidad-embarazada.html",
-      "description": "La atleta, suspendida cuatro meses tras este control irregular, asegura que \"la gestación progresa bien y espero volver a la competición tan pronto como nazca mi bebé\"",
-      "pubDate": "2026-06-13T08:40:18Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
     },
     {
       "title": "Liquidación de teles en el outlet online de El Corte Inglés con todos estos modelos Samsung, Sony, LG y Haier",
@@ -264,24 +399,6 @@
       "thumbnail": "https://i.blogs.es/fd9b48/nguy-n-hi-p-fwzr9v6oglk-unsplash/1024_2000.jpeg"
     },
     {
-      "title": "Estados Unidos pulsa el botón del miedo con Claude Mythos y Fable 5. Es un apagón con un claro beneficiado: China",
-      "link": "https://www.xataka.com/servicios/estados-unidos-pulsa-boton-miedo-claude-mythos-fable-5-apagon-claro-beneficiado-china",
-      "description": "Estados Unidos ha cortado el grifo del modelo de IA más potente, caro y avanzado jamás lanzado por Anthropic, pero lo ha hecho en un movimiento desconcertante y con letra pequeña.&nbsp; Ayer 12 de junio la Casa Blanca ordenó a Anthropic apagar inmediatamente F",
-      "pubDate": "2026-06-13T07:16:17Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/c899f6/claude-montaje/1024_2000.jpeg"
-    },
-    {
-      "title": "Los \"johatsu\" japoneses, cuando la vida es tan insoportable que borras tu rastro de la Tierra",
-      "link": "https://www.xataka.com/magnet/johatsu-japoneses-cuando-vida-insoportable-que-borras-tu-rastro-tierra-2",
-      "description": "Cuando los occidentales observamos al pueblo japonés, sus hábitos y soluciones culturales que chocan con nuestra forma de vida, solemos tirar de una explicación: la vergüenza. Si el cristianismo se ha basado en la gestión de la culpa, oriente tira de la vergüe",
-      "pubDate": "2026-06-13T07:00:17Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/184740/japon-johatsu/1024_2000.jpeg"
-    },
-    {
       "title": "El pasado japonés de este pueblo de Sevilla donde cientos de vecinos se apellidan Japón",
       "link": "https://hipertextual.com/curiosidades/japoneses-en-sevilla-hasekura-tsunenaga-coria-del-rio/",
       "description": "La historia se construye como un puzle. A base de piezas que van encajando. Testimonios de la época, documentos encontrados, restos de edificios, objetos, monumentos y demás elementos artísticos o arquitectónicos que han dejado huella hasta nuestros días. Y, e",
@@ -289,6 +406,15 @@
       "source": "Hipertextual",
       "category": "Tech",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Hasekura-Tsunenaga-Monumento-Coria-del-Rio.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Pakistán anuncia \"texto definitivo\" del acuerdo Irán-EE.UU. - DW",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnJkREZQSkF3cTloU1ZscHhCd2pBeU5HU0xEWDktVnBFelJtbEQ3ZDc2UEx2Z1FwTzBhc19BblVpdEZwaThvZ215a1pweURtcGxDbFVlSl9lcG1QU0JQQXpHajlRSHFPRFpLQnpuR3E0Ulg0OXdPOUhwZEVfUEFNcEotXzdIcTNJTXBFNnVFME0za05ZQmtnMzJ5QnQ2MFpMNXUtZlVJVFLSAagBQVVfeXFMTUpLNWp0QTZsWUdXLVpXeEwyZEtHOERoc204Nlg3UWhtMkQ4c2N3VVYzQ0NWbUxQR2F4WDFGWTFRTk9lZm9tSDV4WlFkeUdnVmNaS1dKNmVONmhCOUlKbnFGSElqcTRlZGdFOXA2NEZKaWVTWm9MZ1ZTRTNmdW9uWGlObVk2UF9rNHpLNmJ3ckllTUNjdU5rQmt3UFJpRHNBc09Ebjh2czly?oc=5",
+      "description": "Pakistán anuncia \"texto definitivo\" del acuerdo Irán-EE.UU.&nbsp;&nbsp;DWAcuerdan EU e Irán un “texto definitivo” para la paz: Pakistán&nbsp;&nbsp;La JornadaEE.UU. e Irán se acercan a acuerdo de paz provisional que reabriría el estrecho de Ormuz&nbsp;&nbsp;Yah",
+      "pubDate": "2026-06-13T06:38:25Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
       "title": "Cómo migrar tu historial y recuerdos entre Gemini, Claude y ChatGPT",
@@ -372,6 +498,15 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/dnUAkvwnOAVbjWZSOwqE51SK4vo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4IYMQ5OZE5EWNCKGYE5BWTLRDQ.png"
     },
     {
+      "title": "El álbum inédito de los zulos del ‘Anodino’, el policía que escondía millones de euros del narco entre sus paredes",
+      "link": "https://elpais.com/espana/2026-06-13/el-album-inedito-de-los-zulos-del-anodino-el-policia-que-escondia-millones-de-euros-del-narco-entre-sus-paredes.html",
+      "description": "Los 19 millones intervenidos en la vivienda familiar del inspector jefe Óscar Sánchez, estaban ocultos en dobles techos, una habitación del pánico o maceteros",
+      "pubDate": "2026-06-13T03:30:01Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/IEUEE5RUAFBZFL7I6FDPG3OOPE.jpg?auth=1a93c01dc968cec489f2f57763e38e65c4d966437cbe419b7d2c8547a9cb6267"
+    },
+    {
       "title": "La investigación a Zapatero por posible delito fiscal con las joyas limita cualquier regularización ante Hacienda",
       "link": "https://elpais.com/economia/2026-06-13/la-investigacion-a-zapatero-por-posible-delito-fiscal-con-las-joyas-limita-cualquier-regularizacion-ante-hacienda.html",
       "description": "Los expertos tributarios consultados explican que, en el caso de haber irregularidades, el expresidente tendría que aceptar el delito para poder acogerse a atenuantes y reducir las posibles penas y sanciones",
@@ -390,24 +525,6 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/67Z5RA3QYFDPJCNGPXTZ3CFGZA.jpg?auth=842682faa9be0cf59db98d1a9e88f846421fad6b1dce3bcf84670a7fffd2fe25"
     },
     {
-      "title": "Los excursionistas que auxiliaron a Jonathan Andic, el quebradero de cabeza de los Mossos",
-      "link": "https://elpais.com/espana/catalunya/2026-06-13/los-excursionistas-que-auxiliaron-a-jonathan-andic-el-quebradero-de-cabeza-de-los-mossos.html",
-      "description": "El hijo del fundador de Mango declaró que no había intercambiado teléfonos con ellos, pese a realizar una llamada perdida a uno de los hombres",
-      "pubDate": "2026-06-13T03:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/AMIPWYLP4RF2RPNQMRSTVHSG4A.jpg?auth=8b377ecb1a0aab233863d9e70a6f695cab24cbc16e64a13e230f77a71a08d7d1"
-    },
-    {
-      "title": "El álbum inédito de los zulos del ‘Anodino’, el policía que escondía millones de euros del narco entre sus paredes",
-      "link": "https://elpais.com/espana/2026-06-13/el-album-inedito-de-los-zulos-del-anodino-el-policia-que-escondia-millones-de-euros-del-narco-entre-sus-paredes.html",
-      "description": "Los 19 millones intervenidos en la vivienda familiar del inspector jefe Óscar Sánchez, estaban ocultos en dobles techos, una habitación del pánico o maceteros",
-      "pubDate": "2026-06-13T03:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/IEUEE5RUAFBZFL7I6FDPG3OOPE.jpg?auth=1a93c01dc968cec489f2f57763e38e65c4d966437cbe419b7d2c8547a9cb6267"
-    },
-    {
       "title": "Zapatero y Sissi Emperatriz",
       "link": "https://elpais.com/opinion/2026-06-13/zapatero-y-sissi-emperatriz.html",
       "description": "Las ideas no morirán, pero necesitan otros portavoces, otros líderes, otros estandartes; seguro que existen",
@@ -424,33 +541,6 @@
       "source": "El País",
       "category": "Política",
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/SWNHJKMLTZGDNLNJWVQMDPDEGE.jpeg?auth=ded071612db1c5342fd9c4cd1e706b472a6e6a86570112bac1b9466118262f1b"
-    },
-    {
-      "title": "Los primeros estudiantes del grado de Matemáticas y Filosofía, único en España: “Hay que aprender a utilizar la IA con ética”",
-      "link": "https://elpais.com/educacion/2026-06-13/los-primeros-estudiantes-del-grado-de-matematicas-y-filosofia-unico-en-espana-hay-que-aprender-a-utilizar-la-ia-con-etica.html",
-      "description": "De acuerdo con quienes lo fundaron hace solo un año, el título de la Universidad de Córdoba responde, desde la educación pública, a un futuro que necesitará tanto números y algoritmos como pensamiento crítico",
-      "pubDate": "2026-06-13T03:30:01Z",
-      "source": "El País",
-      "category": "Tech",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/CVKKLU5OLNHETOOUP6E67FQF3Q.jpg?auth=85f935e41ddfece7dbd98e157dcc9deb443cf3df0d3e150a8e649c00c59a28a8"
-    },
-    {
-      "title": "Actos y autos de fe",
-      "link": "https://elpais.com/opinion/2026-06-13/actos-y-autos-de-fe.html",
-      "description": "Rastros éticos y estéticos me han revelado formas de espiritualidad compatibles con el laicismo y el racionalismo a los que nunca he renunciado",
-      "pubDate": "2026-06-13T03:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/TBHQQ4O2I5E2JKTWK24UWCAEXY.jpg?auth=4b51125e2d3d24ac7ebc1bfba77a124636a1bc79706696945c98b926ae16cab4"
-    },
-    {
-      "title": "Arsa la mirada",
-      "link": "https://elpais.com/opinion/2026-06-13/arsa-la-mirada.html",
-      "description": "No caigamos en el provincianismo de pensar que nuestra lengua, sea el español o el catalán, es la única medida legítima de todas las cosas",
-      "pubDate": "2026-06-13T03:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/MAWFM7XQ7FNW3FBY2T2ALW26UM.jpg?auth=3d3f320123e2f7030b6699533a2f3f24bdc7407b26c97efee1e1965f28ef3ec3"
     },
     {
       "title": "Tres derrotas (y una victoria) de Putin",
@@ -507,24 +597,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff56/live/728db5c0-66cb-11f1-a266-03e5ce1bfa47.jpg"
     },
     {
-      "title": "Grecia Quiroz reta a presidente de Congreso de Michoacán, Baltazar Gaona, a renunciar y ser investigado",
-      "link": "https://www.elfinanciero.com.mx/estados/2026/06/12/grecia-quiroz-reta-a-presidente-de-congreso-de-michoacan-baltazar-gaona-a-renunciar-y-ser-investigado/",
-      "description": "Grecia Quiroz criticó la decisión de Baltazar Gaona de llevar a una banda a cantar narcocorridos al Congreso estatal.",
-      "pubDate": "2026-06-13T03:22:44Z",
-      "source": "El Financiero",
-      "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/dzXG7dMvFCR53UWO3k2vRvZs8Ms=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/JVJML5EHJNEK7IU2USKSDOXJCU.jpg"
-    },
-    {
-      "title": "Carambola en la México-Toluca: Camión de carga embiste 8 vehículos",
-      "link": "https://www.elfinanciero.com.mx/cdmx/2026/06/12/carambola-en-la-mexico-toluca-camion-de-carga-embiste-8-vehiculos/",
-      "description": "Un choque múltiple se reportó este viernes 12 de junio en la carretera México-Toluca, a la altura del kilómetro 15.",
-      "pubDate": "2026-06-13T02:34:25Z",
-      "source": "El Financiero",
-      "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/RSs-jOC0D0fd1MFdgc449BxZCdQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Q744FZICOJEFVE6HR3KSM5ZTDU.jpeg"
-    },
-    {
       "title": "Elecciones en Perú: Keiko Fujimori adelanta a Roberto Sánchez con una ventaja de unos 4.000 votos en las disputadas presidenciales",
       "link": "https://www.bbc.com/mundo/articles/c1kye78j4nyo?at_medium=RSS&at_campaign=rss",
       "description": "Keiko Fujimori lidera el recuento de votos en las elecciones presidenciales de Perú con una estrecha ventaja sobre Roberto Sánchez.",
@@ -534,45 +606,27 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e637/live/f2809560-659d-11f1-82c7-170f21ab8bf1.jpg"
     },
     {
-      "title": "Inauguración del Mundial 2026 en CDMX: Jornada deja 19 detenidos y 11 polícias heridos en protestas",
-      "link": "https://www.elfinanciero.com.mx/cdmx/2026/06/12/inauguracion-del-mundial-2026-en-cdmx-jornada-deja-19-detenidos-y-11-policias-heridos-en-protestas/",
-      "description": "La jornada inaugural del Mundial de Futbol 2026 dejó en Ciudad de México un saldo de 19 detenidos por diversos motivos, así como 11 policías heridos.",
-      "pubDate": "2026-06-13T02:01:25Z",
-      "source": "El Financiero",
-      "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/d4durZ_ag8rLye36PeaOOHEM-_U=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RPHXTJV24FEP7HDEGVYVYLLVOY.jpg"
-    },
-    {
       "title": "EU mata “Niño Guerrero”, líder del Tren de Aragua, en operativo terrestre en Venezuela - El Universal",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWlVNS1dOMFR3TVBZaFUyaVc3NGJTbkJ4M3hCNE51TVF5SDRQOXN5d1dncThMU0FGTmJ5Y2VDTUZ4aXRZMUVCUG1XOXRQWUpFSHVPZEdlZmdGZWR1dWhaRnpRdGZZUjJYMWkwOVNTU3QzaDhwOFdLMi0zaElFejhEN3YzUVdRdm44OUtIRExwelVYOVJIdnQxa0cxWW10Y19OSFFOaGF1aVdlTXQ4WkNMQWxpZHdQdDhXUDVPeFZzZEl2cEJkQTBMYzVVNXU1QdIB4gFBVV95cUxQX05RVWhMbGpNTGdjZEJpMFNpdkxJU3dGSU1BMzl2UmxPclV4TEN3X0F6Z3JmbldDdXltOUowSllWU1l5djJRTEY2MzhkaXlBemVfeW5RX0ZjVVdaTWxqNWtYck5UWjJmWTlsc2k0NHlBenZpbmMxQWw2bmF5R1pVRmtrOWFocUZRWkhxZ0VPT2NEOUtJM1F6SXgtTkJMTDJGYy1KSHc1VHFfaDlabnFpQkhsSFA3MHZORzZxTzZNekg3eVRHMHpXZkMyS1p3bi03TjlvbGVzVi1LMWY0d2tGckFB?oc=5",
-      "description": "EU mata “Niño Guerrero”, líder del Tren de Aragua, en operativo terrestre en Venezuela&nbsp;&nbsp;El UniversalAsí fue el operativo para abatir al 'Niño Guerrero', líder del Tren de Aragua; difunden VIDEO&nbsp;&nbsp;MilenioAbate EU al líder de la banda Tren de ",
+      "description": "EU mata “Niño Guerrero”, líder del Tren de Aragua, en operativo terrestre en Venezuela&nbsp;&nbsp;El UniversalEU mata a ‘Niño Guerrero’: Trump confirma ataque ‘letal’ contra líder del Tren de Aragua en Venezuela&nbsp;&nbsp;El FinancieroAbate EU al líder de la ",
       "pubDate": "2026-06-13T01:52:00Z",
       "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "México y EU alcanzan nuevos acuerdos en seguridad tras reunión de alto nivel - El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPS2JVNjBmcTVPaWUtSmVFa0VRQ2syQm1CZGlQcEtRTjBQQkZBb0h1ZV9aQUUyMXJfUXI4VUYzR0FqMmRNRkxfMVkyYnFJWDFyM0twLURvb0NDTWFvUVRIalVnUjJHLWhkb3lic3VJdXFfZU1mSFczaFNMUXVDY1hDSjZYWE1oNndUbkE5djRzRXZPT1FHWUJJU1BQWi1qZVpyaWZWX093SmFRMUpkd3YzajFaempLeGtBYVhhQlpzNHJnNUczTFlScDNyY1pRMUt6b1NuMjV1ajdma21INkJpaC12TF9DRTlLek5JUVVacTFyTGhULXfSAYoCQVVfeXFMTzEtVFJneVFkOF94ZUFQNU1Va1o5c3FCZVN2SVBybkJ2SWtVOVVkbjlWZkVBbHlNREdqQS1VZTlkYVlpRmZ1UmpiMlY3czBvUC14bXJ3b1RzLWdqN2FIQUh6X0M5R2hlMHp0V1Iya3FkZ20xTnRhdHBJN0t2WmNuNG1xQjVuRjlZSVVTYl9qR0diOV9GV2RfUjZaRVdZY3ZyR3RxR0w2X0ZwdllqWlFpNDU5WjF6SF9Cb01CNGxtU1lQMmRIZzl6Z3dQMUwtSlowQ3dpRkR4S1QtaGxtZ2Y5cTRBSTRyLU85U0N5OVloUEJfN21RcW05aEJHcnk0UjFtMTczZGN0VkZmUWc?oc=5",
-      "description": "México y EU alcanzan nuevos acuerdos en seguridad tras reunión de alto nivel&nbsp;&nbsp;El UniversalMéxico y EU acuerdan acelerar acciones contra cárteles, 'huachicol' y tráfico de armas&nbsp;&nbsp;La JornadaPresume Embajador resultados de cooperación México-E",
-      "pubDate": "2026-06-13T01:26:00Z",
-      "source": "Google News MX",
-      "category": "México",
+      "category": "Política",
       "thumbnail": null
     },
     {
       "title": "México y EU acuerdan acelerar acciones contra cárteles, 'huachicol' y tráfico de armas - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWWphaWpCdmNSZUFKZVhoamptblRuX1BQMndOdXVtV2F6andXRXVlM0tnRTVkMDlpR254eVU3WVhyTFJ2dTZDUk80M3FwUFhqa0pZa0FzSHhWRGtBY19ZMmtmdUxlUDhWUGJuY2xZaThKOUFRSl9raW1RWmJIb2tOb1UwaklYbEZCUnhpRkpzeW9qaUZqVnUxbnV5UjctMlVtaEg0QmF6eGxRWkFmbXduQ1VXSjVJRGMwMlFpV1V3YWNDZHVMVEhTSG1pMHlwdjE3cWNxSw?oc=5",
-      "description": "México y EU acuerdan acelerar acciones contra cárteles, 'huachicol' y tráfico de armas&nbsp;&nbsp;La Jornada",
+      "description": "México y EU acuerdan acelerar acciones contra cárteles, 'huachicol' y tráfico de armas&nbsp;&nbsp;La JornadaPresume Embajador resultados de cooperación México-EU&nbsp;&nbsp;ReformaAgencias de seguridad de México y EU evalúan cooperación bilateral&nbsp;&nbsp;Pr",
       "pubDate": "2026-06-13T01:16:00Z",
-      "source": "Google News",
+      "source": "Google News MX",
       "category": "México",
       "thumbnail": null
     },
     {
       "title": "Trump anuncia que el ejército de Estados Unidos ha matado en Venezuela al Niño Guerrero, líder del Tren de Aragua",
       "link": "https://elpais.com/america/2026-06-13/trump-anuncia-que-el-ejercito-de-estados-unidos-ha-matado-al-nino-guerrero-lider-del-tren-de-aragua.html",
-      "description": "El líder de la banda criminal más poderosa del país sudamericano fue abatido en una “operación combinada” de los dos gobiernos, aunque el gabinete de Delcy Rodríguez asegura que no hubo tropas estadounidenses sobre el terreno",
+      "description": "El líder de la banda criminal más poderosa del país sudamericano murió en una “operación combinada” de los dos gobiernos, aunque el gabinete de Delcy Rodríguez asegura que no hubo tropas estadounidenses sobre el terreno",
       "pubDate": "2026-06-13T01:15:47Z",
       "source": "El País",
       "category": "Política",
@@ -581,7 +635,7 @@
     {
       "title": "Lluvia colapsa sur de la CDMX; inunda Hospital Psiquiátrico de San Fernando - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUnl3VXVsU0tFRHhaUHc4QzZ1Z1NVZU5TSXBrZDlPSTFBMGF3a2lqUmRUQW1GUWg2c2MyWVlYay1XN2RQR1BDSWpISTZDdEJFS05LV0NpTjdjX2hFUl9BRm1RRHFHMm8tWFFIS2JNWjVhWTV0Rk1MdnI2Z3JVWGJkX0tmRjlKQWs1eXU5bUE2aTNPanRWQmhqQmJ6eGllOGdvZGFGdDUyRURQTFVQVTdkU2JTWklpTDRySGtydFhXTmlHX3JkLURN?oc=5",
-      "description": "Lluvia colapsa sur de la CDMX; inunda Hospital Psiquiátrico de San Fernando&nbsp;&nbsp;La JornadaCaos Vial en Tlalpan: Fuerte Inundación Paraliza la Movilidad Hoy 12 de Junio&nbsp;&nbsp;N+Alerta roja por lluvias fuertes y granizo en Coyoacán y Tlalpan, CDMX&nb",
+      "description": "Lluvia colapsa sur de la CDMX; inunda Hospital Psiquiátrico de San Fernando&nbsp;&nbsp;La JornadaAlerta roja por lluvias fuertes y granizo en Coyoacán y Tlalpan, CDMX&nbsp;&nbsp;ProcesoCaos Vial en Tlalpan: Fuerte Inundación Paraliza la Movilidad Hoy 12 de Jun",
       "pubDate": "2026-06-13T00:18:00Z",
       "source": "Google News MX",
       "category": "México",
@@ -597,19 +651,19 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9f5f/live/480ba3d0-66a7-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
-      "title": "Regresa Papa a Roma en avión del Rey tras avería - Reforma",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU8xeFpuWk5RT3JXaTdqQkZXcWRHLUVUeUZhN0tYc3B2MmxGZVU4UkpZM0lMQS16dGFRM0hoTTNuVk4tRXhjamZDOWFXUTNXeFVSUHRWRndJZW5LUTZxVHJOLVBYeHpuZVYzM28wOXliV2xuV1RSbUZGMUEyWHprbVY5V3B1RkpzTUE?oc=5",
-      "description": "Regresa Papa a Roma en avión del Rey tras avería&nbsp;&nbsp;ReformaLeón XIV regresa a Roma en el avión de Felipe VI: finaliza su viaje apostólico a España&nbsp;&nbsp;Vatican NewsFalla técnica en avión retrasa el regreso del papa León XIV a Roma desde Tenerife&",
-      "pubDate": "2026-06-12T22:43:11Z",
+      "title": "Colectivos de Búsqueda responden a insinuaciones de Sheinbaum sobre su traslado a las protestas de Ciudad de México - El Informador",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONjRGOXN0cUxJc3pnckpUekRoSklkeEl1RTUyT3VTcElmaXJFY2hTTE96UGNZdC1wRVBHaE8ydDlCQ1FYTU1tellkdkRmUGdrZnRNT0pxNFJVSHhrcV9DN29uMVFsWEpuUnVyR2NGOHN0Qm96d2haOGtQZV82NXdDTkw2Z0FOUkgwRm5LcW5YNlNLZTRCcWNLQUI3dHdKc3JuMU9qX1d5Unp0ZTdNUlo5aVl0Z1c4TWoxODdycDFQR1N3Yl95TUQtd0ZaQktuUms1cDVYV09JX1BCLVlpcjVSWHFqZHdST1BsQmFIb2xSM0d2UGtIRU1Fbm5HRdIBgAJBVV95cUxQb3V6eFkxZjBxSF9BRXJMMU5mTkJQcl9GUENkb0hidVdPd2hPcDJrUnljZGNLOVJUakU0TFRfdGdEWWNJcVEyb294WkFvOXpmOE9uc2hXalpSNXk3WjhKZTZ5Zk4yRUdJUFhscU1CVWlOLVphRHJVUTk0NnFnc3p6Q3ppN0hNaUxSakMzczV6dmRoZ2pnUG5WR1o5MXpaVWU2MmxsY2tMdWRKUG5QUTlCR0g4OVluZFNsM0lQQmNZdXI0cFRNZUFIWC1LNDlCLXRHc1RodmpRaEJLUENfRERvcGFRRUhWN2swMmlCaC1OQ0JJSHZjYjc5d0EyQTFBTERD?oc=5",
+      "description": "Colectivos de Búsqueda responden a insinuaciones de Sheinbaum sobre su traslado a las protestas de Ciudad de México&nbsp;&nbsp;El InformadorMadres buscadoras enfrentaron contención desproporcionada en apertura del Mundial 2026, señala especialista IBERO&nbsp;&",
+      "pubDate": "2026-06-12T23:34:10Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
     },
     {
-      "title": "FGR atrae caso de Roxana Guzmán; crece presión por esclarecer desaparición de periodista en Veracruz - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ3lWUzdzZk9oRFAxZFZsVGhPMlZ5M2FfdzRUVDIzRVA3Wm9WaklmYWR6Y3FFREJUVlpMT3VpdVBRRnBrQk1IbVJ3MTc0QjJHMlhrei1xdGk4Q0dnRS1zQnZNWXpPYlFlMkMxVUQwYVloTm5FeWF2UHdJZEpEZHdaWk1ILVZSQ2hwRzNpSlRWWTZ4WEFHdk5FY3UxMU9mRjZXNWZPZVZwTHlFT050dDJ0WUYwcVpVLTJmZDQ0SHFrMl9YdlphU0Nlc1NkQnMyRWNtbHp5eEZMaU8xVEV1ZThrY0xuVGRSX25D?oc=5",
-      "description": "FGR atrae caso de Roxana Guzmán; crece presión por esclarecer desaparición de periodista en Veracruz&nbsp;&nbsp;La JornadaVer más títulos y perspectivas en Google Noticias",
-      "pubDate": "2026-06-12T22:08:00Z",
+      "title": "Regresa Papa a Roma en avión del Rey tras avería - Reforma",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU8xeFpuWk5RT3JXaTdqQkZXcWRHLUVUeUZhN0tYc3B2MmxGZVU4UkpZM0lMQS16dGFRM0hoTTNuVk4tRXhjamZDOWFXUTNXeFVSUHRWRndJZW5LUTZxVHJOLVBYeHpuZVYzM28wOXliV2xuV1RSbUZGMUEyWHprbVY5V3B1RkpzTUE?oc=5",
+      "description": "Regresa Papa a Roma en avión del Rey tras avería&nbsp;&nbsp;ReformaLeón XIV regresa a Roma en el avión de Felipe VI: finaliza su viaje apostólico a España&nbsp;&nbsp;Vatican NewsEl avión del papa León XIV fue inmovilizado en tierra. Entonces el rey de España i",
+      "pubDate": "2026-06-12T22:43:11Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
@@ -624,29 +678,11 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/chatgpt-phone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Buscadora pide investigar cómo se fueron sus hijos, en lugar de saber cómo protestan en CDMX - El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMzBZRUdFamp4a09mVU9CczY0X1RlLUJpaktJYm1WalZxb29NbHYzYkVramRSdzR1cE1NeDRIMnhfckxIZGRvVVUwR0FrVUpsSXVGcHQ1VjBjMExkMENFcWN5NjByZ0xYRnRHc0p2X2Z4VS1JdEZaRVA1U0pNZnU1eDZKWWlzRnlzX1dfVVZJakxvMTgxWGdKNjJUUjNsMHlKLVhSRFMzY3BfakVJQnpCS3lIRXdsV19rQUtrNnhrUzhNLUtwcENvRWw2S0xUcl9VTWcyeGx3UTZvelFLTXo3NS1VVGFLdTNtSU81enlGLVF3SDRISjhScGU4SQ?oc=5",
-      "description": "Buscadora pide investigar cómo se fueron sus hijos, en lugar de saber cómo protestan en CDMX&nbsp;&nbsp;El UniversalMadres buscadoras enfrentaron contención desproporcionada en apertura del Mundial 2026, señala especialista IBERO&nbsp;&nbsp;Inicio | IBEROFamil",
-      "pubDate": "2026-06-12T21:29:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Alista la CNTE receso de su huelga nacional - Reforma",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOWF3Tm9ZZGQ4VFZyOXlvT1JXRjBYTDNkaWVhcnNtY2VSUzdMMTlSUVhONllhZk9HMHphYkNxb2FCX3ZnZFk3VlNCMnNOWFFPWGlIWXMtQUZuMHNacHI3RVFqaERpVzJFQVEtamxuQjJnallUV0pnQnVNRGRBOUp0NnpBdw?oc=5",
-      "description": "Alista la CNTE receso de su huelga nacional&nbsp;&nbsp;ReformaCNTE bloquea Reforma tras cancelación de reunión con Mario Delgado; prevé más protestas&nbsp;&nbsp;El EconomistaEl Gobierno cierra diálogo con la CNTE, pero maestros insisten con bloqueos&nbsp;&nbsp",
-      "pubDate": "2026-06-12T21:28:11Z",
-      "source": "Google News MX",
-      "category": "Política",
-      "thumbnail": null
-    },
-    {
-      "title": "Padres de los 43 acusan que \"no tuvieron condiciones\" para manifestarse en CDMX - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUUdBUWUxRXRoQ1pGb1Jwc1dIQUp6M2lrMDh3VFhudG9tU1Y1WHgxbmhPNVozbS1zcFNIR002eVlIQjdDSFdnYlc3NVlGMldtSVptd1lWSjdFMFZpMWRBZUJ3V2F5clNnNEt5WFFaQ2JFNHZRNlpMaUFwdHF6UnlFQll3bmZjaURaY0F5LWJKeXNhYjBDYlNxb1QtVHdHTmJESVpiUlpXQmk5YmVqb0dzaXlqM3ByRFNyVEVSd0xDUzlMRFJqeTlIOFUzV18?oc=5",
-      "description": "Padres de los 43 acusan que \"no tuvieron condiciones\" para manifestarse en CDMX&nbsp;&nbsp;La JornadaPadres de Ayotzinapa exigen retomar investigación de los 43 a doce años de su desaparición&nbsp;&nbsp;YahooPadres de los 43 se van de la CDMX luego de que les ",
-      "pubDate": "2026-06-12T21:02:00Z",
-      "source": "Google News MX",
+      "title": "\"México, canta y no llores\" - DW",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODQzZGxQVUNjalRfWUgxZjYzbkh0N250S1JJZ3RZbU1NODNqWEtqaHBNRS10OHhkWnBhaFM5NjhQUW5Wcmhvdy1ZMENZdG1FUmtfQ19YWXZmY1B6MVNaczJXUk1jal9Qb2hjdDdPaTdCcXZWbmpPNndiSi1oVndHOWlFRnN1UXUwRUlJY9IBjAFBVV95cUxPelVGUkloNHM2VDc0NzNRRUJpQ1RwYjZhM1hTcU1JOEFPUEdGQlUyWnVvTm95NlVxWlBSRzZRQ3o1LUhpbEw1SUNQbkRoQUc5SEpLQ2cyRlhuRnNkd3NEMlZSVVdQSzNyVWJyUW5YSVY1enBxbGNMSVZ0dTkwVVRVVjdvbU5YQTV4V1F2cQ?oc=5",
+      "description": "\"México, canta y no llores\"&nbsp;&nbsp;DW",
+      "pubDate": "2026-06-12T21:32:34Z",
+      "source": "Google News",
       "category": "México",
       "thumbnail": null
     },
@@ -660,27 +696,9 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/Microsoft-Xbox-Cloud-Gaming.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Ex jefa de Inteligencia de EU revela financiamiento a laboratorios biológicos en más de 30 países - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYlV1amxqd0REZjBNTWNCQk1nSG9Vb1pCVmctX2FsZFdnRV9INWFPd1MtajNBUUI5R2RuNnJSbHN1aU0wR2hQbUtmdnJCanZuSnlUSGlLTnRKSmgwa1B1eTZRcGs0UXZRQkVhUmxpS09YRERuRzVHT0FwNVhQR3hqMk1mU1MtQ2NhUkx6QmhpcGRWVmhMWUE3ZHVHZ0xwdkVGbUM5RFhIWG1UVi11S1RLNW1OQUp1eE5sejJMYXJSSURTVENiQUpfYzlIX0xPLVBTM1FVZE1sb01RVHE4dDJ6ckJxbw?oc=5",
-      "description": "Ex jefa de Inteligencia de EU revela financiamiento a laboratorios biológicos en más de 30 países&nbsp;&nbsp;La JornadaEstados Unidos revela inesperadamente la verdad sobre los laboratorios biológicos en Ucrania.&nbsp;&nbsp;Vietnam.vnDirecora de Inteligencia d",
-      "pubDate": "2026-06-12T20:07:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "China tiene dos ideas para ganar la carrera de la IA: invertir un dineral y dejar a NVIDIA casi sin margen",
-      "link": "https://www.xataka.com/robotica-e-ia/china-tiene-dos-ideas-para-ganar-carrera-ia-invertir-dineral-dejar-a-nvidia-casi-margen",
-      "description": "Hay pocas dudas de que la carrera de la inteligencia artificial tiene hoy dos grandes protagonistas: Estados Unidos y China. No son los únicos países que están moviendo ficha, pero sí los dos que están marcando el ritmo, cada uno con sus propias herramientas y",
-      "pubDate": "2026-06-12T20:00:17Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/e291cb/ia-china-chips-nacionales/1024_2000.jpeg"
-    },
-    {
       "title": "Comisión Anticorrupción del Congreso de NL aprueba juicio político contra el gobernador Samuel García - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ1dBeVFLVE9UeC1yaDc2eXVaV3ZJbE1aR0p3bUczYmdjOTZRWHlDLWQ3Mm9IUkRVclZIdXZtM25lNU92MzNzazF2bUJSYzhqVm92cWVNRW1sTEwycS1VRVQxWUxmbU5sMjVYOENkdENVTTBxOUZyNXNrSExteGprNEk5elZoMkZjT1E2Z2Z2R3N4Q0kzNFp4ZUNlQlB1S2VBWHRBNUd3MFMxbXNhaGh2VkJRY0Y5RWNydGMtelJHYmcweXpaMjNMeThTYTdQbzZQZlpjMkxNTVgyTVlVNi1lMnFuOXlmNVVMWGZR?oc=5",
-      "description": "Comisión Anticorrupción del Congreso de NL aprueba juicio político contra el gobernador Samuel García&nbsp;&nbsp;La JornadaDeclaran inicio de juicio político contra Samuel&nbsp;&nbsp;ReformaComisión Anticorrupción avala juicio político contra Samuel García por",
+      "description": "Comisión Anticorrupción del Congreso de NL aprueba juicio político contra el gobernador Samuel García&nbsp;&nbsp;La JornadaAprueban en comisiones juicio político contra Samuel García&nbsp;&nbsp;La JornadaEl Congreso de Nuevo León inicia el proceso de juicio po",
       "pubDate": "2026-06-12T19:55:00Z",
       "source": "Google News MX",
       "category": "Política",
@@ -703,33 +721,6 @@
       "source": "BBC Mundo",
       "category": "Deportes",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5fd0/live/1e9a1ab0-6687-11f1-a8c3-dfaa8d57c0a6.jpg"
-    },
-    {
-      "title": "Un helicóptero Apache de 25 millones cayó cerca de Omán: la explicación apunta a un dron iraní barato",
-      "link": "https://www.xataka.com/magnet/helicoptero-apache-25-millones-cayo-cerca-oman-explicacion-apunta-a-dron-irani-barato",
-      "description": "Si ponemos en escena un AH-64 Apache de unos 25 millones de dólares y, al otro lado, un dron iraní Shahed de unos 35.000 dólares, la respuesta parece escrita antes de empezar. Uno es un helicóptero de ataque concebido para operar en escenarios hostiles; el otr",
-      "pubDate": "2026-06-12T19:00:17Z",
-      "source": "Xataka",
-      "category": "Economía",
-      "thumbnail": "https://i.blogs.es/219102/ah-64-apache/1024_2000.jpeg"
-    },
-    {
-      "title": "Pakistán anuncia \"texto definitivo\" del acuerdo Irán-EE.UU. - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnJkREZQSkF3cTloU1ZscHhCd2pBeU5HU0xEWDktVnBFelJtbEQ3ZDc2UEx2Z1FwTzBhc19BblVpdEZwaThvZ215a1pweURtcGxDbFVlSl9lcG1QU0JQQXpHajlRSHFPRFpLQnpuR3E0Ulg0OXdPOUhwZEVfUEFNcEotXzdIcTNJTXBFNnVFME0za05ZQmtnMzJ5QnQ2MFpMNXUtZlVJVFLSAagBQVVfeXFMTUpLNWp0QTZsWUdXLVpXeEwyZEtHOERoc204Nlg3UWhtMkQ4c2N3VVYzQ0NWbUxQR2F4WDFGWTFRTk9lZm9tSDV4WlFkeUdnVmNaS1dKNmVONmhCOUlKbnFGSElqcTRlZGdFOXA2NEZKaWVTWm9MZ1ZTRTNmdW9uWGlObVk2UF9rNHpLNmJ3ckllTUNjdU5rQmt3UFJpRHNBc09Ebjh2czly?oc=5",
-      "description": "Pakistán anuncia \"texto definitivo\" del acuerdo Irán-EE.UU.&nbsp;&nbsp;DW.comEE.UU. e Irán se acercan a acuerdo de paz provisional que reabriría el estrecho de Ormuz&nbsp;&nbsp;Yahoo FinanzasAcuerdan EU e Irán un “texto definitivo” para la paz: Pakistán&nbsp;&",
-      "pubDate": "2026-06-12T18:33:26Z",
-      "source": "Google News MX",
-      "category": "Economía",
-      "thumbnail": null
-    },
-    {
-      "title": "Aún no sabemos cómo curar la ceguera. Así que nos vamos a ir al espacio para intentar solucionarlo de una vez por todas",
-      "link": "https://www.xataka.com/espacio/pregunta-sirven-viajes-espaciales-respuesta-para-curar-ceguera-al-vamos-a-intentar",
-      "description": "A menudo nos preguntamos para qué sirve la investigación espacial. ¿Vale la pena invertir ingentes cantidades de dinero en explorar más allá de nuestro planeta? Según con quién hablemos, puede que nos dé una respuesta distinta, pero si hay algo que está claro ",
-      "pubDate": "2026-06-12T18:30:17Z",
-      "source": "Xataka",
-      "category": "Ciencia",
-      "thumbnail": "https://i.blogs.es/34d1d0/retinas-artificiales-espaciales/1024_2000.jpeg"
     },
     {
       "title": "Dile adiós a Claude Code: OpenAI ha anunciado una de las funciones más pedidas de Codex",
@@ -768,15 +759,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/90ce/live/486648a0-42fc-11f0-b6e6-4ddb91039da1.jpg"
     },
     {
-      "title": "\"México, canta y no llores\" - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODQzZGxQVUNjalRfWUgxZjYzbkh0N250S1JJZ3RZbU1NODNqWEtqaHBNRS10OHhkWnBhaFM5NjhQUW5Wcmhvdy1ZMENZdG1FUmtfQ19YWXZmY1B6MVNaczJXUk1jal9Qb2hjdDdPaTdCcXZWbmpPNndiSi1oVndHOWlFRnN1UXUwRUlJY9IBjAFBVV95cUxPelVGUkloNHM2VDc0NzNRRUJpQ1RwYjZhM1hTcU1JOEFPUEdGQlUyWnVvTm95NlVxWlBSRzZRQ3o1LUhpbEw1SUNQbkRoQUc5SEpLQ2cyRlhuRnNkd3NEMlZSVVdQSzNyVWJyUW5YSVY1enBxbGNMSVZ0dTkwVVRVVjdvbU5YQTV4V1F2cQ?oc=5",
-      "description": "\"México, canta y no llores\"&nbsp;&nbsp;DW.com",
-      "pubDate": "2026-06-12T17:10:26Z",
-      "source": "Google News",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "Elon Musk se convierte en el primer billonario de la historia",
       "link": "https://hipertextual.com/economia-empresas/elon-musk-billonario-spacex/",
       "description": "La salida a bolsa récord de SpaceX, que desde hoy opera en NASDAQ, acaba de convertir a Elon Musk en el primer billonario de la historia. En los primeros minutos de cotización, el valor de la acción de la firma aeroespacial comenzó a subir, aumentando todavía ",
@@ -788,10 +770,19 @@
     {
       "title": "Sheinbaum desconoce investigación contra Esteban Villegas y Samuel García tras detención de empresario ligado a huachicol - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWHExOXd6ZzJSYmMyTkVWUGVZMXhTRXNaaGtuVld2b2Jfc2psNGNCOTBGTXZwU0JoQmE2LUVpOUZkQU1FR1BsYnFOUTFZb1YyYU4yU0lwS0tENHYtZW1sXzlZbWRNYXJ4cXY2aXlMNjMtZEJmbG11T2VvalA3al9CRDRkcGl2bDJvLVgzSzd0SDUyaEt5S3VzZnRZUW9Uck5XMW9NRTQyWUhOd3Z5Tk9xandIX3lHdWR6UGY5Mnh1Y2lIWkpRZUFDVnM5cEdNbVpzOEV6eG1GbG1MeFFMSnJvYjdjSWFBWTNiNnNnZGNibUFDdjNRbGRz0gGSAkFVX3lxTE9sdk1mOTBkY0ctR0xfX19PbWdiUlIyVnVyamwtMlM1cGV2czFlSnRvWFZwUHY0UWVPWW1pQzRXMGpIWUlpNG5SUEZlQkZRcnBOS3V1RWI3Y0ZIbnd1d3NBYzlCdEtaWU52R2JCcGlEVXFlWUgzMkJRQTB1b1dYUER2eGZXbFdrdHdvVGtXalZWUWs5aU80eFI4UjdlaXFaSTM5MFl3TmRVVlNfdU9kT2J4ejZUazBXdkFfS3picl9OMU9IOWE1d1RLM0oxOHhQaEZtWWloSHNIVXhXTHVpVEpCWTBXV3luNVFqTEhrdHAwN1BaM05kV2ktU2JPWGNEdXJMYzhuSF9YRHMxWTRmejlnS3c?oc=5",
-      "description": "Sheinbaum desconoce investigación contra Esteban Villegas y Samuel García tras detención de empresario ligado a huachicol&nbsp;&nbsp;InfobaeGobernador de Durango niega presuntos vínculos con el narco: ‘No hay investigación de la FGR’&nbsp;&nbsp;El FinancieroEU",
+      "description": "Sheinbaum desconoce investigación contra Esteban Villegas y Samuel García tras detención de empresario ligado a huachicol&nbsp;&nbsp;InfobaeGobernador de Durango niega presuntos vínculos con el narco: ‘No hay investigación de la FGR’&nbsp;&nbsp;El FinancieroEl",
       "pubDate": "2026-06-12T16:37:00Z",
       "source": "Google News MX",
       "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Trump y Hegseth anuncian ataques de EE. UU. con antelación - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWlrQkVMQWUwWVZLUDRGb2tPanZESWZkUG1tUkpUMEh6OTV0Zkl3UmxiWEdLZ294dlZRWVBrd29fbXVBakZQOVdtbTZYc1B4NGtDeG56MlRPd3hieDlHODB4Ul9TTnJxZ0JCLWNoMi1aajM0LWRObml2U3dCcHRYZHIycnhmUHIzdjltY1FhQk84MWpmeG5N?oc=5",
+      "description": "Trump y Hegseth anuncian ataques de EE. UU. con antelación&nbsp;&nbsp;The New York TimesCómo es el dron marítimo con el que EE.UU. rescató a los tripulantes del helicóptero Apache derribado en el estrecho de Ormuz&nbsp;&nbsp;BBCGuerra de EE.UU. e Israel con Ir",
+      "pubDate": "2026-06-12T16:25:51Z",
+      "source": "Google News MX",
+      "category": "Política",
       "thumbnail": null
     },
     {
@@ -831,15 +822,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/18ed/live/f6d29710-6671-11f1-bfb6-f5752cbbcf38.jpg"
     },
     {
-      "title": "Sheinbaum celebra la ‘alegría’ que dio la selección a los mexicanos - Forbes México",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmlQVFg0WWxiV08zaUNXUzR4Nkx2a0JXN3I2aWUtbkQ2ZHZ0Q291QjBSZUlLZl9Ib0pUSWtCVnRyS1UyNFpOamFKaGlCWURoUkJVU0wxZkZ5UGxnVEVHWVF5cTN6M1VONlljMTMyRThRaTZHcTFEbk9zRjVXQlRCODE1RklhSWI5c21wVVM4M3BQQQ?oc=5",
-      "description": "Sheinbaum celebra la ‘alegría’ que dio la selección a los mexicanos&nbsp;&nbsp;Forbes México",
-      "pubDate": "2026-06-12T14:55:00Z",
-      "source": "Google News",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "‘Al que apuesta contra México siempre le va mal, en la vida y en la política’: Sheinbaum felicita a la Selección Mexicana - vanguardia.com.mx",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSjd4Y29OZEZpX291VUpEbkZLc3M2NnZ0Ym1IbGZIVXpocnFCMk8xOWcyWmJERzFESW5pdjNDdm4wU2VwV0hXSy00NkplXzBGYzZRaVlHYzVkU3psTDhwUlRIMjhGLXFfdWlrZjIxejIxRnROWEp4d2k1LURNRUtETTNYMkstWGI4OU9IVV9xU3FvS0NXZkZxUEFZQ1J1ZW9COFh0bm1UN2dtb0NtT0Fob21rRTRuV3plOUd5SFV0N3BlV0FEUjhCcktfTzBLRVVSZ1g4V3FQeVdkWUhMRVVBOU80OThfeFVhTTBGdF9RRTdkVU5SX0d0aGYwRGhmMFk?oc=5",
       "description": "‘Al que apuesta contra México siempre le va mal, en la vida y en la política’: Sheinbaum felicita a la Selección Mexicana&nbsp;&nbsp;vanguardia.com.mx",
@@ -847,24 +829,6 @@
       "source": "Google News",
       "category": "México",
       "thumbnail": null
-    },
-    {
-      "title": "El final de ‘El día de la revelación (‘Disclosure Day’), explicado: ¿salen a la luz los aliens en la nueva película de OVNIs de Steven Spielberg?",
-      "link": "https://hipertextual.com/cine-television/el-dia-de-la-revelacion-disclosure-day-final-explicado-steven-spielberg/",
-      "description": "ATENCIÓN: El artículo contiene SPOILERS de El día de la revelación (Disclosure Day). La nueva película de Steven Spielberg, El día de la revelación (Disclosure Day), supone por fin el regreso triunfal del Rey Midas de Hollywood a uno de sus géneros favoritos, ",
-      "pubDate": "2026-06-12T13:50:14Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Disclosure-Day-el-dia-de-la-revelacion-final-explicado.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "El nuevo ‘FIFA’ de Netflix está aquí: el juego oficial del Mundial 2026 ya no necesita PC ni consola",
-      "link": "https://hipertextual.com/videojuegos/nuevo-juego-mundial-2026-fifa-netflix/",
-      "description": "Tras el divorcio con EA Sports, FIFA ha lanzado su nuevo juego de fútbol en colaboración con Netflix. Se trata de FIFA World Cup: Launch Edition, el nuevo título oficial de la Copa del Mundo, que lleva la experiencia del Mundial 2026 a tu sala, sin que necesit",
-      "pubDate": "2026-06-12T13:48:54Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Netflix.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "title": "León XIV ruge contra los traficantes de personas: ”¡Deténganse. Conviértanse!” - ACI Prensa",
@@ -912,6 +876,15 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3574/live/59283d80-6504-11f1-96e1-83394d865b23.jpg"
     },
     {
+      "title": "Eclipse solar 2027: cuándo es y cómo ver el fenómeno más largo del siglo desde Chile - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3puMF9ZM1lwRDMyYndtbjB5bFRVNi1FUm5PT25aRkJiYUxCLURxMlJVR000UG90U28tU0NUWFhDbmlSSW1nSXpiTi1KOWFiby1iV1V2T1NfanlHeVBab2RaTHU3TFJvMU1GbGhIb1BHZ28yN0dia1YtdzhPNXRYajliaWU4eHFuN1FlNXhFaWxYVEtVRUdKb2lEQmtpSHB0Y01heThxWER3d19hVDFJeEpuRVU3QXczQkdhdlA5Q0JpVVF2T2hKWWtFZkN0TmdHOW9V?oc=5",
+      "description": "Eclipse solar 2027: cuándo es y cómo ver el fenómeno más largo del siglo desde Chile&nbsp;&nbsp;El MostradorCómo buscar un sitio perfecto para ver el eclipse total: tres apps y una web resuelven el dilema&nbsp;&nbsp;EL PAÍSEclipse Solar Total 2026: En México n",
+      "pubDate": "2026-06-12T07:00:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
       "title": "La élite política y empresarial convierte la inauguración del Mundial en un desfile de privilegios - EL PAÍS",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORlNkTUZiRjRLTVVZWFlUZHQ1eDhCT0ZTWHpjTm1hdzk5RGg5d25pNjhlV0d4dzk2dm5YLVVBUWhtcmg0dTFBRDg1ZXdLemZPenoyZktKaDlEUXlWaGRtQ3ZyRnFpNWRtNDhnX2NHZTU4QWFfUzVFTlh0cG9VeDdZYy1aNzF4NGdFV1Yya21fU05ReHAyRDFXVmxOZDdfR05UdGZ1YVhqb1dUWXFZYV9fb25JcWlTYS1Bb0xkbDFZS19uOWJTVmRhdFVEd1ZDNFdjTGVtMDk1Y9IB6wFBVV95cUxORWdhcFZHN1pSQ05IRHk1STJJdU0xNWNRQ2ViemRydHYwZGx2WmNrOGp3NXpEY1NVMWhhWHJNUEM2RlZKWUxqc0ZWTVR0bXlZbGVnZzVJOURqREdRMGx4NXdsOVMyWHNIUTRrQmk5VFFQUnZXRnZKUTVjWkNzNjNSSDZfOENyNExmSkI1WmVYZ1VTS0hadnp3X1M2LUU2T29uSWQ3ZE1aOHZsTGE2NWkwN3NmckJsb0JiYkoySXNGZU9VcFNMT0RXTy1pRUc1X3BCR0lDNGZ4bVZ4YlBBbWk4T0Y4RC1XQnNKT3hB?oc=5",
       "description": "La élite política y empresarial convierte la inauguración del Mundial en un desfile de privilegios&nbsp;&nbsp;EL PAÍS",
@@ -921,19 +894,19 @@
       "thumbnail": null
     },
     {
-      "title": "El mundial de fútbol en México: el caos que se volvió fiesta - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzRsRkxrNjd5M2Q3cndNUVBwY25TU29PNkNxbVNuaTlBT2tRQlIwWDlPUGY5OFhVSDI5dDdnaTRhTE1qQUJTME5XYUdBalVtUkxLbDc1cVBNdElXbndENVRxNllpb29lMnRWU3l2WXFPQ1hrdU1XS2duc1VBdWVDZThvaTJjN0lscThWemNuemFFZndBOVJmUm1NLUEwOHAzbl8xOEhGbml4MjDSAasBQVVfeXFMTkFVNW95VzZOU0VpazFOUmVmZ0d3SmFUano4SWF4X3RKemNiVV9LUF96NmdtZERuRTV4Y3JtcEktVUJtMjQ2RUJFNlgxT1JaUkdMck9SWEYxc1prNzMxZk9DcmJQaHJNUzJDVlZNNG0yMmtUamhwTUQwVS1KWkNubjVSLWVnSDBIYlJTSmNTTmpmUFlrV05CSTlORmxOSmVDZTRZNmNfaXh4dl9N?oc=5",
-      "description": "El mundial de fútbol en México: el caos que se volvió fiesta&nbsp;&nbsp;DW.com",
-      "pubDate": "2026-06-11T23:28:23Z",
-      "source": "Google News",
+      "title": "Explota Aguirre por fallas del Tri ante Sudáfrica - El Norte",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUhxSnpsWk9PZnQwT3JIdGxGbXBFQ2hiMFliNkZDZ1JXcjJNUTY0dF9ZMVl0SkxkaERESnQ3aGk2LW4xTGpJT2NvZkQyWDZMRnRoTmdISVRVcl9aek1LY0FYTmM1eTRmOEN3V0NHUjhMekw4V2JYOWVoY0Npc0FDWWpXWThXb0p4SVNF?oc=5",
+      "description": "Explota Aguirre por fallas del Tri ante Sudáfrica&nbsp;&nbsp;El NorteMéxico, ¿de qué nos convenció, con qué ilusiona y qué no esperar?&nbsp;&nbsp;ESPN MéxicoFestejos en el Ángel, mezclados con dolor de buscadoras y lluvia&nbsp;&nbsp;La JornadaTarea cumplida&nb",
+      "pubDate": "2026-06-11T23:42:29Z",
+      "source": "Google News MX",
       "category": "México",
       "thumbnail": null
     },
     {
-      "title": "México respalda lanzamiento de Alianza Global por los Derechos Humanos impulsada por ONU-DH - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSF9zUVo0Y3Mzcl9ReDVmRW9UNVhwUmlleVpoeFJJQTNLMldFdS1oazYyZzQ1MHJTZHFqajd0UU42ZmRrZXNvelFVeE54SGRrbl9zSDd3SHVlaEFCY0xZQldaUTNkQmdhdFRMamEwMGhUX0U5QW1CdGdTUk5STGs5enpBWmZfVW9qd0Q0WldWdWRHT2Iyd2hEUUx1bk9UVkM0NlkteFNDdHZtNVpYV2xwZ3J2V3gyelZTeThvcW54b0NfMHg0LVpEUlBIVlBha1FYeUNNSzNDOU96OEdIOEE?oc=5",
-      "description": "México respalda lanzamiento de Alianza Global por los Derechos Humanos impulsada por ONU-DH&nbsp;&nbsp;La Jornada",
-      "pubDate": "2026-06-11T23:16:00Z",
+      "title": "El mundial de fútbol en México: el caos que se volvió fiesta - DW",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSzRsRkxrNjd5M2Q3cndNUVBwY25TU29PNkNxbVNuaTlBT2tRQlIwWDlPUGY5OFhVSDI5dDdnaTRhTE1qQUJTME5XYUdBalVtUkxLbDc1cVBNdElXbndENVRxNllpb29lMnRWU3l2WXFPQ1hrdU1XS2duc1VBdWVDZThvaTJjN0lscThWemNuemFFZndBOVJmUm1NLUEwOHAzbl8xOEhGbml4MjDSAasBQVVfeXFMTkFVNW95VzZOU0VpazFOUmVmZ0d3SmFUano4SWF4X3RKemNiVV9LUF96NmdtZERuRTV4Y3JtcEktVUJtMjQ2RUJFNlgxT1JaUkdMck9SWEYxc1prNzMxZk9DcmJQaHJNUzJDVlZNNG0yMmtUamhwTUQwVS1KWkNubjVSLWVnSDBIYlJTSmNTTmpmUFlrV05CSTlORmxOSmVDZTRZNmNfaXh4dl9N?oc=5",
+      "description": "El mundial de fútbol en México: el caos que se volvió fiesta&nbsp;&nbsp;DW",
+      "pubDate": "2026-06-11T23:28:23Z",
       "source": "Google News",
       "category": "México",
       "thumbnail": null
@@ -941,8 +914,17 @@
     {
       "title": "Alerta global: 'El Niño' podría convertirse en un fenómeno histórico, advierte la NOAA - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOU2paNWhUS3ZqZlpkR1pWTnhUV2NfMVE4MzVSUEtYbFI3b24wSjd3VG01bUlmcGM4S1lkdDhmdE11cHJvNG1SUTZkSmlUWFV6YzlFNk04QWV5SDJzMEMySF9Dc1dXWWczY25sUW5GaWFOdFJOVTBRZUE1MTdBX1FNcnFhOEtNZ2x3NTNpSVNRUFZGQmVLRWcwQVRpRXFBeDNWZXYtZ3RjMDdQVWhFR0FBZXJuNUhTbjJxN2g4WEp0SjNBbjBzYTNSUmJzell5ZlE?oc=5",
-      "description": "Alerta global: 'El Niño' podría convertirse en un fenómeno histórico, advierte la NOAA&nbsp;&nbsp;La JornadaEs oficial: El Niño ha llegado, las temperaturas y lluvias cambiarán notablemente en próximos meses sobre México&nbsp;&nbsp;Meteored MéxicoIdeam explicó",
+      "description": "Alerta global: 'El Niño' podría convertirse en un fenómeno histórico, advierte la NOAA&nbsp;&nbsp;La JornadaIdeam explicó por qué inició el fenómeno de El Niño y confirmó la fecha más crítica&nbsp;&nbsp;YahooEs oficial: El Niño ha llegado, las temperaturas y l",
       "pubDate": "2026-06-11T19:31:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "México vs Sudáfrica: Ver GRATIS y EN VIVO HOY el resultado de la transmisión del jueves 11 de junio, partido d - TV Azteca",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdktKcWRTYlNrRFNfMElBUmtzZnhVdG1vU2ZWaHBZUWttQnJtUUpNT0l1U0RMenliQ0U0dUpQWENmSDVtbmZGS3FFRmxLNFR1U0xoVmFnWU9mTzZBWmhNREVZQjdEeEJyVnVUWGtyNXNqX1dPandRSHNrWUdtUnpuNURwajFIeWZFUzZZNVBmWmxSZTdrSjhKVjNEUUtfdE0xR3dNTGtSNzlWSnhjU2hRcmxhbTgwd9IB5AFBVV95cUxPdmJNcVJjam9nZ3VCUk5HVFVCTHlnNG9JVDJMSUFuelFub1VYTnFQSVU5THJvcEdCa3c2dkVTWXh1aDhtYTlIYWFiSHozcWF6VTJLMXM4bzRWMFMxWjRkT3hRRWRhal80US11d3dMam9RY3NWNjVTR2pJV1UwRlVIZXdIMWs1czc4Y2VPbU5obGljX2VqUFFIMXM1U1JCamFja0lLbFJaZzFOY1huSjh5bml0cEdWWUFZX29jMlBYQ0dDWnhxOTRfTXRwQTZ2eUo1NFh0R01SakUyLWx1M0xrUUhVQzA?oc=5",
+      "description": "México vs Sudáfrica: Ver GRATIS y EN VIVO HOY el resultado de la transmisión del jueves 11 de junio, partido d&nbsp;&nbsp;TV AztecaTremendo fracaso en inauguración en Canadá: México ya va ganando en el Mundial 2026&nbsp;&nbsp;MARCAShakira en la inauguración de",
+      "pubDate": "2026-06-11T18:38:57Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
@@ -955,15 +937,6 @@
       "source": "Google News",
       "category": "México",
       "thumbnail": null
-    },
-    {
-      "title": "\"Relájense\": las polémicas respuestas de Infantino sobre Irán, el árbitro somalí y si perdió el control del Mundial",
-      "link": "https://www.bbc.com/mundo/articles/ce8jxdm3yy6o?at_medium=RSS&at_campaign=rss",
-      "description": "El presidente de la FIFA dio polémicas declaraciones a la prensa un día antes del inicio de la Copa del Mundo.",
-      "pubDate": "2026-06-11T14:10:58Z",
-      "source": "BBC Mundo",
-      "category": "Política",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a775/live/3ceaf020-658d-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "title": "Síguelo en directo aquí",
@@ -984,10 +957,10 @@
       "thumbnail": null
     },
     {
-      "title": "“México Vibra” con la unión de la música y el fútbol - Milenio",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVHEtRHpybkU0OHVJZ1d0UzhYN29rc1Z2cUttWlhZMUs2QTk4YURTUFVrdEVfYVVYdGlwREdXN2FfN05ZMkpWQ01OY0NMX3REN3pUNkJhQVpqc3ZtRHlISFNaZnZ4OE90TUZLcWY1dFc1SUkwbEhqdzZIbWtBMGJFd2xka3NtOE1iazBxRzc0MjTSAZABQVVfeXFMTVdWcnl4Y0lBR09XY05SdzdwbGRyZDBEM0pEOHR5b3JFNjk5MW1PRkpCNmFUbEp6ZHJUVHNKeENicXljazhuOHY2VERhVktqZmlEdE0tbTZ0a1RJR2YwZnR6LUNrY212dXJMeUlodU54UHZWdTZFUXRtUFVTcW1vMmRQeHJLbUhnUDZySVQ1U2I0?oc=5",
-      "description": "“México Vibra” con la unión de la música y el fútbol&nbsp;&nbsp;Milenio",
-      "pubDate": "2026-06-10T22:09:15Z",
+      "title": "Senado ratifica a Roberto Lazzeri como embajador de México en Estados Unidos - EL CEO",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUGRmbzVCN2lxRFVWVWxNS3VVcXBlbDRUMC1pdTJzdmFnakVCWlFoZDBQNU03cVh1VDh3MDl2bDBCcEhBNGFPUjkzUlF5a0EwNnlYblNNdzdBMjVWUWFuOWRJYzVrX1NYdjhJR0o2X19mUFVwRjJSZ3JucUZfTGwyQ2YxZ3NNVDNmUnQwQm1fdGlPaXctMU1HR1lobHhicUlQemFrdnJhNA?oc=5",
+      "description": "Senado ratifica a Roberto Lazzeri como embajador de México en Estados Unidos&nbsp;&nbsp;EL CEO",
+      "pubDate": "2026-06-10T21:28:45Z",
       "source": "Google News",
       "category": "México",
       "thumbnail": null
@@ -997,6 +970,15 @@
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5NktDZzJRSG05elBOem9vYWpCaC1qb1hpenQ0TWE2SGpIMnFXOFRxeF9ZTDZhUVBlS3N2VnlDemVncm5jVGV4SU95RmRMNDJuX2ZrdmNoSVZwTTJBelQ1NW1mbkVTTk5tUG51TXYwaGtLQ1RaMUxwSnZB?oc=5",
       "description": "México 86: la música, cine y TV del Mundial&nbsp;&nbsp;El Momento Yucatán",
       "pubDate": "2026-06-10T17:51:34Z",
+      "source": "Google News",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Tres lecciones para México de las políticas ambientales en Chile - Grupo Animal",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aMi1tdHRYdWQySmkwdUo1bl9ycVNxeURiVkNYSURFMW5mQTNJcTNaWmVfRDhLRERxODZvcVBCaExvYmFHeEdKbThqYmY0NFZ6eDFXa2RsS3N3QVZjTnVHcVgyZ052Q2tnVzQ3a2R6ZUtYTWhYSE1JUg?oc=5",
+      "description": "Tres lecciones para México de las políticas ambientales en Chile&nbsp;&nbsp;Grupo Animal",
+      "pubDate": "2026-06-10T12:05:07Z",
       "source": "Google News",
       "category": "México",
       "thumbnail": null
@@ -1081,6 +1063,24 @@
       "source": "MARCA México",
       "category": "México",
       "thumbnail": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/05/21/17793853043103_150x0.jpg"
+    },
+    {
+      "title": "Óscar Whalley asume la titularidad en la portería de Chivas",
+      "link": "https://www.marca.com/futbol/2026/05/07/oscar-whalley-asume-titularidad-porteria-chivas.html",
+      "description": "El meta español debuta en competición oficial con el CD Guadalajara trasconfirmarse la convocatoria de Rangel para el Mundial&nbsp; Leer",
+      "pubDate": "2026-05-07T14:16:53Z",
+      "source": "MARCA México",
+      "category": "México",
+      "thumbnail": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/05/07/17781634092196_150x0.jpg"
+    },
+    {
+      "title": "Golazo de 'Locos' del hijo de Abreu... con su padre en el banquillo",
+      "link": "https://www.marca.com/futbol/2026/04/24/golazo-locos-hijo-abreu-padre-banquillo.html",
+      "description": "Diego, atacante, marcó un golazo jugando a las órdenes de Sebastián, entrenador, en Tijuana&nbsp; Leer",
+      "pubDate": "2026-04-24T08:12:01Z",
+      "source": "MARCA México",
+      "category": "Deportes",
+      "thumbnail": "https://objetos.estaticos-marca.com/assets/multimedia/imagenes/2026/04/24/17770183147818_150x0.jpg"
     }
   ]
 }
