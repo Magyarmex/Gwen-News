@@ -1,7 +1,250 @@
 {
-  "generated": "2026-06-14T07:11:24.834575+00:00",
+  "generated": "2026-06-14T10:41:33.617365+00:00",
   "count": 168,
   "articles": [
+    {
+      "title": "Resolviendo uno de los mayores retos logísticos de colonizar Marte: la caducidad de los medicamentos",
+      "link": "https://www.xataka.com/espacio/virus-que-infecta-plantas-podria-convertirse-farmacia-astronautas-marte",
+      "description": "Los problemas de equipaje de los astronautas son más que conocidos. No se puede viajar a Marte con una maleta llena de “por si acasos”. Cada kilo de más supone una cantidad enorme de combustible, que a su vez supone más carga. Es importante elegir bien lo que ",
+      "pubDate": "2026-06-14T10:30:16Z",
+      "source": "Xataka",
+      "category": "Cultura",
+      "thumbnail": "https://i.blogs.es/f5b5f1/medicamentos-en-el-espacio/1024_2000.jpeg"
+    },
+    {
+      "title": "El PP lanza una web con un mapa de la \"corrupción del PSOE\": \"A veces es difícil de seguir\"",
+      "link": "https://www.marca.com/tiramillas/politica/2026/06/14/pp-lanza-web-mapa-corrupcion-psoe-veces-dificil-seguir.html",
+      "description": "El Partido Popular incide en las polémicas judiciales de la formación socialista",
+      "pubDate": "2026-06-14T10:15:00Z",
+      "source": "MARCA",
+      "category": "Política",
+      "thumbnail": ""
+    },
+    {
+      "title": "Controlar un videojuego con la mente parece un avance vacío. Es la puerta a tratamientos para la depresión o la ansiedad",
+      "link": "https://www.xataka.com/medicina-y-salud/controlar-videojuego-mente-parece-avance-vacio-puerta-a-tratamientos-para-depresion-ansiedad",
+      "description": "Si bien buena parte de la industria tecnológica se está centrando en innovaciones que no tenemos muy claro cómo nos pueden ayudar (ahí está el dispendio en IA y en robótica humanoide), hay quien está investigando algo que puede abrir una puerta impensable para",
+      "pubDate": "2026-06-14T10:00:17Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/f8eb1a/controlar-videojuego-con-la-mente/1024_2000.jpeg"
+    },
+    {
+      "title": "Steam mata sus tarjetas de regalo físicas: Valve le declara la guerra a los estafadores",
+      "link": "https://hipertextual.com/videojuegos/steam-mata-tarjetas-de-regalo-fisicas/",
+      "description": "Valve ha decidido poner punto y final a las tarjetas de regalo físicas de Steam. La compañía anunció esta semana que no piensa reponer las gift card de la plataforma de juegos que se ofrecen en cadenas minoristas. De esta manera, cuando se acaben las existenci",
+      "pubDate": "2026-06-14T10:00:00Z",
+      "source": "Hipertextual",
+      "category": "Tech",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Tarjetas-Steam-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "No habrá salida mágica: Alonso cambia la parte eléctrica y saldrá desde el pit",
+      "link": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/14/habra-salida-magica-alonso-cambia-parte-electrica-saldra-pit.html",
+      "description": "MARCA desveló en exclusiva que era el único equipo que trabajaba fuera del régimen de parque cerrado y se ha desvelado el motivo concreto",
+      "pubDate": "2026-06-14T09:52:48Z",
+      "source": "MARCA",
+      "category": "Cultura",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ferran Torres, un chollo para el Barça",
+      "link": "https://www.marca.com/futbol/barcelona/2026/06/14/ferran-torres-chollo-barca.html",
+      "description": "Confía en su renovación, pero no le faltan ofertas de grandes de Europa si apuesta por irse",
+      "pubDate": "2026-06-14T09:48:40Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Sydney Sweeney y Chalamet enloquecen con sus Knicks",
+      "link": "https://www.marca.com/baloncesto/nba/album/2026/06/14/avalancha-locura-famosos-finales-nba.html",
+      "description": "Muchas celebreties no quisieron perderse el último partido de las Finales de la NBA entre Spurs y Knicks",
+      "pubDate": "2026-06-14T09:48:04Z",
+      "source": "MARCA",
+      "category": "Política",
+      "thumbnail": ""
+    },
+    {
+      "title": "Jesse 'Bam' Rodríguez noquea a Vargas y la superpelea contra Inoue está más cerca",
+      "link": "https://www.marca.com/boxeo/2026/06/14/jesse-bam-rodriguez-noquea-vargas-superpelea-inoue-cerca.html",
+      "description": "El estadounidense se proclama campeón mundial en una tercera categoría de peso y vuelve a demostrar que 'juega en otra liga'",
+      "pubDate": "2026-06-14T09:46:25Z",
+      "source": "MARCA",
+      "category": "Economía",
+      "thumbnail": ""
+    },
+    {
+      "title": "\"Galán y Lebrón: esto no ayuda a nadie\"",
+      "link": "https://www.marca.com/padel/opinion/2026/06/14/galan-lebron-herida-abierta-morbo-lastima.html",
+      "description": "La opinión de Jesús Mata",
+      "pubDate": "2026-06-14T09:41:51Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Así es el 'Fight Day' de Topuria",
+      "link": "https://www.marca.com/combates-ufc/2026/06/14/asi-fight-day-ilia-topuria-busca-flow.html",
+      "description": "MARCA habla en Washington con Fran Ortega, fisioterapeuta del 'Matador'",
+      "pubDate": "2026-06-14T09:37:21Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Si vuelas con un menor de 12 años tienes que sentarte a su lado. Reino Unido sospecha que Ryanair se está aprovechando",
+      "link": "https://www.xataka.com/movilidad/vuelas-menor-12-anos-tienes-que-sentarte-a-su-lado-reino-unido-sospechan-que-ryanair-se-esta-aprovechando-ello",
+      "description": "No es obligatorio pero para Ryanair sí lo es. Al menos para niños de entre 2 y 11 años, como señalan en sus propias condiciones de reserva. La aerolínea irlandesa obliga a que los progenitores viajen, sí o sí, en los asientos contiguos a sus hijos cuando éstos",
+      "pubDate": "2026-06-14T09:30:17Z",
+      "source": "Xataka",
+      "category": "Cultura",
+      "thumbnail": "https://i.blogs.es/4e9f5b/ryanair/1024_2000.jpeg"
+    },
+    {
+      "title": "Puma vs Adidas: cómo la pelea entre dos hermanos partió en dos una ciudad alemana durante décadas",
+      "link": "https://www.bbc.com/mundo/articles/clypmyg8d74o?at_medium=RSS&at_campaign=rss",
+      "description": "La historia detrás de una de las rivalidades empresariales más extraordinarias del siglo XX.",
+      "pubDate": "2026-06-14T09:11:02Z",
+      "source": "BBC Mundo",
+      "category": "Mundo",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ab9/live/a6057250-6359-11f1-8b15-6100cfbc3083.jpg"
+    },
+    {
+      "title": "Llegó el momento: elige el once de España",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/14/llego-momento-elige-once-espana-debut-mundial-cabo-verde.html",
+      "description": "Muchos fijos y alguna duda para De la Fuente",
+      "pubDate": "2026-06-14T09:10:41Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Un \"Whoop\" para vacas: la última locura de Peter Thiel es cambiar el alambre de espino por una suscripción",
+      "link": "https://www.xataka.com/servicios/whoop-para-vacas-ultima-locura-peter-thiel-cambiar-alambre-espino-suscripcion",
+      "description": "El de la ganadería es un mundo muy sacrificado y poco susceptible de ser sustituido por una IA, pero eso no significa que la tecnología pueda aliviar la dura tarea del cuidar del ganado. Y más cuando uno de los hombres más influyentes de la tecnología cree en ",
+      "pubDate": "2026-06-14T09:00:17Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/391126/whoop/1024_2000.jpeg"
+    },
+    {
+      "title": "Qué es Claude Fable 5 y para qué sirve",
+      "link": "https://hipertextual.com/inteligencia-artificial/que-es-claude-fable-5-y-para-que-sirve/",
+      "description": "Hace unos días que Anthropic lanzó Claude Fable 5, el modelo de inteligencia artificial más potente que la compañía ha puesto a disposición del público general. Es también el primero de una nueva generación que combina rendimiento de nivel Mythos con medidas d",
+      "pubDate": "2026-06-14T09:00:00Z",
+      "source": "Hipertextual",
+      "category": "Tech",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/claude-fable-portada-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "El sobrino de Pedro de la Rosa sigue soñando: Del Pino, a 10 puntos del líder de la F3",
+      "link": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/14/sobrino-pedro-rosa-sigue-sonando-pino-10-puntos-lider-f3.html",
+      "description": "El español suma dos sextos puestos en Montmeló y roza el liderato virtual del campeonato",
+      "pubDate": "2026-06-14T08:48:21Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Marruecos se viste de una Brasil rescatada por Vinicius con el golazo del empate",
+      "link": "https://elpais.com/deportes/mundial-futbol/2026-06-14/marruecos-se-viste-de-una-brasil-rescatada-por-vinicius-con-el-golazo-del-empate.html",
+      "description": "La selección norteafricana muestra su estilo ambicioso ante el plan menos arriesgado de Ancelotti",
+      "pubDate": "2026-06-14T08:37:46Z",
+      "source": "El País",
+      "category": "Política",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/GVXSHRSKOVI5FGMSF4AIE7N6GI.jpg?auth=5bc50c62b8fe2c20be951bd9402f645e64bfdbb80685a9367f78e89d3f988f92"
+    },
+    {
+      "title": "Miguel Sebastián defiende a Zapatero: \"¿Alguien cree que somos los únicos que recibimos regalos?\"",
+      "link": "https://www.marca.com/tiramillas/television/2026/06/14/miguel-sebastian-defiende-zapatero-sexta-alguien-cree-unicos-recibimos-regalos.html",
+      "description": "El exministro analiza la polémica en 'laSexta Xplica'",
+      "pubDate": "2026-06-14T08:34:26Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Adiós a la jornada de 8 horas: el \"microshifting\" está hackeando el trabajo para devolvernos el control del reloj",
+      "link": "https://www.xataka.com/magnet/adios-a-jornada-8-horas-como-microshifting-esta-hackeando-sistema-para-devolvernos-control-reloj",
+      "description": "Antes de que su hijo despierte,&nbsp;John D. Connolly&nbsp;ya lleva una hora trabajando. Desayuna con su familia, trabaja cuatro horas antes de comer con su mujer, retoma a las cuatro de la tarde y vuelve al ordenador cuando el niño está en la cama. Los fines ",
+      "pubDate": "2026-06-14T08:30:17Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/348611/trabajo/1024_2000.jpeg"
+    },
+    {
+      "title": "Las mejores ofertas de MediaMarkt en tecnología y entretenimiento, hoy 14 de junio",
+      "link": "https://www.xataka.com/seleccion/mejores-ofertas-mediamarkt-tecnologia-entretenimiento-hoy-14-junio",
+      "description": "MediaMarkt tiene ahora mismo un buen surtido de ofertas a través de sus diferentes campañas, y todas las que vamos a repasar en este listado estarán disponibles durante todo el fin de semana. Si quieres comprar una consola o un móvil, mucho ojo porque hay dond",
+      "pubDate": "2026-06-14T08:30:17Z",
+      "source": "Xataka",
+      "category": "Política",
+      "thumbnail": "https://i.blogs.es/d01e38/tienda-mediamarkt/1024_2000.jpeg"
+    },
+    {
+      "title": "Luka Bozic pide disculpas tras la polémica por una publicación sobre el 'Mein Kampf' de Hitler",
+      "link": "https://www.marca.com/baloncesto/2026/06/14/luka-bozic-pide-disculpas-polemica-publicacion-sobre-mein-kampf-hitler.html",
+      "description": "El jugador, que recientemente ha sido confirmado como baja en el Covirán Granada, eliminó la imagen de sus redes sociales y aseguró que no pretendía expresar ideas políticas",
+      "pubDate": "2026-06-14T08:25:16Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Hemos encontrado la kriptonita de los irreductibles tardígrados. Está en el suelo de Marte",
+      "link": "https://www.xataka.com/espacio/hemos-encontrado-kriptonita-irreductibles-tardigrados-esta-suelo-marte",
+      "description": "Hay pocos bichos tan importantes para la exploración espacial que los tardígrados. De hecho, tardígrados y sepiólidas suelen tener un asiento reservado en las misiones espaciales de la NASA por algo. Si son tan imprescindibles para la ciencia es porque son cas",
+      "pubDate": "2026-06-14T08:16:16Z",
+      "source": "Xataka",
+      "category": "Ciencia",
+      "thumbnail": "https://i.blogs.es/54cb33/teee/1024_2000.jpeg"
+    },
+    {
+      "title": "El mapa que parte el mundo en dos: los países que están abocados a la extinción y los que no",
+      "link": "https://www.xataka.com/magnet/mapa-que-parte-mundo-dos-paises-que-estan-abocados-a-extincion-que-no",
+      "description": "Geográficamente hablando, el mundo está dividido en dos. Por un lado están los países donde nacen más personas de las que mueren: como resultado, la población crece de forma natural. Por otro, aquellos países donde mueren más personas de las que nacen, lo que ",
+      "pubDate": "2026-06-14T08:00:17Z",
+      "source": "Xataka",
+      "category": "Cultura",
+      "thumbnail": "https://i.blogs.es/a6330d/mapiii/1024_2000.jpeg"
+    },
+    {
+      "title": "Según los expertos, usar de este modo tu aire acondicionado y ventilador te va a ahorrar mucho dinero",
+      "link": "https://hipertextual.com/tecnologia/segun-los-expertos-usar-de-este-modo-tu-aire-acondicionado-y-ventilador-te-va-a-ahorrar-mucho-dinero/",
+      "description": "Cada verano buscamos la manera de ahorrar en la factura de luz a causa del incremento en el uso de los dispositivos de climatización, tales como el ventilador o el aire acondicionado. Y si bien hay multitud de trucos y consejos para evitar que el gasto sea más",
+      "pubDate": "2026-06-14T08:00:00Z",
+      "source": "Hipertextual",
+      "category": "Ciencia",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/Aire-Acondicionado-Mando-Modo-Humedad.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "El poder de la remolacha en el debut de España",
+      "link": "https://www.marca.com/futbol/seleccion/2026/06/14/asi-prepara-partido-12-manana.html",
+      "description": "Hora de desayuno, el poder de la remolacha, la última carga alimenticia, la hidratación, la vigilancia de los electrolitos...",
+      "pubDate": "2026-06-14T07:59:25Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Basilio y la nostalgia: el amargo trago de renunciar para siempre a conducir",
+      "link": "https://www.marca.com/coches-y-motos/trafico/2026/06/14/basilio-nostalgia-amargo-trago-renunciar-siempre-conducir.html",
+      "description": "Cuando una persona anciana deja de conducir, es muy posible que junto al coche desaparezca de su vida la sensación de libertad. Basilio, antiguo chófer de la Generalitat Valenciana, nos ayuda a comprender la dureza de este paso sin retorno.",
+      "pubDate": "2026-06-14T07:37:28Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "El bonito homenaje de Portugal a Diogo Jota",
+      "link": "https://www.marca.com/futbol/mundial/2026/06/14/6a2e5460cf1a9beb6197d6a2.html",
+      "description": "Sigue la última hora de toda la información de la Copa del Mundo 2026",
+      "pubDate": "2026-06-14T07:16:51Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
     {
       "title": "Villa Baviera y Colonia Dignidad: la sórdida historia del retiro dorado de los nazis en el interior de Chile",
       "link": "https://www.xataka.com/magnet/villa-baviera-colonia-dignidad-sordida-historia-retiro-dorado-nazis-interior-chile",
@@ -21,40 +264,13 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/chatgpt-local-y-gratis.jpg?fit=1024%2C667&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "José Alvarado atiende a MARCA tras ganar la NBA con los Knicks: \"Mucha gente no confiaba en mí y ahora soy campeón\"",
-      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/06/14/jose-alvarado-atiende-marca-ganar-nba-knicks-gente-confiaba-mi-campeon.html",
-      "description": "El base puertorriqueño muestra su alegría después de la histórica victoria de los Knicks en la final ante los Spurs",
-      "pubDate": "2026-06-14T06:52:35Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Australia 2-0 Turquía | Resumen Mundial 2026",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/14/australia-2-0-turquia-resumen-mundial-2026-video.html",
-      "description": "",
-      "pubDate": "2026-06-14T06:37:42Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Trump anuncia grandes noticias para hoy: \"El estrecho de Ormuz estará abierto para todos\"",
-      "link": "https://www.marca.com/tiramillas/politica/2026/06/14/donald-trump-anuncia-grandes-noticias-domingo-estrecho-ormuz-estara-abierto-todos.html",
-      "description": "El presidente de Estados Unidos promete un acuerdo definitivo e inminente con Irán",
-      "pubDate": "2026-06-14T06:30:01Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
-    },
-    {
-      "title": "Patrick Beach, el mejor jugador de lo que va de Mundial",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/14/patrick-beach-convierte-muro-salta-directamente-primer-puesto-power-ranking.html",
-      "description": "A pesar de la victoria, tan solo un jugador de Australia se cuela en el top 5",
-      "pubDate": "2026-06-14T06:24:38Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
+      "title": "Una eficaz Australia liquida a Turquía en el debut de ambos en la Copa Mundial de la FIFA 2026 - TV Azteca",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZXI2T0M1TmZyYTIzRGNyUHYta2JDWDFPNGJyTnFHaTRwTVlucDc4c25UWGZzbnVCLUE0N1IzbkhYRS1Xc2U1OUFLYnVVV2tzUXc0eWprekgwY0h3WGozQW9pQ0JaLTh6MFY2SVg5X0JUSlczR3lLTS0weU1RYkloaDBXVDQ5T3hTTWRtTmJjQTE1UWhmV2ltZzJ4eUk2OUR1NEFwemQxakVLQ0w4b3J2ME02a1VfVWZBUUU5ZnVhVlNPaUxzYzRkUFByRlBJZ0dFdUJSRVZlUlpBZ9IB5wFBVV95cUxQM2NtbklRZDRVQzhsWS1GQnBWTHRjWDJRUmE2THRkdFltdTRNT3FobHJBcS1DRWhJZS14Y1JxWk1ldWk2Zkh5ZUdGRG5xbHF6b2FTNVJ1d05EVmdGT0JIZnY5azM0cER4a0RTNVZxM3FvTlRYZkFpdFFWTm9mZXZHMUlfU09KT3BDOExYNERtOTB2TzA2MHBtUTVpYkY5U095dEVxMUkzVmpfNEhoQWtOZHhfNmEzdm56dUdCZmUxbmROR0MxdnBaenhUdXRsTE1EZVJmUjB1Z2pRaDVIb05NcXpXNXZuVVU?oc=5",
+      "description": "Una eficaz Australia liquida a Turquía en el debut de ambos en la Copa Mundial de la FIFA 2026&nbsp;&nbsp;TV AztecaAustralia frustra a Turquía y da la sorpresa en Mundial 2026&nbsp;&nbsp;ESPN MéxicoDe arco a arco: Se lo perdió Turquía, y en la contra facturó I",
+      "pubDate": "2026-06-14T06:03:24Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
       "title": "9 modelos de IA ‘made in China’ que deberías probar si quieres estar a la última",
@@ -84,15 +300,6 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YJUCS03G9fpT-7k8ITf3kBcJ5pE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VBU7SJTIRNAZ5D56RNDXEXRPCU.jpg"
     },
     {
-      "title": "Australia hace que 'Arda' el Mundial",
-      "link": "https://www.marca.com/futbol/mundial/cronica/2026/06/14/australia-arda-mundial.html",
-      "description": "La selección oceánica se impuso a la Turquía de Güler con una gran actuación de los de Popovic. Irankunda y Metcalfe, los goleadores",
-      "pubDate": "2026-06-14T05:59:55Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
-    },
-    {
       "title": "¿Alerta en el Triángulo Dorado? Blindan Durango con casi 700 militares de élite en menos de una semana",
       "link": "https://www.elfinanciero.com.mx/estados/2026/06/13/alerta-en-el-triangulo-dorado-refuerzan-durango-con-casi-700-militares-de-elite-en-menos-de-una-semana/",
       "description": "En menos de una semana, el Gobierno Federal desplegó cerca de 700 militares especializados en Durango, incluyendo Fuerzas Especiales, Fuerza de Tarea Conjunta México y unidades blindadas.",
@@ -111,58 +318,22 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/H_kcXnQmqwE_kaptkZpCN5RmBqU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3GKPQCTFPJHEFK4T43HIWDL4XU.jpeg"
     },
     {
-      "title": "Las horas más salvajes de Nueva York: explosión en un camión, policías embistiendo con los caballos…",
-      "link": "https://www.marca.com/baloncesto/nba/2026/06/14/horas-salvajes-nueva-york-explosion-camion-policias-embistiendo-caballos.html",
-      "description": "Caos total en las calles de Nueva York tras conquistar los Knicks la NBA 53 años después",
-      "pubDate": "2026-06-14T05:46:51Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
+      "title": "México: matan a tiros a alcalde en zona azotada por el narco - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM285NGJRVVRLSG5XS050dDFBTHgtYzBjcGRHSUNtcHRobE5vYXd2SV9hX0hKb0J4Z3diYW1ueXZEdXRpN2pJU3g3NHRicmx2dk1YQ0hVMVpWZDBoOFB3MVVxOV9wSElMNlI0SHpTem1fc25VZV9zZzJkV0ttMDhMWktZQm5WVUo4cjBLR2JVVlU4TTdwMEE5QkZzeXJvaGp6d2E0bTRn0gGmAUFVX3lxTE43RVpXS3hkRUVIWEdVWjNOU1d2Ym1QUDZRQnBXTUhBSE9qdzJkTEN4Yjkwa1E5N3FtMlV0RUZHUFVMVXdGSHpaZFRPdGo5U0RLeUVXSEk5X3ZocDFyLXlrQWZLRjJNa1ByaGhfTEFZenNvcWh6ZVZma0pETjdvWUh5UHEwenJFdldnTEZybFBQNG5YbUd3RVBmQUNWTlFDQTdfQjJnYVE?oc=5",
+      "description": "México: matan a tiros a alcalde en zona azotada por el narco&nbsp;&nbsp;DW.comDenuncia PAN que negaron protección a Alcalde asesinado&nbsp;&nbsp;ReformaAsesinan a tiros a alcalde de San Miguel Amatitlán, Oaxaca&nbsp;&nbsp;YahooSeguridad afirma que no habrá imp",
+      "pubDate": "2026-06-14T05:42:52Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
-      "title": "Así fue el momento en el que los Knicks rompieron una sequía de 53 años y se hicieron con el anillo de la NBA",
-      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/06/14/asi-sido-momento-knicks-han-roto-sequia-53-anos-han-hecho-anillo-nba-video.html",
-      "description": "",
-      "pubDate": "2026-06-14T05:33:31Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "El negocio oculto del Mundial: cuánto cobrará cada club por sus jugadores",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/14/batalla-mundial-lluvia-millones-claves-reparto-novedoso-supone-hito-clave.html",
-      "description": "Antonio Fernández, Senior Associate del área de Sports de Baker McKenzie, explica a MARCA cómo funcionará el reparto económico por ceder futbolistas al Mundial 2026",
-      "pubDate": "2026-06-14T05:23:25Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Haití 0-1 Escocia | Resumen Mundial 2026",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/14/haiti-0-1-escocia-resumen-mundial-2026-video.html",
-      "description": "",
-      "pubDate": "2026-06-14T05:17:12Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Wemby, abatido tras perder sus primeras Finales de la NBA",
-      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/06/14/wemby-abatido-perder-primeras-finales-nba-leccion-grande-mi-vida-sido-ano-infernal.html",
-      "description": "El gigante de los San Antonio Spurs, a sus 22 años, se ha quedado a las puertas de ganar su primer anillo de campeón",
-      "pubDate": "2026-06-14T05:16:32Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "La acción de Wemby que le pudo costar una sanción: fea falta no pitada sobre Brunson en el tercer cuarto",
-      "link": "https://www.marca.com/baloncesto/nba/playoffs/2026/06/14/accion-wemby-le-pudo-costar-sancion-fea-falta-pitada-sobre-brunson-tercer-cuart-video.html",
-      "description": "",
-      "pubDate": "2026-06-14T05:06:09Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
+      "title": "En asamblea nacional, CNTE perfila continuar paro nacional; llama a reforzar plantón en el Zócalo - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaF9hTFV4eHFFWTFPZDRfZzZzZWZwRHZvTjRFXy04WldNM3E3VVAySGcwNG1VUDlmM2RTOWIxZlpuRktTcXROY0VBeU15UEl1MEJka2paVmdpMk1USkhqN3hTbldxNWxmUXdzYlMxbndKZ2RWZDRQMGphMGJfWFNwSXozMmpVYWF1cnMxVTJSY2trdHp3bXc1QjlrX1kyMEZsSjMwRlpZcy1GY2h6c2EwNVdBbW14X0dJaW9fazJCUHVTVEtweEZtcEc0UVFjUHF1alRveFhnQ3llT2FrSTMwWUxRdHcxNHc?oc=5",
+      "description": "En asamblea nacional, CNTE perfila continuar paro nacional; llama a reforzar plantón en el Zócalo&nbsp;&nbsp;La JornadaSección 22 de Oaxaca, a favor de seguir huelga de la CNTE; dirigencia nacional define hoy rumbo del paro&nbsp;&nbsp;La JornadaLa Autoridad de",
+      "pubDate": "2026-06-14T05:13:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
       "title": "‘Es como si se hubiera vuelto la ópera’: Diego Luna critica los precios de los boletos para el Mundial 2026",
@@ -172,33 +343,6 @@
       "source": "El Financiero",
       "category": "México",
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Ske9ngBZmGMAdRBBEKfZ03ingIg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PQXSIX7OAFCGHPOJ4QPOSK33ZI.jpeg"
-    },
-    {
-      "title": "Dumfries debuta como madridista en Países Bajos",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/14/dumfries-debuta-madridista-paises-bajos-mejores-atacantes.html",
-      "description": "El futuro jugador del Real Madrid será titular como lateral derecho de Koeman",
-      "pubDate": "2026-06-14T05:03:32Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "UFC Casa Blanca: la puerta hacia la eternidad para Ilia Topuria",
-      "link": "https://www.marca.com/combates-ufc/2026/06/14/ufc-casa-blanca-puerta-eternidad-ilia-topuria.html",
-      "description": "El 'Matador' se enfrenta esta noche a Justin Gaethje en un contexto incomprable",
-      "pubDate": "2026-06-14T05:03:15Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Leandro Bacuna: \"Hemos puesto a Curazao en el mapa\"",
-      "link": "https://www.marca.com/futbol/mundial/2026/06/14/leandro-bacuna-hemos-puesto-curazao-mapa.html",
-      "description": "El capitán de la selección más pequeña de la historia en jugar un Mundial charla con MARCA antes de su debut contra Alemania",
-      "pubDate": "2026-06-14T05:01:25Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
     },
     {
       "title": "La visita recíproca del TMEC",
@@ -226,15 +370,6 @@
       "source": "El País",
       "category": "Política",
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/ZEXAQYUBTFBIJO5YG4PY32BJJM.JPG?auth=17537d5edaaeb6d7f78e4d89acc6e04a1a31efebc359c5d69ea55c22cb49d8ae"
-    },
-    {
-      "title": "CNTE redobla exigencia de abrogación de Ley del Issste de 2027 en inicio de su asamblea nacional - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYnlhYVZZWVV5N052YldjU1J4ZWU4U2FTTnhfblA1a1QwS3FLbHY2MEFxaVY3bHlFenU3c21uemRMX0xyTU9KMVd5SjFHWWdlUFo4c2hpdXFWZjRVbkNuZjRzLUY5TUpuR3JOYzd1R3pVTDhKSGNOMElna2lyYnlZN29JbVdldlAyckt6dFk4TVBtYVZ4YndpeUVCcHFoZjYxZV83MGc0ZlVNaS1ucVhRMTR2ZzFxdkZoVkc1T3BJOGNKZUhlbWQzcnRCdlQ3RWZoSkhrakt0ZGVjaTFJY2VIa2ZoTGpMZw?oc=5",
-      "description": "CNTE redobla exigencia de abrogación de Ley del Issste de 2027 en inicio de su asamblea nacional&nbsp;&nbsp;La JornadaCNTE decide este sábado si mantiene plantón o endurece protestas; suman 13 días de huelga nacional&nbsp;&nbsp;El UniversalLa CNTE consulta a l",
-      "pubDate": "2026-06-14T04:00:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "Knicks de NY es campeón de la NBA: Es su primer título en 53 años",
@@ -300,7 +435,7 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/XVR4IY7DANMVHA3CKLFCPAK7I4.jpg?auth=9454a1cd2e84a2a10a37c8e19a2a9cf8f94a6fa941bb37203e370b767a7c3fd3"
     },
     {
-      "title": "El caso Zapatero pone al Gobierno al límite de la resistencia",
+      "title": "El ‘caso Zapatero’ pone al Gobierno al límite de la resistencia",
       "link": "https://elpais.com/espana/2026-06-14/el-caso-zapatero-pone-al-gobierno-al-limite-de-la-resistencia.html",
       "description": "Los socios aguantan por el rechazo a Vox, pero temen que una imputación por financiación ilegal remate la legislatura",
       "pubDate": "2026-06-14T03:30:01Z",
@@ -336,15 +471,6 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/TRTSYBLIFBFAVJ3M635XNB4PU4.jpg?auth=e09e7471a9a7d4a3c938f6547f1bf3153f204222b6773a08f2693376bb3c2367"
     },
     {
-      "title": "El misterioso apuñalamiento del abogado de la exnovia del narco",
-      "link": "https://elpais.com/espana/2026-06-14/el-abogado-apunalado-que-pudo-apunalarse-el-giro-mas-inquietante-del-caso-matador.html",
-      "description": "Dos meses después de hallar al letrado con dos puñaladas, se investiga si se las infligió él mismo para evitar ir a juicio contra ‘Matador’",
-      "pubDate": "2026-06-14T03:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/PPC2JQXUA5FRDE733RRR5MWSMM.jpg?auth=1718248c82348b59e8084a6a3c448c6df9382aa51b249760145f18d6292b7dec"
-    },
-    {
       "title": "Emma Heming, esposa y cuidadora de Bruce Willis: “Necesitaba escuchar que podía pedir ayuda, pensé que era un fracaso tener que hacerlo”",
       "link": "https://elpais.com/gente/2026-06-14/emma-heming-esposa-y-cuidadora-de-bruce-willis-necesitaba-escuchar-que-podia-pedir-ayuda-pense-que-era-un-fracaso-tener-que-hacerlo.html",
       "description": "La exmodelo, que ha publicado una guía para ayudar a cuidadores de personas dependientes, habla con EL PAÍS sobre las dificultades de enfrentar la demencia frontotemporal del actor y sobre la importancia de rodearse de apoyos",
@@ -363,13 +489,13 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/2JTSPF6IRBDKVN23SPKMCXFPBE.jpg?auth=fa33861f8bfd09e265fdadf2c6168258827af24ddf70657f30ecd313adb1c9ef"
     },
     {
-      "title": "Marruecos se viste de una Brasil rescatada por Vinicius con el golazo del empate",
-      "link": "https://elpais.com/deportes/mundial-futbol/2026-06-14/marruecos-se-viste-de-una-brasil-rescatada-por-vinicius-con-el-golazo-del-empate.html",
-      "description": "La selección norteafricana muestra su estilo ambicioso ante el plan menos arriesgado de Ancelotti",
-      "pubDate": "2026-06-14T03:09:05Z",
+      "title": "36 fotos, 63 años: Demi Moore y su evolución de estilo desde su años de ‘Ghost’ hasta su delgadez extrema",
+      "link": "https://elpais.com/smoda/moda/2026-06-14/36-fotos-63-anos-demi-moore-y-su-evolucion-de-estilo-desde-su-anos-de-ghost-hasta-su-presente-de-delgadez-extrema.html",
+      "description": "La actriz ha conseguido ser un icono de estilo rentable para la industria del cine o de la moda durante cuatro décadas ininterrumpidas",
+      "pubDate": "2026-06-14T03:30:00Z",
       "source": "El País",
-      "category": "Política",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/GVXSHRSKOVI5FGMSF4AIE7N6GI.jpg?auth=5bc50c62b8fe2c20be951bd9402f645e64bfdbb80685a9367f78e89d3f988f92"
+      "category": "Entretenimiento",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/Z4P5CGRKUJGBNJHGHS4CA4N6SI.jpg?auth=4fd75954409c58ca3e4bd8a68f50af3e404366678908904bc57836126abc3751"
     },
     {
       "title": "Jay Clayton: De acusar a funcionarios mexicanos a ser nominado por Trump para Director de Inteligencia",
@@ -417,6 +543,15 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/VrGtzrA41PlgoU-HVEyvlFUQZT8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Q5FJY2UZSFAGRARYFLJQP7IYIE.png"
     },
     {
+      "title": "Trump: firma de acuerdo con Irán tendrá lugar este domingo - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUU55ZHdyb3pzZW5yMndRdEs4VFV3XzZzZG1UN1BOTTdWNzI1X1hnZUVQSmJzNVJpaUI1bjlvblhDYVp6MncwcGF3QWZCaDNxQUZhejk2eFhHZ1JjV2lRRmN4ZHNhNnJ6M3F5cjMzVUJaZ1IxY0dfR2xXQTNrNTQwY25MSVJZdjBuQW0xVWR1QXRGSEpSanVjTWprOUpwRFRLUkHSAaIBQVVfeXFMT0tuYVNNb1RLOUQwVjc2ekV6SGdJRl9vWHNiM0VldHNEb0VodlhyTFMyMXI0eWlDWVZBNjNVaE1QbDh2UjVoNjNidEhObWlnYVJlbVFGUEItOU0wQnQ5S0F1WVlGaVFrUElialJSZWNyY19RN1VFTlpsWWFsQ2FWSS1DcXo0Skg1TldTcDZiSEY1V3ZhOWliWW5iWWFyOHJYOXR3?oc=5",
+      "description": "Trump: firma de acuerdo con Irán tendrá lugar este domingo&nbsp;&nbsp;DW.comMediadores de Qatar viajan a Teherán para ultimar un posible acuerdo para acabar la guerra&nbsp;&nbsp;YahooAcuerdan EU e Irán un “texto definitivo” para la paz: Pakistán&nbsp;&nbsp;La ",
+      "pubDate": "2026-06-14T02:16:27Z",
+      "source": "Google News MX",
+      "category": "Política",
+      "thumbnail": null
+    },
+    {
       "title": "Entre política y espiritismo: ¿Quién fue el presidente ‘loco’ de México que hablaba con los muertos?",
       "link": "https://www.elfinanciero.com.mx/nacional/2026/06/13/el-espiritismo-de-francisco-i-madero-el-presidente-de-mexico-que-hablaba-con-los-muertos/",
       "description": "Francisco I. Madero, presidente de México entre 1911 y 1913, desarrolló una profunda relación con el espiritismo, creencia que influyó en su pensamiento político y en su visión de la democracia.",
@@ -426,12 +561,12 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/INWFrhw2zpO2wVke9QRo3quvw1s=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BYAEBWKZ5FGT7LOXQUVQIA3GXU.jpeg"
     },
     {
-      "title": "Brasil vs. Marruecos: los mejores memes y reacciones en las redes - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanE0aV9VUUp0V2xLakZkdkJBSVpqLWRFRHVlNXJyU3N1bjJKUXBocXdqcTYtSEI2SjNoMTZzZG5lWVRuRGtoZUpVM0lKenVOeF9zeF9wZTZhU3d3TTFSWE1McTVkdGNWeFdmQXJNdXRlaWxiUk9XWkliVjRpNWwyV05rOUc2a1NtWk5kbFBlUTlJVzBsc2pXZ0gtYktraEJzOWhDQWFUOGxhRWxSOFJ0Qw?oc=5",
-      "description": "Brasil vs. Marruecos: los mejores memes y reacciones en las redes&nbsp;&nbsp;YahooMarruecos y Brasil empatan en un partido vibrante durante su debut en el Mundial 2026&nbsp;&nbsp;La JornadaAncelotti, el hombre en el que Brasil confía para volver a la cima del ",
-      "pubDate": "2026-06-14T00:13:00Z",
+      "title": "Intensa lluvia y granizo provoca inundaciones en Cuautitlán Izcalli, Tultitlán y Coacalco - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQ0ZoMUtEM05CZ3Bxcm1CazhCWnBCWnpKRkhsRFZVX0J0aElwNzNTbkNGZy1ITlhaOWx1R1g2SlZEQkxHOVlVblBqQjdzcm1uTm9jQUZpQ0V1M2lpRnR5eU9SZXpVT3dTQUdKak41RXd5MmJtS19qRUZiY3dLVzRQa2ljV09teFBTS09SYlFlSUthaU9WWnRjaUZVQ3dJeFd5TmJDSEJuaHZVNklwVnRoTC1LcW9zbl9kcDJWak1Hb3FKalV4RnB4NlNRcE5EWk9XV2pUZElPN3dUUQ?oc=5",
+      "description": "Intensa lluvia y granizo provoca inundaciones en Cuautitlán Izcalli, Tultitlán y Coacalco&nbsp;&nbsp;La JornadaFuertes tormentas inundan el Circuito Exterior Mexiquense y colapsan vialidades en Edomex | MUNICIPIOS AFECTADOS&nbsp;&nbsp;El Heraldo de MéxicoInten",
+      "pubDate": "2026-06-14T00:54:00Z",
       "source": "Google News MX",
-      "category": "Política",
+      "category": "México",
       "thumbnail": null
     },
     {
@@ -444,28 +579,10 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5fad/live/93ee71f0-5f3c-11f1-b027-7de5029274c2.jpg"
     },
     {
-      "title": "Detienen en Veracruz a ex funcionario del SAT por enriquecimiento ilícito - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTFnRWp4SGM4ajZ5bUJFWHhvdlZfRFVxNGlBSEsyLXdHYXhWSjhmTFZCT0sxZEg5OVQxaVJyNC01TjF4UEhLdWpkNUd5RG5zVTlQUnpEOUVxdlJmYlZJZXNoTDZsWHBXZnRadlRLVkJrZkxlczV5TFRQb0tfVjFBN1hxVHNtcHAtb3FQQlJGWElPdkV5TU14OGJ1Ti11eVp0Umw1TWF4MWRyd3VjaE5XcE0wWGVSdjA?oc=5",
-      "description": "Detienen en Veracruz a ex funcionario del SAT por enriquecimiento ilícito&nbsp;&nbsp;La JornadaCapturan a ex mando del SAT por enriquecimiento ilícito&nbsp;&nbsp;ReformaCae Héctor Landa, exfuncionario del SAT, en Veracruz; es acusado de enriquecimiento ilícito",
-      "pubDate": "2026-06-14T00:01:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Trump: firma de acuerdo con Irán tendrá lugar este domingo - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUU55ZHdyb3pzZW5yMndRdEs4VFV3XzZzZG1UN1BOTTdWNzI1X1hnZUVQSmJzNVJpaUI1bjlvblhDYVp6MncwcGF3QWZCaDNxQUZhejk2eFhHZ1JjV2lRRmN4ZHNhNnJ6M3F5cjMzVUJaZ1IxY0dfR2xXQTNrNTQwY25MSVJZdjBuQW0xVWR1QXRGSEpSanVjTWprOUpwRFRLUkHSAaIBQVVfeXFMT0tuYVNNb1RLOUQwVjc2ekV6SGdJRl9vWHNiM0VldHNEb0VodlhyTFMyMXI0eWlDWVZBNjNVaE1QbDh2UjVoNjNidEhObWlnYVJlbVFGUEItOU0wQnQ5S0F1WVlGaVFrUElialJSZWNyY19RN1VFTlpsWWFsQ2FWSS1DcXo0Skg1TldTcDZiSEY1V3ZhOWliWW5iWWFyOHJYOXR3?oc=5",
-      "description": "Trump: firma de acuerdo con Irán tendrá lugar este domingo&nbsp;&nbsp;DW.comAfirma Trump que acuerdo con Irán se firmará el domingo&nbsp;&nbsp;ReformaAcuerdan EU e Irán un “texto definitivo” para la paz: Pakistán&nbsp;&nbsp;La JornadaTrump anuncia que acuerdo ",
-      "pubDate": "2026-06-13T23:16:00Z",
-      "source": "Google News MX",
-      "category": "Política",
-      "thumbnail": null
-    },
-    {
       "title": "Retiran el nombre de Trump de la fachada del Kennedy Center - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOFRaUmVkTmxDZzFkU3NpT09nb1BINThoak90UDJqVUxTQVNYUm5KdElKalBGN1g5RnVaOWl0a3k0VVNhUUF2cHI0TUtYcnd4ZEJEd19NdW44TkhwWjNkQ2tWclBOMVNQSERaaXg2TnZtX3dMOUliOFR3aFZBRWd1bUNPaWNraXU3ZEs3LUUwRm9aMWJuOHZB0gGXAUFVX3lxTE5LUk96dFJ3RVFRQnhoOHdSM2dwLW5ad1U2UXZ4M1laVmtBa1g3WjRBUzdXMlEtbXE2ZHVMenZwNFdFY0VJMUNqeURrQ28zN2NzSVJqWjlNZ0o2Ql9ULVlEZjZheVFMbS1nX1psaUFrSlZwdU1KVDVRWGlVeWR6S252Rl81Z3FYY21OUlk4dkp4TVBZdXl1MUU?oc=5",
       "description": "Retiran el nombre de Trump de la fachada del Kennedy Center&nbsp;&nbsp;DW.comUn funcionario del Kennedy Center informa a un juez que el nombre de Trump ha sido retirado del edificio y del sitio web&nbsp;&nbsp;TelemundoEl Kennedy Center cumple con la orden judi",
-      "pubDate": "2026-06-13T23:04:13Z",
+      "pubDate": "2026-06-13T23:06:36Z",
       "source": "Google News MX",
       "category": "Política",
       "thumbnail": null
@@ -473,17 +590,17 @@
     {
       "title": "¿Dónde ver Spurs vs. Knicks EN VIVO? Horario y canal Juego 5 NBA Finales 2026 HOY - Mediotiempo",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSjZXalF1Sk02RHVGTjBncnZVbVcwV1dIdVl4SHpQN3cwNEZ3Y1hwU0kyWGNIeGVySHZoaF9odE04UVAzdTBMazFaN3lSWENDX1JFVTdJblBscjZUVWs5T1o1RlVkZU1mbXh6TnRxUExLN01hVXExU0c2dEJuSW05eVVlajd6Vko2c2NRTVltYUtNZlRNamRzbjYzMkdSYWdNWXpraE1JUUxWTmRJVnFNTG5Qd9IBswFBVV95cUxOX1FBa1hBd0FlZ05HNVdYUGdmS2lCRkhDczhmb2RTNTlIMkVlbWE1UmtGX2hWQndMUzQ5Y0x3Y2dac0tOYTZBOXJNZk1xSHlSXzNUMElLZkVpejBKUTFPZW1jQVdWT1dldHFJcXBjczF0QW42Q1VyS2FrY3NrbnBrZmFBdENzdmFDN29zbVBEdHdwUHRlMkFnTGl2RGZfZkp0dWdwakxrMERPcDQ3b1J2YV81SQ?oc=5",
-      "description": "¿Dónde ver Spurs vs. Knicks EN VIVO? Horario y canal Juego 5 NBA Finales 2026 HOY&nbsp;&nbsp;MediotiempoAsí vivimos la coronación de los Knicks en el Juego 5 de las NBA Finals&nbsp;&nbsp;ESPN México¡Knicks campeones! Rompen 53 años de sequía y ganan 94-90 en S",
+      "description": "¿Dónde ver Spurs vs. Knicks EN VIVO? Horario y canal Juego 5 NBA Finales 2026 HOY&nbsp;&nbsp;Mediotiempo¡Knicks campeones! Rompen 53 años de sequía y ganan 94-90 en San Antonio&nbsp;&nbsp;UnivisionMitch Johnson: \"Hemos puesto sangre, sudor y lágrimas\"&nbsp;&nb",
       "pubDate": "2026-06-13T22:51:29Z",
       "source": "Google News MX",
-      "category": "México",
+      "category": "Deportes",
       "thumbnail": null
     },
     {
-      "title": "VIDEO: Mujer muere al ser lanzada sin arnés en bungee en Brasil - El Universal",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ0h4Mm92SEJjUEJGcHp2SXhGeFdCSXE2LWxUajRCNXBtc1RyTm1BSlFJUnVOMk5hVHNNSUVRSWVzeC15TF9Ua2tvMDU0VVA0T2hJd1RuLWZBMzRCN1lPRXVIV0VoX1BOZE9QZGtPU3M2SWpUbVZ6b0QzYkdUX2MwUW5QS1lpdWZPUkppaVlNd1BlNlowaDVuVk9lVG1WLVpxazdWZ2lVS2l6Y3o2RnRETDBBLW1NSzFXY1VENEZ1enVBd0HSAdcBQVVfeXFMTkYyTF9xTEtwa0hKN25vTjlkRmRVTFlmUExSdjRUR1RkblhJclBnZDg1UzhQNGw5Y3Y4RnNHM2Z3VUFGVk9oSnVkR1I5czE1NWNhZ0FFbFEtckZGRklHQnFXUXVRanR3UWN4S2t4Y1VTVWk4Z2d0d19aTTBqX1NTSmFqUGs0OHJEVU01Mjh2N2tzTDltbk5EcjA5c3BYOXVmLW40Q3BSVklPT1hBVW0wTDRfMGRlak5YYUV4bUVHYnpoWnNCLWNHejdza3R3LVBIdjd1X3lYN0k?oc=5",
-      "description": "VIDEO: Mujer muere al ser lanzada sin arnés en bungee en Brasil&nbsp;&nbsp;El UniversalElla Era la Joven de 21 Años que Murió Tras Ser Lanzada de Puente Sin Protección&nbsp;&nbsp;N+Tragedia en el salto: joven muere al lanzarse al vacío en 'bungee' sin llevar p",
-      "pubDate": "2026-06-13T22:47:00Z",
+      "title": "Cae Héctor Landa, exfuncionario del SAT, en Veracruz; es acusado de enriquecimiento ilícito - El Universal",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVHJyWHYyckpBa0NVMDgwVjhsR0dsTEowYlVGMGFzOFVTUFRRdXRKalZvSzBTMFBfeWxYTVFwWFM4VmM4MFRNTE9HX1QyX1dwdmtKb3dhT1dQNXdnSU13RDM3T3hsQWpZY1A3Rlg1SjdmQWxld1ZpdkEydXRmbFN4TWlSRG1MeFp6ZjZ6dFMzbTVPTDFlTHAzeTAxNnF6NnRIQ2NvSXlUY1h4U2xORzJXVnFYa0JhejNQMWpBR3Qzdm4zZ2JRTEHSAdoBQVVfeXFMUG56Z0lhazRzQkp2M011ckQ2dFlpQXhhOTZVUWJIdXNIM09KbS1wdkMtOXRRRVFRUlNVNDZmM0NoZ1lsN00xZVowRUJBQ09aZmVzQ0wxVDFoTW1vUG0xNnNNMlQ5VExidUZRUEJadmIzWl94TndJZ01GVTFHNGRFWE1DZGxRN2g5RFpzd195ZnZCSEJBeV9MUWZiQmw4QUdGOVYwT1c3dkM1Y2xFUkJVZ09Ud29SdlNDelNuWUdpZGNGdjBLTDJLSWo3R2t1dXZmd1ZpRDhrcnVQRXc?oc=5",
+      "description": "Cae Héctor Landa, exfuncionario del SAT, en Veracruz; es acusado de enriquecimiento ilícito&nbsp;&nbsp;El UniversalDetienen en Veracruz a ex funcionario del SAT por enriquecimiento ilícito&nbsp;&nbsp;La JornadaCapturan a ex mando del SAT por enriquecimiento il",
+      "pubDate": "2026-06-13T22:02:08Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
@@ -491,7 +608,7 @@
     {
       "title": "Cumpleaños 80 de Donald Trump: Presume ‘salud de hierro’, pero crecen las dudas sobre sus facultades - El Financiero",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYzlfZmc5M0VMcFNjbU1jOUd6eXh3TmVuVlpfbkVnaXp5emgxREZfaW8wdUY1a0ZDR2JHcklZbEFGQWdmV2VNYXRCX1JNc3g2ajZzNVlXX3FmdzY1LVJZdldkRlo0c3ByU0R5djUtdEEzZlRGcVpKbnBZVTJIYU53dXpLT3RxVmo3RWJUelhiNk5jOHNxNDZqTmZyZi1lR01JTnhyaWVwbV9SclVyemRNUlNxdERKT3BVSHN5TWo4NWh1THViRG5ZMzBUM2xYel9OTkp2OEhOSTFEV2tTWG93?oc=5",
-      "description": "Cumpleaños 80 de Donald Trump: Presume ‘salud de hierro’, pero crecen las dudas sobre sus facultades&nbsp;&nbsp;El FinancieroDonald Trump cumple 80 años: ¿Sigue aplicando el manual del buen negociador que escribió a los 40?&nbsp;&nbsp;EL PAÍSDonald Trump cumpl",
+      "description": "Cumpleaños 80 de Donald Trump: Presume ‘salud de hierro’, pero crecen las dudas sobre sus facultades&nbsp;&nbsp;El FinancieroDonald Trump cumple 80 años: ¿Sigue aplicando el manual del buen negociador que escribió a los 40?&nbsp;&nbsp;EL PAÍSDonald Trump, a lo",
       "pubDate": "2026-06-13T21:07:41Z",
       "source": "Google News MX",
       "category": "Política",
@@ -509,7 +626,7 @@
     {
       "title": "‘Niño Guerrero’, líder del ‘Tren de Aragua’, tejió su imperio desde prisión - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWZ3dTl4Tm12T2pabHowSnhtNUk3d1c0RjdzUS1tNzBVYVdvaVhReFFyLWQ0aWNRYzFKS0ZLMU1nd0ZGbkFIdEU1RnJHSTZtYm1UMXZUZXZJeWtrWWhVenZia2dVel9GdnVvWHVJZ0FPdk5jWF9HUDVLZ1RieXVkVXl4RWtaY245RDZfVllVbXhwaUQ4UEluTTlORTZQZTVHaENKV3Bfc1BSTjN0cmYzaDJqWk5JbnVGLUpXOA?oc=5",
-      "description": "‘Niño Guerrero’, líder del ‘Tren de Aragua’, tejió su imperio desde prisión&nbsp;&nbsp;La JornadaLa caza conjunta de Trump y Delcy Rodríguez en las minas de oro de Venezuela&nbsp;&nbsp;EL PAÍSPentágono: muerte de jefe del ‘Tren de Aragua’ es \"un mensaje claro\"",
+      "description": "‘Niño Guerrero’, líder del ‘Tren de Aragua’, tejió su imperio desde prisión&nbsp;&nbsp;La JornadaPentágono: muerte de jefe del ‘Tren de Aragua’ es \"un mensaje claro\" para Latinoamérica&nbsp;&nbsp;La JornadaCorina Machado agradece a Trump por actuar contra el c",
       "pubDate": "2026-06-13T20:02:00Z",
       "source": "Google News MX",
       "category": "Política",
@@ -534,15 +651,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/Sydney-Sweeney-23097.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Se registra sismo de magnitud 5.2 grados en San Marcos, Guerrero - El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb1AtWGN5LU92bUFKLUFYb2xobWtYWWZ2SFhlNlpHYWVhT3lwbllDNlNDU0JnT2RoTFIwa3NZWkpXbkZOb1VGU2NQUlJ4WFFBbmFZSm9aZUFjaVpKY1NMeTd4ay1aUmcwY3E3djduQUphVGxMczBUUHNpOU5iSUNONmtYelhiNGsxWWtweWJUX2ZxTWJBTVJpSTJmRE14Y1pGQmdQcHk0cjUyNi0xX2NGRHNkOE0zREVSZWhQVXVPVS0xSDdtbjlmNlZWUGszU0s1bmt6N0ZRM0Y0Qmk5d05KSWhFM2FCNWlQTEcwZkFNN1BnUQ?oc=5",
-      "description": "Se registra sismo de magnitud 5.2 grados en San Marcos, Guerrero&nbsp;&nbsp;El UniversalSismo de 5.3 en Acapulco sorprende a cientos de ciudadanos este sábado&nbsp;&nbsp;YahooAlerta sísmica suena en celulares en la CDMX este sábado 13 de junio&nbsp;&nbsp;El In",
-      "pubDate": "2026-06-13T18:47:16Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "Los investigadores coinciden: \"La meditación está relacionada con un aumento del rendimiento en tareas cognitivas\"",
       "link": "https://www.xataka.com/medicina-y-salud/pensabamos-que-respirar-hondo-era-solo-tecnica-relajacion-ciencia-ha-demostrado-que-altera-fisicamente-nuestra-memoria",
       "description": "Respirar es un acto tan instintivo que rara vez le prestamos atención, puesto que, aunque lo hacemos unas 20.000 veces al día, estamos metidos en un estricto \"piloto automático\" fisiológico del que casi no somos conscientes. Sin embargo, en los últimos años, l",
@@ -552,6 +660,15 @@
       "thumbnail": "https://i.blogs.es/fe0dfd/meditacion/1024_2000.jpeg"
     },
     {
+      "title": "Sismo magnitud 5.2 en Guerrero se percibe ligeramente en CDMX - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVNfYXQwcDdmMk55dEN4bnB2M25oV1VIbHMxX2VfMC0tcVhyQk5jdUNOdkVMQWY4NHh0LXdXckpZSDdKWExIaDd2Q2EwZ3UwbGxXV0tLUTRvaDNka3k3N29oV2laQWo1T0dvYjZsbURjaV9CekMwWWJpY0YtYzhRTFYzOUVxTkZhcXBieUhTdVM2ZG4wamNWV0JJaGxxalpEaGloTzNoRmJqVDhDUDB1MTc2bnRIOW8x?oc=5",
+      "description": "Sismo magnitud 5.2 en Guerrero se percibe ligeramente en CDMX&nbsp;&nbsp;La JornadaSismo de 5.3 en Acapulco sorprende a cientos de ciudadanos este sábado&nbsp;&nbsp;YahooAlerta sísmica suena en celulares en la CDMX este sábado 13 de junio&nbsp;&nbsp;El Informa",
+      "pubDate": "2026-06-13T18:24:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
       "title": "Trump prevé que la tregua con Irán se firme este domingo y que Ormuz quede abierto “inmediatamente”",
       "link": "https://elpais.com/internacional/2026-06-13/trump-preve-que-la-tregua-con-iran-se-firme-este-domingo-y-que-ormuz-quede-abierto-inmediatamente.html",
       "description": "En otra jornada de mensajes contradictorios, Teherán descarta que el pacto esté tan cerca. El presidente de Estados Unidos se reunirá con líderes árabes en el G-7",
@@ -559,15 +676,6 @@
       "source": "El País",
       "category": "Política",
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/7LEUI62UBFLMHHC2AZTRBWEAP4.jpg?auth=e4f23e0f7bfb10808343fb6f296e77e00495e3d75b37296deefb4dbb65d9fc6c"
-    },
-    {
-      "title": "Asesinado a balazos Joel Ángel Bravo Martínez, alcalde de San Miguel Amatitlán, en Oaxaca - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXZPQmlBaWFsb1hoS2w2ZWpxUTBkUV9KeS1yVkJmcVdtNlU1NHBSc2Izak1WaDR3ZmtxcE9Ja3dNTlZLWUtwVmIzU2lMSEQ5bzVpWWVQQ29YNHBvUzVzWU1pS2hCZnZNcVVOTS1Sc1FHcVFEaDQ0RWdwb3NNMFp0SG54cm5sNUh4R09Sbmp4MTZrZXlLcUN2Q3VHZURvWnpwQnd1MWt0SHZfVlJNdnloT1dIRGhpcm8?oc=5",
-      "description": "Asesinado a balazos Joel Ángel Bravo Martínez, alcalde de San Miguel Amatitlán, en Oaxaca&nbsp;&nbsp;EL PAÍSDenuncia PAN que negaron protección a Alcalde asesinado&nbsp;&nbsp;ReformaAsesinan a tiros a alcalde de San Miguel Amatitlán, Oaxaca; gobierno federal c",
-      "pubDate": "2026-06-13T18:13:40Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "Hace 1.900 años los romanos sabían que ir descalzo a un baño público es mala idea, así que usaban chanclas de baño",
@@ -588,15 +696,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/ios-27-apple.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Haití quería una camiseta épica para su regreso al Mundial. Ha conseguido cabrear a la FIFA y que todos hablen de Polonia",
-      "link": "https://www.xataka.com/magnet/haiti-queria-camiseta-epica-para-su-regreso-al-mundial-ha-conseguido-cabrear-a-fifa-que-todos-hablen-polonia",
-      "description": "Hacía más de medio siglo que Haití no participaba en la Copa del Mundo y sin embargo, ironías de la historia, en el país (y la prensa deportiva del resto del planeta) no se está hablando de sus jugadores o sus posibilidades de éxito hoy en su partido de estren",
-      "pubDate": "2026-06-13T17:30:17Z",
-      "source": "Xataka",
-      "category": "Política",
-      "thumbnail": "https://i.blogs.es/b33062/portadahaiti/1024_2000.jpeg"
-    },
-    {
       "title": "La ciencia detrás de los momentos ¡ajá!, esos instantes repentinos en los que por fin entiendes algo",
       "link": "https://www.bbc.com/mundo/articles/c3vykg4zp0go?at_medium=RSS&at_campaign=rss",
       "description": "Seguro los has tenido, así no los hayas reconocido. Aunque son espontáneos y elusivos, neurocientíficos y psicólogos han logrado estudiarlos para desentrañarlos.",
@@ -604,15 +703,6 @@
       "source": "BBC Mundo",
       "category": "Ciencia",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b80b/live/ea1ad8e0-6408-11f1-a17d-bf3062638caa.jpg"
-    },
-    {
-      "title": "Hemos vivido engañados toda la vida: el \"corte de digestión\" no existe y la ciencia tiene claro por qué",
-      "link": "https://www.xataka.com/medicina-y-salud/hemos-vivido-enganados-toda-vida-corte-digestion-no-existe-ciencia-tiene-claro-que",
-      "description": "Hay algunas frases muy 'de madre' que están en nuestra mente muy bien arraigadas y sin duda una de ellas es la obligación de esperar estrictamente dos horas después de comer antes de entrar a la piscina o a la playa. Bajo el pretexto del 'corte de digestión', ",
-      "pubDate": "2026-06-13T17:00:17Z",
-      "source": "Xataka",
-      "category": "Ciencia",
-      "thumbnail": "https://i.blogs.es/c03109/bano-nino/1024_2000.jpeg"
     },
     {
       "title": "A lo ‘Doom’: logran ejecutar Windows 95 en una calculadora gráfica",
@@ -624,40 +714,22 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Windows-95-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Detienen a agente de la FGR y tres presuntos cómplices por secuestro de empresaria en Querétaro - Milenio",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnNoMzZFLWtiVl9ZR2J0VDRJZ29VbjNDMzZuRjVJVWxMQU95ckZJRmhIVVg0VDlvdmdoQnplVElxZVR3ZVZzTHZPU0lCZlBmTmZ5aE5RNVQ3V182OU1jOC1jTkZxd3dnMTFEWDJkOHRWVGpsLXFkc01UcGR5Qm82SzI1aWc4enJwZVdLSjhvekV6SEVNZGU1YTE5YUR3ZjMzeGctatIBpAFBVV95cUxPVHdKSVB3Z0VSVER2RUtGa3hFRkNLTEZYanJqNWZUMktlbHpFWWtTdHZzNVczR2ZDYjJKcFl3bnU5XzZIMXJZZ3g2T0YzTTVIcE5lSm9iXy1QTU1IMUZmeEVDTU16VlZTREFkWTlLZ1VzWkQ0REVQX1pteW5xQ2JDeUN0NGctaEdoSXVYdUhlU1dkcGRVc0h4b2YyTDBob1JFWnRvaw?oc=5",
-      "description": "Detienen a agente de la FGR y tres presuntos cómplices por secuestro de empresaria en Querétaro&nbsp;&nbsp;MilenioSe hacían pasar por la FGR: Detienen a banda que asaltó empresa y secuestró a mujer en Querétaro&nbsp;&nbsp;El FinancieroPersecución y captura en ",
-      "pubDate": "2026-06-13T16:49:00Z",
+      "title": "Funerales del ayatollah Ali Jamenei iniciarán el 4 de julio en Teherán - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYXFPNEdyNW4tV0dnNTFRRGhFNVBqdkFoMF9GS2hRc1Z4MGFUZ1NQaGlaNml6ek8yZ05PNlBBRE96UjBjXzJ3SDN6VGxuR0JHdXBZME1QNFZtYXluUHE1c2RLQXlDdnl5MUtjZGNTY1lRa18zbVVCUlgteHo1SEwwdEZOXzNfYnJLVm93ZXJ0WWFHN1d2MTl2Z3lhampYcTI2UVNnSzJ1cXFBODVKcVcwNUNLRlBrQTB1VEZ1U3h6UQ?oc=5",
+      "description": "Funerales del ayatollah Ali Jamenei iniciarán el 4 de julio en Teherán&nbsp;&nbsp;La JornadaLos funerales de Alí Jameneí empezarán el 4 de julio&nbsp;&nbsp;DW.comAnuncian fecha del funeral del ex líder supremo de Irán&nbsp;&nbsp;ReformaIrán confirma calendario",
+      "pubDate": "2026-06-13T17:00:00Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
     },
     {
-      "title": "Siempre que hemos colocado un GPS a jabalíes nos han sorprendido. El último en España no ha sido excepción",
-      "link": "https://www.xataka.com/magnet/colocamos-gps-a-jabalies-nos-han-sorprendido-ultimo-ha-desconcertado-a-ganaderos-espana",
-      "description": "Un equipo de investigadores que seguía jabalíes con GPS en varias ciudades europeas descubrió algo inesperado: los animales no evitaban necesariamente la presencia humana, sino que aprendían a convivir con ella modificando sus horarios y comportamientos hasta ",
-      "pubDate": "2026-06-13T16:30:17Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/96b394/photo-1620122504822-a33f06836ff0/1024_2000.jpeg"
-    },
-    {
-      "title": "Durante 600 años alguien tiró en un rincón de Fiyi las cáscaras del marisco. El resultado es una isla",
-      "link": "https://www.xataka.com/magnet/resulta-que-hay-isla-fiyi-hecha-cascaras-marisco-han-descubierto-unos-cangrejos",
-      "description": "Frente a la costa norte de Vanua Levu, la segunda isla más grande de todo el archipiélago de Fiyi, hay una pequeña isla de 3.000 metros cuadrados. En un país conformado por más de 300 islas diseminadas en el Pacífico, que haya una tan pequeña no resulta una so",
-      "pubDate": "2026-06-13T16:16:16Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/6bccf3/fiji/1024_2000.jpeg"
-    },
-    {
-      "title": "La astroaficionada española que ha organizado sus vacaciones en torno al eclipse: \"Cuando alguien de 91 años sigue acordándose, sabes que es algo especial\"",
-      "link": "https://www.xataka.com/espacio/cuando-persona-91-anos-sigue-acordandose-que-vio-hace-67-anos-sabes-que-algo-especial-astronoma-aficionada-que-lleva-meses-preparando-viaje-su-vida-para-12-agosto",
-      "description": "El 12 de agosto tendrá lugar el primero de los eclipses solares que compondrán el llamado Trío Ibérico. En 2026, 2027 y 2028 tendremos eclipses solares que podrán verse en España. El tercero será anular, pero los otros dos son eclipses totales y su franja de t",
-      "pubDate": "2026-06-13T16:00:17Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/081ac2/photo-1667497806328-698de73609ee/1024_2000.jpeg"
+      "title": "Detienen a agente de la FGR y tres presuntos cómplices por secuestro de empresaria en Querétaro - milenio.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbnNoMzZFLWtiVl9ZR2J0VDRJZ29VbjNDMzZuRjVJVWxMQU95ckZJRmhIVVg0VDlvdmdoQnplVElxZVR3ZVZzTHZPU0lCZlBmTmZ5aE5RNVQ3V182OU1jOC1jTkZxd3dnMTFEWDJkOHRWVGpsLXFkc01UcGR5Qm82SzI1aWc4enJwZVdLSjhvekV6SEVNZGU1YTE5YUR3ZjMzeGctatIBpAFBVV95cUxPVHdKSVB3Z0VSVER2RUtGa3hFRkNLTEZYanJqNWZUMktlbHpFWWtTdHZzNVczR2ZDYjJKcFl3bnU5XzZIMXJZZ3g2T0YzTTVIcE5lSm9iXy1QTU1IMUZmeEVDTU16VlZTREFkWTlLZ1VzWkQ0REVQX1pteW5xQ2JDeUN0NGctaEdoSXVYdUhlU1dkcGRVc0h4b2YyTDBob1JFWnRvaw?oc=5",
+      "description": "Detienen a agente de la FGR y tres presuntos cómplices por secuestro de empresaria en Querétaro&nbsp;&nbsp;milenio.comSe hacían pasar por la FGR: Detienen a banda que asaltó empresa y secuestró a mujer en Querétaro&nbsp;&nbsp;El FinancieroPersecución y captura",
+      "pubDate": "2026-06-13T16:49:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
       "title": "Las 5 mejores películas de Steven Spielberg según IMDb (y dónde verlas): no están ‘E.T.’ ni ‘Tiburón’",
@@ -669,33 +741,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Steven-Spielberg-mejores-peliculas-IMDb-1.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "España tiene 46 millones de metros cúbicos de biomasa sin usar. Son un escudo crucial contra los incendios del verano",
-      "link": "https://www.xataka.com/energia/espana-tiene-46-millones-metros-cubicos-biomasa-usar-europa-acaba-darse-cuenta-que-nuestro-mejor-escudo-megaincendios",
-      "description": "El verano de 2025 nos dejó una cicatriz de ceniza y una lección que seguimos negándonos a aprender. Los bosques europeos arden con una ferocidad inédita, pero la respuesta no está en acumular más bomberos en agosto, sino en volver a habitar y gestionar el mont",
-      "pubDate": "2026-06-13T15:30:16Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/3492f5/bosque-incendios/1024_2000.jpeg"
-    },
-    {
-      "title": "El Mundial de MediaMarkt acaba con un remate final de ofertas: teles OLED, cafeteras superautomáticas, móviles como el Galaxy S25+ y más",
-      "link": "https://www.xataka.com/seleccion/mundial-mediamarkt-acaba-remate-final-ofertas-teles-oled-cafeteras-superautomaticas-moviles-como-galaxy-s25",
-      "description": "Ya podemos decir que estamos en pleno Mundial, un momento que muchos aprovechamos para renovar televisor. Una de las tiendas que mejores ofertas tiene ahora mismo para ello es MediaMarkt que, de hecho, tiene activa una promo llamada Ofertas Mundial. Pero, como",
-      "pubDate": "2026-06-13T15:16:16Z",
-      "source": "Xataka",
-      "category": "Deportes",
-      "thumbnail": "https://i.blogs.es/df7509/ps---plantilla-portadas-xtk/1024_2000.jpeg"
-    },
-    {
-      "title": "Jeff Bezos dice que la IA no destruirá empleos. Acto seguido ha lanzado una empresa para crear ingenieros artificiales",
-      "link": "https://www.xataka.com/robotica-e-ia/jeff-bezos-dice-que-ia-no-destruira-empleos-acto-seguido-lanza-empresa-para-crear-ingenieros-artificiales",
-      "description": "Jeff Bezos es una de las figuras&nbsp;representativas del actual optimismo tecnológico respecto a la inteligencia artificial. Mientras en Estados Unidos estamos viendo a los universitarios que abuchean a los que afirman que la IA es la nueva revolución industr",
-      "pubDate": "2026-06-13T15:00:17Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/c4758f/empleo/1024_2000.jpeg"
-    },
-    {
       "title": "Las 10 mejores películas sobre fútbol que todo fan del Mundial debe ver al menos una vez",
       "link": "https://hipertextual.com/cine-television/las-10-mejores-peliculas-sobre-futbol-que-todo-fan-del-mundial-debe-ver-al-menos-una-vez/",
       "description": "El Mundial de Fútbol 2026 por fin ha llegado, y qué mejor manera de celebrarlo que acompañando los partidos con películas. Es cierto que el drama deportivo es uno de los géneros cinematográficos más populares. Sin embargo, la gran mayoría de ellos pertenecen a",
@@ -703,15 +748,6 @@
       "source": "Hipertextual",
       "category": "Política",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Peliculas-futbol-Mundial-2026.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Sección 22 de Oaxaca, a favor de seguir huelga de la CNTE; dirigencia nacional define hoy rumbo del paro - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTBYRTdfMGFfVUlGMjdTaHUwV2ljdjNuNmZrYldMZEVBVEwzck1tNTNTSGprVVZCVnh4SXJBS3lxY2JrekNoQ2hGMXluTi14YlpxTi1sNUx4V0x1V1Q4WWNsNTJfcm05SXJvbGwzY2pKdV80NGg0Qmg3M3JWd1NtX09BaHRTQVoyNlJaaDBPRTU0cU1EUTJQcDNBeUpwVGkzMjRXS0JoU04tN1lzUmJDTnJYR0s4QURRNGk1NE0tcTJZczBrUEFrRDRBeURlWTVhRjBhdnlrYWhPMkx2S2NPZThRd0Q3alZn?oc=5",
-      "description": "Sección 22 de Oaxaca, a favor de seguir huelga de la CNTE; dirigencia nacional define hoy rumbo del paro&nbsp;&nbsp;La JornadaEn asamblea nacional, CNTE determina continuar paro nacional; llama a reforzar plantón en el Zócalo&nbsp;&nbsp;La JornadaAprueba CNTE ",
-      "pubDate": "2026-06-13T14:54:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "Bette Graham, la secretaria que hizo una fortuna porque cometía demasiados errores",
@@ -730,15 +766,6 @@
       "source": "Hipertextual",
       "category": "México",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/soy-frankelda.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Entre política y espiritismo: ¿Quién fue el presidente ‘loco’ de México que hablaba con los muertos? - El Financiero",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRG56VEhoc05Xek1NNnVpOUs4dzZJQW8xWmM2MDctcmJPMU96cHJIaUxpWWNBUTFZeUVSblJsZFktZHhnQURzWmJPNkhINGI3X3llc1lVWUtOcnMzLWRNendKWjlEX3puSnUzcUkzM1RtTmw4YUxEWWJwTE5IbmU1ZUFvN0pHN1lOeHEtTElmQW9mcVBJTThQbzB4LUJmR1poU2dpWnNHZ0c0NkZjNDR5UW1OOEtEZGNad3B0SGhuRTBTbzU1ZENoWnE2X3JHQW5wRTR3WEFHZHA?oc=5",
-      "description": "Entre política y espiritismo: ¿Quién fue el presidente ‘loco’ de México que hablaba con los muertos?&nbsp;&nbsp;El Financiero",
-      "pubDate": "2026-06-13T13:45:00Z",
-      "source": "Google News",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "Quién era el \"Niño Guerrero\", líder del Tren de Aragua, y qué se sabe del operativo anunciado por Trump que llevó a su muerte",
@@ -802,33 +829,6 @@
       "source": "BBC Mundo",
       "category": "Política",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6bcc/live/510c0310-6712-11f1-8095-97f002f03571.jpg"
-    },
-    {
-      "title": "Para sorpresa de nadie, el móvil de Donald Trump es una estafa: han cogido un móvil chino y lo han renombrado (a lo Zetta)",
-      "link": "https://hipertextual.com/mobile/para-sorpresa-de-nadie-el-movil-de-donald-trump-es-una-estafa-han-cogido-un-movil-chino-y-lo-han-renombrado-a-lo-zetta/",
-      "description": "Este artículo promete ser nostálgico para muchos, sobre todo para aquellos que lleven un tiempo interesados en el mundo de la tecnología y los móviles. Mezcla tres conceptos curiosos: al presidente de Estados Unidos, una marca archiconocida que ahora está en p",
-      "pubDate": "2026-06-13T10:00:00Z",
-      "source": "Hipertextual",
-      "category": "Política",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/TRUMP-MOBILE-4.jpg?fit=1024%2C711&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Un juez cancela un juicio tras descubrir que los abogados usaron ChatGPT",
-      "link": "https://hipertextual.com/tecnologia/jueza-cancela-juicio-abogados-usaron-ia/",
-      "description": "Un juez de Estados Unidos canceló un juicio después de descubrir que los abogados de ambas partes habían usado ChatGPT para preparar sus escritos. Los cuatro implicados citaron casos judiciales inventados, generados por herramientas de IA que simplemente aluci",
-      "pubDate": "2026-06-13T09:00:00Z",
-      "source": "Hipertextual",
-      "category": "Tech",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/01/juez_demanda_inteligencia_artificial.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "El anime «sobrevalorado» de Chrunchyroll que acaba de hacer historia con un récord imposible",
-      "link": "https://hipertextual.com/cine-television/anime-sobrevalorado-de-chrunchyroll-hace-historia-record-imposible/",
-      "description": "Crunchyroll acaba de ver cómo una de sus series de anime rompe un récord que parecía imposible. Lo más sorprendente de todo es que lo ha conseguido un título que, aunque muy popular, muchos espectadores han tildado siempre de \"sobrevalorado\". Sea como sea, lo ",
-      "pubDate": "2026-06-13T08:00:00Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Crunchyroll-record-anime.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "title": "\"México, canta y no llores\" - DW.com",
@@ -921,15 +921,6 @@
       "thumbnail": null
     },
     {
-      "title": "\"El fútbol ha pasado de ser una fiesta popular a convertirse en un producto prémium con EE.UU. encima del negocio\"",
-      "link": "https://www.bbc.com/mundo/articles/c74y55njejgo?at_medium=RSS&at_campaign=rss",
-      "description": "El escritor y periodista chileno Juan Pablo Meneses sostiene en una entrevista que, en esta Copa del Mundo “con derecho de admisión” y nuevas reglas, agoniza el orgullo latinoamericano por el fútbol como una gran fiesta popular.",
-      "pubDate": "2026-06-12T10:24:26Z",
-      "source": "BBC Mundo",
-      "category": "Deportes",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/204c/live/3cbb9460-65dd-11f1-94fa-99c9438be586.jpg"
-    },
-    {
       "title": "Por qué en EE.UU. le dicen al fútbol soccer y cuál es el origen de esa palabra (no, no la crearon los estadounidenses)",
       "link": "https://www.bbc.com/mundo/articles/c14yl5mrmexo?at_medium=RSS&at_campaign=rss",
       "description": "Te llevamos a un viaje en el tiempo en busca de la palabra soccer, el término con el que muchas personas en EE.UU. se refieren al fútbol, cuyo máximo torneo alberga junto a México y Canadá.",
@@ -993,15 +984,6 @@
       "thumbnail": null
     },
     {
-      "title": "Tres lecciones para México de las políticas ambientales en Chile - Grupo Animal",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aMi1tdHRYdWQySmkwdUo1bl9ycVNxeURiVkNYSURFMW5mQTNJcTNaWmVfRDhLRERxODZvcVBCaExvYmFHeEdKbThqYmY0NFZ6eDFXa2RsS3N3QVZjTnVHcVgyZ052Q2tnVzQ3a2R6ZUtYTWhYSE1JUg?oc=5",
-      "description": "Tres lecciones para México de las políticas ambientales en Chile&nbsp;&nbsp;Grupo Animal",
-      "pubDate": "2026-06-10T12:05:07Z",
-      "source": "Google News",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "Integralia: Seguridad pone a prueba a México rumbo al Mundial, pese a su estabilidad política - Expansión Política",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTUpuRkVhVG45Q3ktaHR1ekRqazFQTkhBMTh2cTRheFRsVmJfdkdwbnk4LWwtOGV6cjdya1o5MkNpUHRpa2xwaGdUYU5IWG83SlhMRkV2MEp1MHY4cVZoZS1SRzAxQjc4VWpnVGt2em1xZ0Z2WFVBUFVGdFpTUW53RC05MFRlMFBITlhzVGNqVUFmWnQ2SzB6eTNnLXFSU0lLTTdRdVBhWFBheHZhVEZHX2g1TkhEN2NjeGpaMkZVb3pIZ3hEV0ttNGVjamEwQm12QjJ5cFF30gHjAUFVX3lxTE43SGZWdTBWY1F0dkZiRW9RM3R4TTVLVEY1ZlZIMUpjdVJhU05RR29KTVpDb3k5WmNBcksyT2RFaGd6bWFRVl8zMjJXTi1PLUZGa2hmVXdYOXh1YkNoeTVqZXhPSDRXWmtBSF9OUWRoTlEwTnI1OTZ4OXNHcHN2TnBPSWNiV0dXOFJqV3pzZ1BXdE9MdEpOeF9QS1I4R09HVmpwbk1RTlpaV0ZydHhqQTBVR080czV6NGdUenJibEg3NnRtaDBjRnhRN0JBVWFvTjdjRDBYQUg2Uk9oVVJYWmw2LVhj?oc=5",
       "description": "Integralia: Seguridad pone a prueba a México rumbo al Mundial, pese a su estabilidad política&nbsp;&nbsp;Expansión Política",
@@ -1038,6 +1020,15 @@
       "thumbnail": null
     },
     {
+      "title": "Lanzamiento de Olinia: El primer vehículo eléctrico hecho en México - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmtFTUNrbVJmMl9ILVJFMldkSUJXRDBwRTRESkY5MElSc3V2SEpScmtBUjZ4dzJ6SWtDN1ZINXBnTVhMS0dOYVItMGhqcllnNkp1cHV4RHlPb2FVMkpkVHdUY3psRUVsMklLTWpkcVRQVW5yenp3ZHZXVzNqbXlBeG9PZG1zLTAtRUVCTWRrTmR3TlNTNUZWMWNUXzBIYnBKTE80VFUtbHFZVzN1VURkSkhiaG1kRF9reVlDUmlaVHF2dw?oc=5",
+      "description": "Lanzamiento de Olinia: El primer vehículo eléctrico hecho en México&nbsp;&nbsp;Infobae",
+      "pubDate": "2026-06-07T18:55:13Z",
+      "source": "Google News",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
       "title": "Todas las selecciones del Mundial 2026 en Estados Unidos, Canadá y México",
       "link": "https://elpais.com/deportes/mundial-futbol/2026-06-05/todas-las-selecciones-del-mundial-de-estados-unidos-canada-y-mexico.html",
       "description": "La competición con más equipos de la historia pone en juego a 48 combinados nacionales durante cinco semanas. Consulte aquí todos los detalles",
@@ -1062,6 +1053,15 @@
       "pubDate": "2026-05-29T07:00:00Z",
       "source": "Google News",
       "category": "Tech",
+      "thumbnail": null
+    },
+    {
+      "title": "México insiste en que EU elimine aranceles a autos y al acero durante negociaciones del T-MEC - Grupo Animal",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93aWpYRW1vRzRyYW81WXZZRmJYbWpGdU5QbGdnbmQ0aFRRVnN2c0d3RHFqdkpKUGZBZHY2TVNOSUJobjBjWTh1cmE2YVFONzdYd0FlMTJzc21QODdfWWlubVpva3NTckF3dGZ4QzJ4VGprcm9Od24zUUVMQQ?oc=5",
+      "description": "México insiste en que EU elimine aranceles a autos y al acero durante negociaciones del T-MEC&nbsp;&nbsp;Grupo Animal",
+      "pubDate": "2026-05-27T07:00:00Z",
+      "source": "Google News",
+      "category": "México",
       "thumbnail": null
     },
     {
