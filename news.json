@@ -1,15 +1,96 @@
 {
-  "generated": "2026-08-15T09:13:30.519382+00:00",
+  "generated": "2026-08-15T10:09:00.968235+00:00",
   "count": 168,
   "articles": [
     {
+      "title": "Las passkeys prometían ser el fin de las contraseñas. Una investigación acaba de apuntar a su mayor promesa: la seguridad",
+      "link": "https://www.xataka.com/seguridad/passkeys-prometian-ser-fin-contrasenas-investigacion-acaba-apuntar-a-su-mayor-promesa-seguridad",
+      "description": "Las passkeys llegaron a nuestras vidas para solucionar el eterno problema de la seguridad de las contraseñas. Y sin embargo se han encontrado con un problema: la seguridad. Sí, porque el investigador Arie Olshtein, de Unit 42, ha publicado un informe hablando ",
+      "pubDate": "2026-08-15T10:00:38Z",
+      "source": "Xataka",
+      "category": "Ciencia",
+      "thumbnail": "https://i.blogs.es/cf6c17/chatgpt-image-12-ago-2026-13_47_56/1024_2000.png"
+    },
+    {
+      "title": "¿Cuánto cuesta recorrer 100 km con los coches eléctricos más vendidos de España?",
+      "link": "https://hipertextual.com/movilidad/cuanto-cuesta-recorrer-100-km-con-los-coches-electricos-mas-vendidos-de-espana/",
+      "description": "Si has decidido dar el paso a la movilidad eléctrica, es probable que en tu lista de posibles candidatos esté alguno de los 5 coches eléctricos más vendidos de España. Son el BYD Dolphin Surf, el Tesla Model 3, el Tesla Model Y, el KIA EV3 y el Toyota C-HR+. A",
+      "pubDate": "2026-08-15T10:00:00Z",
+      "source": "Hipertextual",
+      "category": "Tech",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/tesla-model-3.jpg?fit=1024%2C626&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
       "title": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Marruecos dice que ha frustrado un nuevo intento de alcanzar Ceuta de cientos de migrantes",
       "link": "https://elpais.com/espana/2026-08-15/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
-      "description": "Policía, Guardia Civil y militares blindan las inmediaciones del paso de El Tarajal | España y Marruecos refuerzan ambos lados de la frontera",
-      "pubDate": "2026-08-15T09:07:02Z",
+      "description": "Policía, Guardia Civil y militares blindan las inmediaciones del paso de El Tarajal (Ceuta) | Tranquilidad en la frontera de Melilla, con mayor despliegue policial del habitual",
+      "pubDate": "2026-08-15T09:59:24Z",
       "source": "El País",
       "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/IYG4QOM42RG3DANH6O36SRXENQ.jpg?auth=6badfcce274ed3e35cbae0dcd231563fa7f4ebcce72c8fa270c201032204d553"
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/MHKNNZXG7JGMNDNEXSP4UADQIE.jpg?auth=fdfe1cc57128e009b385f7f8f8a3cb2b2fec0576b0fd805540a3068cd7b3ea60"
+    },
+    {
+      "title": "El Villarreal blinda a Mikautadze para la recta final del mercado",
+      "link": "https://www.marca.com/futbol/villarreal/2026/08/15/villarreal-blinda-mikautadze-recta-final-mercado.html",
+      "description": "La cláusula del delantero georgiano pasa de los 60 a los 75 millones de euros en los últimos diez días de mercado",
+      "pubDate": "2026-08-15T09:52:06Z",
+      "source": "MARCA",
+      "category": "Economía",
+      "thumbnail": ""
+    },
+    {
+      "title": "Olivier Sarr cierra la pintura del Real Madrid 2026/27",
+      "link": "https://www.marca.com/baloncesto/acb/2026/08/15/olivier-sarr-cierra-pintura-real-madrid-2026-27.html",
+      "description": "El pívot francés de 27 años y 2,08 metros llega a la entidad blanca tras haber jugado en la NBA y G-League y completa, junto a Tavares y Jones, la posición de pívot",
+      "pubDate": "2026-08-15T09:46:55Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Zak Brown pilota un McLaren... ¡con los ojos y con la boca!",
+      "link": "https://www.marca.com/coches-y-motos/coches/2026/08/15/zak-brown-pilota-mclaren-ojos-boca.html",
+      "description": "El jefe de McLaren probó en el Sacacorchos una tecnología adaptada para personas tetrapléjicas",
+      "pubDate": "2026-08-15T09:38:59Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Por esto ha fichado el Atlético de Madrid al Cuti Romero",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/15/esto-fichado-atletico-madrid-cuti-romer-video.html",
+      "description": "",
+      "pubDate": "2026-08-15T09:33:36Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Los programadores de riego son el mejor gadget para irte de vacaciones tranquilo sin que tu jardín muera: cómo elegir el ideal",
+      "link": "https://www.xataka.com/domotica-1/programadores-riego-mejor-gadget-para-irte-vacaciones-tranquilo-que-tu-jardin-muera-como-elegir-ideal",
+      "description": "Quizás julio y agosto son los meses en los que más pensamos en nuestras plantas, jardín o huerto (si tienes uno). También, paradójicamente, suelen ser los meses en los que menos tiempo le dedicamos. Y es que cuando nos vamos de vacaciones, las plantas se queda",
+      "pubDate": "2026-08-15T09:30:37Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/25925c/riego/1024_2000.jpeg"
+    },
+    {
+      "title": "Retirar visa a hijo de AMLO, decisión política e injerencista: Sheinbaum - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yX1hoRDJ5UWdXSEJaUDhTUjBXN0ZWeGZOZThjMTBlOU5VVS1YeG9aaGhDb1FzNVRFLTZZM3dSRzJJNUVCRFBrSTNjc3FJQlJBVEpFWWxDakFSTVFwWGI5N1E0aXgzUQ?oc=5",
+      "description": "Retirar visa a hijo de AMLO, decisión política e injerencista: Sheinbaum&nbsp;&nbsp;La Jornada",
+      "pubDate": "2026-08-15T09:19:26Z",
+      "source": "Google News",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Ferran ya es del PSG",
+      "link": "https://www.marca.com/futbol/barcelona/2026/08/15/oficial-ferran-torres-traspasado-psg.html",
+      "description": "El atacante valenciano reforzará el ataque del bloque de Luis Enrique",
+      "pubDate": "2026-08-15T09:13:58Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
     },
     {
       "title": "La fabricación alemana era la envidia del mundo. La lista de los coches eléctricos más vendidos de 2026 confirma que ya no lo es",
@@ -36,7 +117,7 @@
       "pubDate": "2026-08-15T08:32:56Z",
       "source": "El País",
       "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/PDKQDT4I7JGWJLOXVSBC5RITRA.jpg?auth=8d6a39bf80833bfd0e5f9fb8266361b5850800154443c6bc8d5ea7b599547d76"
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3WIPLUPBYNF6FNKSYDE7JLWEZM.jpg?auth=e0028da6c0b0dc0253a83be3d36e57f8bbe2b7a856eb5d0be031bc70e66a65c3"
     },
     {
       "title": "Con solo 18 años, este desarrollador sería millonario gracias a su juego en Steam. El \"problema\" es un número: 99,9%",
@@ -84,12 +165,12 @@
       "thumbnail": null
     },
     {
-      "title": "¡Doblete de oro de María Pérez y Paul McGrath!",
+      "title": "Doblete de oro de María Pérez y Paul McGrath",
       "link": "https://www.marca.com/atletismo/europeo/2026/08/15/doblete-dorado-maria-perez-paul-mcgrath-medio-maraton-marcha.html",
-      "description": "España logra sus dos primeros oros en el Europeo de Birmingham tras la plata de Marta García en el 5.000 y el bronce de Mohamed Attaoui en el 800",
+      "description": "El festival español se completa con la plata de Miguel Ángel López y el bronce de Raquel González en el maratón marcha",
       "pubDate": "2026-08-15T08:02:51Z",
       "source": "MARCA",
-      "category": "Deportes",
+      "category": "Cultura",
       "thumbnail": ""
     },
     {
@@ -129,9 +210,9 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/91e0/live/b48adf40-91ee-11f1-a577-f5d49b610922.jpg"
     },
     {
-      "title": "Doble oro español en la marcha de los Europeos de Birmingham: Paul McGrath y María Pérez",
+      "title": "Éxtasis de la marcha española en los Europeos de Birmingham: dos oros, una plata y un bronce",
       "link": "https://elpais.com/deportes/2026-08-15/paul-mcgrath-logra-en-la-media-maraton-de-marcha-el-primer-oro-para-el-atletismo-espanol-en-birmingham.html",
-      "description": "España rompe por fin el medallero en una mañana espectacular en el centro de la ciudad",
+      "description": "España rompe por fin el medallero en una mañana espectacular en la que Paul McGrath y María Pérez se coronan en la media maratón, Miguel Ángel López es segundo en la maratón y Raquel González termina tercera en la gran distancia",
       "pubDate": "2026-08-15T07:54:50Z",
       "source": "El País",
       "category": "Mundo",
@@ -156,7 +237,7 @@
       "thumbnail": ""
     },
     {
-      "title": "Lucy Davis: \"A las pocas personas que comentaron 'RIP', les alegrará saber que sigo viva, ¡hurra!\"",
+      "title": "Lucy Davis, quien padece un cáncer terminal: \"A las pocas personas que comentaron 'RIP' les alegrará saber que sigo viva\"",
       "link": "https://www.marca.com/tiramillas/series/2026/08/15/lucy-davis-agradece-shock-apoyo-recibido-tenia-idea-mi-publicacion-sobre-cancer-iba-tanta-repercusion.html",
       "description": "La actriz británica, conocida por interpretar a Dawn Tinsley en la versión británica de 'The Office', ha asegurado que está \"abrumada\" por las muestras de cariño recibidas",
       "pubDate": "2026-08-15T07:03:49Z",
@@ -174,15 +255,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/series-intriga-espanolas-netflix.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "¿Un NAS económico para montar tu propio Google Fotos o Drive? - Esto es lo que recomendamos",
-      "link": "https://www.xataka.com/xataka-xtra/nas-economico-para-montar-tu-propio-google-fotos-drive-esto-que-recomendamos",
-      "description": "Un servidor&nbsp;NAS&nbsp;es un dispositivo de almacenamiento conectado a la red, con el que puedes crear tu propio servidor para almacenar contenidos multimedia o mucho más. A veces, cuando pensamos en ellos miramos modelos potentes para que nos den la mayor ",
-      "pubDate": "2026-08-15T07:01:15Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/7a5736/el-consultorio/1024_2000.jpeg"
-    },
-    {
       "title": "En 1936, un ingeniero soviético creó una de las tecnologías más bizarras de la historia: el ordenador que funcionaba con agua",
       "link": "https://www.xataka.com/ordenadores/1936-ingeniero-sovietico-creo-tecnologias-bizarras-historia-ordenador-que-funcionaba-agua",
       "description": "Mucha tecnología e innovación se han tenido que dar para que hoy en día tengamos&nbsp;chips de 5 nm&nbsp;con millones de transistores en apenas unos milímetros de superficie. En las primeras etapas de la computación, cuando los ordenadores ocupaban habitacione",
@@ -190,6 +262,15 @@
       "source": "Xataka",
       "category": "Tech",
       "thumbnail": "https://i.blogs.es/003541/ordenador-de-agua/1024_2000.jpeg"
+    },
+    {
+      "title": "¿Un NAS económico para montar tu propio Google Fotos o Drive? - Esto es lo que recomendamos",
+      "link": "https://www.xataka.com/xataka-xtra/nas-economico-para-montar-tu-propio-google-fotos-drive-esto-que-recomendamos",
+      "description": "Un servidor&nbsp;NAS&nbsp;es un dispositivo de almacenamiento conectado a la red, con el que puedes crear tu propio servidor para almacenar contenidos multimedia o mucho más. A veces, cuando pensamos en ellos miramos modelos potentes para que nos den la mayor ",
+      "pubDate": "2026-08-15T07:01:15Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/7a5736/el-consultorio/1024_2000.jpeg"
     },
     {
       "title": "Verónica Sanz: \"Todos admiramos las vidas perfectas porque sabemos que no existen\"",
@@ -210,15 +291,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Por fin Cuti Romero",
-      "link": "https://www.marca.com/futbol/atletico/2026/08/15/cuti-romero-nuevo-jugador-atletico.html",
-      "description": "El central argentino firma como rojiblanco hasta 2031 y se convierte en el cuarto fichaje",
-      "pubDate": "2026-08-15T06:51:56Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
       "title": "‘Frozen 3’ adelanta su primer tráiler y más detalles: nueva villana, una novia para Olaf…",
       "link": "https://hipertextual.com/cine-television/frozen-3-adelanta-su-primer-trailer-y-mas-detalles-nueva-villana-una-novia-para-olaf/",
       "description": "Como cada año, Disney ha congregado a todos sus fans y sus estrellas en la celebración de la D23, su tradicional convención plagada de anuncios. Y así, en la noche del viernes 14 de agosto, la compañía ha ofrecido un gran panel en el que ha repasado sus planes",
@@ -226,42 +298,6 @@
       "source": "Hipertextual",
       "category": "Entretenimiento",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2016/05/Elsa-de-Frozen.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Marián Mouriño se moja en el test MARCA: \"Prefiero al Depor debajo nuestro siempre\"",
-      "link": "https://www.marca.com/futbol/celta/2026/08/15/marian-mourino-moja-test-marca-prefiero-depor-debajo-nuestro-siempr-video.html",
-      "description": "",
-      "pubDate": "2026-08-15T06:22:03Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Marián Mouriño, la única presidenta: \"No estoy preparada para despedir esta temporada a Iago Aspas\"",
-      "link": "https://www.marca.com/futbol/celta/2026/08/15/marian-mourino-unica-presidenta-dia-veremos-mujer-madrid-barca.html",
-      "description": "La dirigente y propietaria del Celta repasa en una entrevista en MARCA su recorrido en el mundo del fútbol, su apuesta por la cantera, su sueño de construir un SuperCelta y confiesa que no está preparada para el adiós de Iago Aspas&nbsp;",
-      "pubDate": "2026-08-15T06:16:25Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Un 'paseo' de 1.000 kilómetros: un anciano de 92 años sale a dar su paseo diario en Cádiz y acaba en Burgos",
-      "link": "https://www.marca.com/tiramillas/sucesos/2026/08/15/paseo-1-000-kilometros-anciano-92-anos-sale-dar-paseo-diario-cadiz-acaba-burgos.html",
-      "description": "El nonagenario salió de casa para dar una vuelta, como hacía casi cada mañana, y apareció dos días después a más de 1.000 kilómetros de distancia",
-      "pubDate": "2026-08-15T06:14:08Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "La marcha, en directo:&nbsp;Miguel Ángel López y Raquel González luchan por más medallas",
-      "link": "https://www.marca.com/atletismo/europeo/2026/08/15/6a7f841ab364eacdc8ba0e7c.html",
-      "description": "María Pérez encabeza la representación española en las pruebas de marcha, que se disputan esta mañana en Birmingham",
-      "pubDate": "2026-08-15T06:10:46Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
     },
     {
       "title": "El live-action de ‘Enredados’ muestra las primeras imágenes del remake y su fecha de estreno",
@@ -345,6 +381,15 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/TlstmqWW6fZx5V6inF4YA9zrxdg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/65IOR3GSBFG3NLKYAOGJOIQCBU.jpg"
     },
     {
+      "title": "Terremoto de magnitud 7,7 en Indonesia causa dos muertos - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVXFkMjNkRUhzOWNEVlFnQ1VZQ0ZYUEh4SWhMUlFEMjBWZGNpUWJJYVpraFlpaFY5TmVzRl9Xa0xmcjhiYnNzRWhVZTB2aDBIay1NUUZfOEZ6X3N4c25iVld2Z3VfalNSVzMxWDVMZ3FJSEk3TTB0WERRMG96Z2RDQkhmcnlUUTktUFdpSXdXNGoyZ9IBkgFBVV95cUxPMmxvWUlfcFdWZmRhQmw4cHQxMHNGYzZTWmlVUTVGdDBmSUdJYjBkNUxVTHdFLXpQYlFHRTJwQ19BcnNhLXZxeHpkdG1MOFVHT1N1RWR2aWFLM3R0ZUJiR0RXUmc2LVlFZkhvSTFMSlJwZlp2YnRWMXNoVkhOOWxjU25PYjZhWXBLZlU2dkJYa2N0dw?oc=5",
+      "description": "Terremoto de magnitud 7,7 en Indonesia causa dos muertos&nbsp;&nbsp;dw.comVídeo, caos mientras un fuerte terremoto sacude Indonesia&nbsp;&nbsp;YahooSRE no registra mexicanos afectados por sismo en Indonesia&nbsp;&nbsp;Quadratín MéxicoUn potente terremoto de ma",
+      "pubDate": "2026-08-15T04:26:34Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
       "title": "Marvel conquista la D23 con el demencial nuevo tráiler de ‘Avengers: Doomsday’",
       "link": "https://hipertextual.com/cine-television/marvel-conquista-la-d23-con-el-demencial-nuevo-trailer-de-avengers-doomsday/",
       "description": "Marvel no iba a dejar pasar la oportunidad de brillar en la D23, el evento anual de Disney. La Casa de las Ideas ha llegado a la convención para darle un nuevo punch a su estreno más esperado del año. Así, han lanzado un espléndido y muy celebrado nuevo tráile",
@@ -401,7 +446,7 @@
     {
       "title": "Estados Unidos asesta un golpe al corazón de Morena con la retirada de la visa a Andy López Beltrán - EL PAÍS",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcU9kNENVbmVNSVZnMG1JdEdvalRGN3NjWm1aYlMxZTNPUW42eVRYNWhRemJyUm9ZX1MtRGNFeHBidlBOblB3TGNnUUZtV0h6dDFRRkRmVXd2aEY3SFFoa3Yyajd3c0xldWtHUUVGM0JLR3dfUkwyc1I1MTR3czNYT3RTQV91M2JQTDNUSjFxNzRBN3FzS2ZaWnpIdVBsUjZLemE3REMtd1Q5Wm83dHpJVUQzclEwZ0trdzRoSm9mbUp4V0hLYTdjSGRxT2g2U3JTenhmUk1haW_SAewBQVVfeXFMTjBSaDV2b0RnenhEMHE5UllLRGRqN1p6OU1WX0loVk9OaG9VRG5jZnpmNDhKaWNWaXBLdmZPb1IxTk1EN0E3QkljMUlQcVg4UjhSRndRSnJmLW5qYjNwaUZjeTJxNGlTcV9GUjV1N0dPaEYxbWRRMzFLcnpHMllPcHBic1RvZ2RDVmJJdHVRVGZPMTM1ZHg4RlZCNnN5TXJua2E0ME5ad2RMeEZxZDU3RDBYZHdfbVVzVHJabmhIR1BYN0ZOTXQzTm03VXRLQlpVdXh2TDFjMWpWMXlyMzVwTGJnek13ZjJwdk8yX0M?oc=5",
-      "description": "Estados Unidos asesta un golpe al corazón de Morena con la retirada de la visa a Andy López Beltrán&nbsp;&nbsp;EL PAÍSAlega Andy 'inminente embestida' de gobiernos extranjeros&nbsp;&nbsp;ReformaAndy López Beltrán, de ser heredero de AMLO a estar bajo la lupa d",
+      "description": "Estados Unidos asesta un golpe al corazón de Morena con la retirada de la visa a Andy López Beltrán&nbsp;&nbsp;EL PAÍSAgradece muestras de solidaridad&nbsp;&nbsp;La JornadaAlega Andy 'inminente embestida' de gobiernos extranjeros&nbsp;&nbsp;ReformaEl Mirrey de",
       "pubDate": "2026-08-15T04:00:00Z",
       "source": "Google News MX",
       "category": "México",
@@ -534,15 +579,6 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/BPI7TVAXDNF6VOQAYDGZPUGHPM.jpg?auth=8c73a639e206a398cbea453d9d730125137519d3f11e7c5d4e0e87e178cade7f"
     },
     {
-      "title": "‘Kingdom Hearts’ se convertirá en una serie para Disney+ y ya tiene primera imagen",
-      "link": "https://hipertextual.com/cine-television/kingdom-hearts-se-convertira-en-una-serie-para-disney-y-ya-tiene-primera-imagen/",
-      "description": "Disney ha sorprendido al mundo durante la celebración de la D23 2026 con una noticia que nadie esperaba. El popular videojuego de Kingdom Hearts tendrá su propia serie para Disney+. La compañía ha puesto en marcha el proyecto e incluso ha presentado su primera",
-      "pubDate": "2026-08-15T03:29:00Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Kingdom-Hearts-serie-Disney.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "title": "Santi Santamaría y Ferran Adrià: la pelea entre amigos que saltó de la cocina a las portadas",
       "link": "https://elpais.com/gastronomia/2026-08-08/la-guerra-de-las-espumas-el-dia-que-santi-santamaria-desafio-a-ferran-adria.html",
       "description": "Uno era emblema de tradición y arraigo; el otro, un genio que convirtió su restaurante en un laboratorio",
@@ -581,7 +617,7 @@
     {
       "title": "Golpea ahora a España un sismo de 5.2 - Reforma",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43YVd5SThrc2ZROE9RenZjU0FZZ2I0NmVxQXctckNTR2szOWEyQzhtaVUtNnEzTVJZQlRmZk9EREs1M3NrV01CTjJnQ2EzaFk5RGllV0hMcUxfWTU5M2JwdF9oT3NBLXhsUXRLME5pMTY2bXFfRUlkajAwZw?oc=5",
-      "description": "Golpea ahora a España un sismo de 5.2&nbsp;&nbsp;ReformaTerremoto de magnitud 5 en España deja daños materiales&nbsp;&nbsp;DW.comEl terremoto del sur de España se siente en Madrid y otras regiones sin víctimas&nbsp;&nbsp;YahooUn terremoto de magnitud 5 sacude ",
+      "description": "Golpea ahora a España un sismo de 5.2&nbsp;&nbsp;ReformaTerremoto de magnitud 5 en España deja daños materiales&nbsp;&nbsp;dw.comSismo de magnitud 5 en el sur de España se siente en Madrid y otras regiones&nbsp;&nbsp;CNN en EspañolUn terremoto de magnitud 5 sa",
       "pubDate": "2026-08-15T02:29:15Z",
       "source": "Google News MX",
       "category": "México",
@@ -633,15 +669,6 @@
       "thumbnail": null
     },
     {
-      "title": "Sismo de magnitud 7.7 sacude la costa de Indonesia; reportan edificios dañados y emiten alerta de tsunami - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMFZDNE9nTzR1Z09qMFJxTEk4Tmh6VEgzRTVzcGNPOHZfTzlodThMY3ZuWU9qTURaVkQtSkNldkdMaTJiNU00YW9YRGYwOHg1Zkk5a0x1NWdqS1NYdGFocVpSby1QT3RLMTl6YlN1Z2ZJVjRlMk1fV1BnSTNqTF9tbV9xRnlHY0M3c3NUTzItdHRfXzdNS3FIcG9ORExEc1NXZ3JKUkxsZGt3ZzNEai14WDJDcFhJYnMyZkNNZlZEdmUzSUNoUjcybmp6UWU3MDRSVi1nMW5ZQktjczNw?oc=5",
-      "description": "Sismo de magnitud 7.7 sacude la costa de Indonesia; reportan edificios dañados y emiten alerta de tsunami&nbsp;&nbsp;La JornadaTerremoto de magnitud 7.7 sacude la costa de Indonesia&nbsp;&nbsp;El ComentarioSRE no registra mexicanos afectados por sismo en Indon",
-      "pubDate": "2026-08-14T23:26:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "De \"La Invitación\" a \"La Odisea\": 12 de las mejores películas de 2026, según los críticos de la BBC",
       "link": "https://www.bbc.com/mundo/articles/cn8nqxlg82vo?at_medium=RSS&at_campaign=rss",
       "description": "Los críticos de cine de la BBC Caryn James y Nicholas Barber seleccionan sus películas favoritas del año. Desde la audaz reinvención de la novela de Emily Brontë hasta la épica superproducción de Christopher Nolan.",
@@ -651,21 +678,30 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1065/live/b4fd8440-97ee-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "title": "Trump dice que declarará a Ormuz \"territorio de EE.UU.\" - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlGdUdacG5WN2J4WGlZR09HbHVZdG1tUzVMM0ZmLUVWTFh5a0tINjE5Z2tnWVFhdkN2b25ZZUdZMk1uREdXRlluV3dQVTJNMGJsNEtra1ZJanFkcExQYUQ4ZGprbjRsS0FITlozTG91NWJUaGktczYweF9xbUxCTzFqMzhQTkJNa2w3LWtkYXV6YS1mVU44eVNSRHdIVkdLVUlGSGhPUV81RF8wdGY3ZEFIVVZoUGVX0gG4AUFVX3lxTE1xOHBZMG9XVjV3TDNFRHpxZHRVTEdRRzJYVE5FeHBhZ1NLd3FRYWV3cDhVNE45NnlzaDI4M0hOWkxjY3daLXRfT3NUeXN5UDFSeUxEdWQ0UGh2ZVRvdEhyM1NOWFdxUmFMWE5CLXIzUEJOV3NXSG5CbzV6Z1czZjFVUEpjeGUtd3VJUTNDUURiRko1ektsazJYRmMzMFhHTDhFYWFmaDdkV3c0U2g0dURhRlY3SEtKbDM?oc=5",
-      "description": "Trump dice que declarará a Ormuz \"territorio de EE.UU.\"&nbsp;&nbsp;DW.comAfirma Trump que declarará Ormuz territorio de EU&nbsp;&nbsp;ReformaTrump dice que \"pronto\" va a declarar el estrecho de Ormuz como \"territorio de Estados Unidos\"&nbsp;&nbsp;La JornadaTru",
-      "pubDate": "2026-08-14T22:55:25Z",
+      "title": "Las \"batallas\" de los afganos a 5 años del ascenso del Talibán - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lTDVMMjV2WlBZc3B1cFFXR3VsRmdaWjRHUzBiU3Itb0IzaEdLS255cC1DdEZjbGpMazdmcmRMS0dZMHBIb1puR2IwUmZWUWZFZUdxRWVOX2ZqM2fSAWBBVV95cUxNZ1JvQUNLemMtNmIzeDJuVXFBb3M5U2FVaGFieENrYmR0VFhEUXdYLTBWNmxHRXRKV0hIbE9IOGdPQnlmLU4ycm5TajU1NjVMWnNYLWFaUDY0Um5lNDRvakE?oc=5",
+      "description": "Las \"batallas\" de los afganos a 5 años del ascenso del Talibán&nbsp;&nbsp;BBC\"La presión y las amenazas no están funcionando\": el dilema de cómo tratar al Talibán para generar un cambio en Afganistán&nbsp;&nbsp;BBCEl regreso talibán en Afganistán: cinco años d",
+      "pubDate": "2026-08-14T22:47:54Z",
       "source": "Google News MX",
-      "category": "Política",
+      "category": "México",
       "thumbnail": null
     },
     {
-      "title": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU. - DW.com",
+      "title": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU. - dw.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcU1DTWdaaU1aWlhoYTMzdHZCM2JFZE1ad3BaektzZGtfZ2FZc2wwTVdncWZwQXV0TFFoNXRZMmxhUEdWNGFNb2U1QnBwYURGUmh5TzBKT3BITnR2MXo5NmVwZ2xiTEJJMFZDRkNBbE5HN2Fmd3NONXoxcVNYTDVZYXJEZTItMXZhN283Ql9vaHMzbE3SAZMBQVVfeXFMTmNyZ0hUcGNzQ1c2WE9IcnVYbWxqbmVCdHBZdHVVTEFOR05pbTFVNE5mS0EtWXdQMWM1S0NOYWlReTlwNHpoNEs4ajRCN3R4OTNFVUlzMkFyX3NFNU1hYk9MMFZ4RDJybTlZN2VTSHJ6MzdWRkR4QWwwTUJDSVFRM3I1WGpZRG83c0drZGkwUGRIbG1z?oc=5",
-      "description": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU.&nbsp;&nbsp;DW.com",
+      "description": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU.&nbsp;&nbsp;dw.com",
       "pubDate": "2026-08-14T22:45:53Z",
       "source": "Google News",
       "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Kushner visitará Israel para desbloquear el plan de paz - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUTBhRFB3SDNnTXNoQ1B2UHhwUWRESk1qMkdrSVhwUmxCal9lNmhQSFlWVEFzcHZNMzhjdUJZLUhLaVdSSXRXM25nWndLdlJkaXV4Z2Ftd3ZzS0V2ZXVDcWtpZWR4TlVMa3Q3TjBvX2dleUU0TE15MjRrMDB6R0ViamJBZ05MaFVwWHZGckcyUktVMHFiYjdBWWwwbF9UQUFoUnJEeC130gGmAUFVX3lxTE9HQXpjQkVkU0sxb0RuVkJiMzJrYUJEemJEeWtudGNMQXo4dEFiVWhpb2Y3NW5WeXRyTXZaNkJxdWZjbTdScXppM2tDU2J1WjhzR0gwVnhPbDFFZ0RWUDV5eXg0Yklqb0tJLVFvRy1mcTZkNXQ1Y0dRTDludkZMTkt1TWhkTlJzWFd4dVQxRU8wbHR6QVk5c2hQQjQzeE45YWcxWFRqa3c?oc=5",
+      "description": "Kushner visitará Israel para desbloquear el plan de paz&nbsp;&nbsp;dw.comPor Gaza: el choque entre Hamas, Netanyahu y Trump&nbsp;&nbsp;El UniversalJared Kushner visitará Israel y Egipto con funcionarios de la Junta de Paz para hablar de Gaza&nbsp;&nbsp;YahooMa",
+      "pubDate": "2026-08-14T22:37:31Z",
+      "source": "Google News MX",
+      "category": "Política",
       "thumbnail": null
     },
     {
@@ -682,15 +718,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYWFBWU1sSHNMRndaSVRBOVdGSml2a0tZUHhqVkttcGduZUtQQVJXOFhGbFgtUVllM2RsM1NWNFpDT0RUMGt4TDN6NFpUbWFkOU1UV2tNY3V6TkJZbFlBUlh6Y0JKT1FXV19qTHNPYmhseWF5VmdlODRlWDNBSGlWU1JRLWJrOHNRNjVITzFHSHZ2VG8xWGRGMVZjU0c0N0JXYXlmUHJkR1ZJaUZNWGJYWGs0bzZVd2F5cE1oZ0RISkpWeF9MSVFsTXo5bUZYOVZsNjFjdnZlWEg?oc=5",
       "description": "¿Cuándo serán suspendidas las líneas celulares que terminan en 0 que no hagan su registro?&nbsp;&nbsp;El FinancieroCRT invita a usuarios a vincular línea celular con terminación cero para evitar suspensión del servicio; no habrá prórroga&nbsp;&nbsp;Gob MXMañan",
       "pubDate": "2026-08-14T21:19:25Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Hallan muerto a Jason Arday, el profesor de la Universidad de Cambridge acusado de plagio - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtNlhJb1FIOV9FbUhyN19MdHdUT1lEMm5EMWNsUl9ZUWpZWmVJdEFtZGowVTJGc1Q4dnNBRU9ZNlFQbldHWUY4eV9lY0hXMTdrOVdVZVhjQnVoR0XSAWBBVV95cUxOcWFvbWZKOHdzTWpzNE12STUzRW42TGVyQnBKeHJoT0M2d05YV3k1MmJ4YTlmaHlES0Z2LUNqb2UwUkdzNTQ1SGZURlJwcktpN1ZBUlhWX2dTdmxiNGJyTmU?oc=5",
-      "description": "Hallan muerto a Jason Arday, el profesor de la Universidad de Cambridge acusado de plagio&nbsp;&nbsp;BBCEncuentran muerto a exprofesor de Cambridge acusado de plagio&nbsp;&nbsp;cnnespanol.cnn.comJason Arday, académico de Cambridge bajo sospecha de plagio, es h",
-      "pubDate": "2026-08-14T21:17:13Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
@@ -714,6 +741,15 @@
       "thumbnail": null
     },
     {
+      "title": "Trump dice que \"pronto\" va a declarar el estrecho de Ormuz como \"territorio de Estados Unidos\" - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUmRRVWg5YkRwQjZVbEFhbmNXN3VyUzZMT2cySG5QVUowUE1OeXFxa3lsSjhCSjNVU3N0eDJ6cjNnWUtCZTNtOVJDRXZ4U1pVRnpVNTdzcGt2Uk9JUENrbHV3cXg0TlQ2d3FpMGlTa2VETUhvUV82TmpvZWN3eWo3TVhYdTk5Z2QxcUVmNWdnODFGckpCUXJYLUcwM0hqWmtiZ1lUMkJfVVhSTldTVkVVdG1GRS1pUmlBQS1QWTBBNFdIVzQ3Y3ZpLUI0SWc1R3M5TFM5RldhLUNZQQ?oc=5",
+      "description": "Trump dice que \"pronto\" va a declarar el estrecho de Ormuz como \"territorio de Estados Unidos\"&nbsp;&nbsp;La JornadaAfirma Trump que declarará Ormuz territorio de EU&nbsp;&nbsp;ReformaTrump amenaza con declarar el estrecho de Ormuz como territorio de Estados U",
+      "pubDate": "2026-08-14T20:20:00Z",
+      "source": "Google News MX",
+      "category": "Política",
+      "thumbnail": null
+    },
+    {
       "title": "Buscan en Colombia a pareja mexicana extraviada tras sismo - Reforma",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1VOZXpQTnJoZ21Pd19iZ2h0djBtVVA4WklycmxnbExndnlXMEt6a1FsenN4MUUwN0M0MHluaG1zZHpPTktYTGhwanZjRmxfYUtibHpiOS1XdGFZTUZSWUdvelBKejBfV2N2VHhPVzlZLWhmU24tdmxlZk82dXNVcEw1bHpzSF9oX1FkWnhzRVlhVmhYQ21V?oc=5",
       "description": "Buscan en Colombia a pareja mexicana extraviada tras sismo&nbsp;&nbsp;ReformaFamiliares de mexicanos desaparecidos en Colombia viajarán a Pereira para buscarlos&nbsp;&nbsp;El ComentarioDos mexicanos desaparecidos en Colombia tras sismos, informa embajada&nbsp;",
@@ -734,7 +770,7 @@
     {
       "title": "Video: Cae estructura sobre auto frente a Paseo Interlomas; hay una persona muerta - López-Dóriga Digital",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0VJbGhGendBYjlUNTJSNnNoLVZmVmFOeTVRRnJuMXR0dllyVlJkWExEb1BHWllybXgzT09iV29VcGJVb0t2ODZGM3VGOHNxZ1gyWFJzeU41Vkl6OFlYY3VoWUhOWXBzWE9YN1NHRFdVMXVac1B3QkEwb0kyU051NFNFWHQxeWQzWHJ4VVhjT2M1X19NVF92Y19pUQ?oc=5",
-      "description": "Video: Cae estructura sobre auto frente a Paseo Interlomas; hay una persona muerta&nbsp;&nbsp;López-Dóriga DigitalTragedia en Interlomas&nbsp;&nbsp;ReformaMuere una mujer en Huixquilucan tras caída de estructura metálica sobre su vehículo&nbsp;&nbsp;La Jornada",
+      "description": "Video: Cae estructura sobre auto frente a Paseo Interlomas; hay una persona muerta&nbsp;&nbsp;López-Dóriga DigitalTragedia en Interlomas&nbsp;&nbsp;ReformaFallece mujer luego de caerle estructura metálica en Edomex&nbsp;&nbsp;La JornadaCae estructura metálica ",
       "pubDate": "2026-08-14T19:35:16Z",
       "source": "Google News MX",
       "category": "México",
@@ -768,15 +804,6 @@
       "thumbnail": "https://i.blogs.es/6be217/boeing-737/1024_2000.jpeg"
     },
     {
-      "title": "La economía política neoliberal en México y las redes del poder trasnacional - Revista IMEF",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMDNZTUZDQTdqQlN2Z0xSekVJNUpvSVhvLW9tVnFYRldJbmgwYmxDM080eE1RV09hTXRta2MzZmtXWWVfQ2JZcVFMeUxMdkkzYThOQ1F4a0FFYkkyakFxcVgxYUtqVENUQkNqbE16VGZYc3JDRk1kYkRFaTFJeDBUUFhDVkQ0YjR5TnF1YXZ1dEtFeEk4M0V3YTBBMXpaU3NaVjVTNzNyWl9IUTRDbzFBd3NsaWlYLV8zLTU2YXZfVVI2dV9rbmc?oc=5",
-      "description": "La economía política neoliberal en México y las redes del poder trasnacional&nbsp;&nbsp;Revista IMEF",
-      "pubDate": "2026-08-14T18:39:49Z",
-      "source": "Google News",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "Alejarse de Árboles, Ventanas y No Salir: Alerta PC a Estos Estados por Fuertes Lluvias - N+",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUFsMk5JekFSb2s0NXh6U3h5ZXh5ZHJEc3p0WW9SeUNWdFJyM1dDc3ZpTi16RTJHRTFMNFV3Q0FfWGxieXBhaDlndEl1X1pPWThUUk1MOEpkSU1yWklEY0YwYXRXbmdEdHNtUnlMU2NwVlNNMTFaeEJMUEFfcmJmbzgwQXhpTjNNRUZ1a29iNkRmVERnaS1uekQ4dmJib0FPQUFvbHM5OTBILXFhczVSVnNMZ2kxUUo0U3pNXzNibWl0SmgzanJwVlRLRFBrVTNUOGc?oc=5",
       "description": "Alejarse de Árboles, Ventanas y No Salir: Alerta PC a Estos Estados por Fuertes Lluvias&nbsp;&nbsp;N+Onda Tropical, Monzón Mexicano y vaguadas ocasionarán fuertes tormentas hoy viernes en más de 15 estados&nbsp;&nbsp;Meteored MéxicoCNPC MANTIENE COORDINACIÓN C",
@@ -797,7 +824,7 @@
     {
       "title": "Paola Rojas denuncia ataques tras aparecer en ‘lista negra’ de Luisa María Alcalde: “Se meten con mi pasado” - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTmNrbm1fN2VGdjBuNUo4SEV1M2pkbWtZY180N1NtYUp3THlJUWZxaDdIaTFQcmhvaXdHM1oyUG5tblg1V1JOM3ppblMwTlZ4bjJvYVcyWm9yeUtnWG40NlZKYVB4WW1ZYWVTUHd2WDY4c181RFY2R0dXWWVSWHR5OWJCT3hVYjNza2ZONFI1b0lDOUl6STExNXQyZ0R2NDVRNEw3STFscDJXVnVlVGhSR0pnYkNLY3pSTUZ4WGxQUEUxQloxcHNaMFl5by16c3VLZXBuay11UkZBTW1EWU840gH6AUFVX3lxTE9IQnBXdnV6bXZ4QWQ5R0E5cEVuY05Sc0pReVZaZ09uRzZHQ05vekhkRDBMWlh1SXBlUXZFcXRTTHBNQ3RNdktfQlJoSlRreXFmNzBjQVVJaW9Fd2ZJbzltNE83d1NQUjBvTmJCTFo3U21pVmRoaW9FUXRzbDBpYTRyMzNzdmVXRnVudHNGckhRUVBXdzVJSHgxSE1iREFMXzVqbnR1R0daOFJBOEoya1FMcGg0R2d0T1BKSWpCWjBBNUJVdFhyTDVwM1FOSG5UQ0ZudDBBcXYyNWEza2Q4cnZNdmM1NG9scHRLZXJjRWJUTTBkZUlGVDJKWkE?oc=5",
-      "description": "Paola Rojas denuncia ataques tras aparecer en ‘lista negra’ de Luisa María Alcalde: “Se meten con mi pasado”&nbsp;&nbsp;InfobaeDice Kenia López que Alcalde cruzó límite ético con lista&nbsp;&nbsp;ReformaSheinbaum rechaza que haya listas para censurar; lo que s",
+      "description": "Paola Rojas denuncia ataques tras aparecer en ‘lista negra’ de Luisa María Alcalde: “Se meten con mi pasado”&nbsp;&nbsp;InfobaeEn México no existe un listado para censurar a periodistas: Presidenta&nbsp;&nbsp;La JornadaDice Kenia López que Alcalde cruzó límite",
       "pubDate": "2026-08-14T18:31:00Z",
       "source": "Google News MX",
       "category": "México",
@@ -840,24 +867,6 @@
       "thumbnail": "https://i.blogs.es/da1270/cable-submarino-indigo-portada/1024_2000.jpeg"
     },
     {
-      "title": "Un cliente se ha gastado una millonada en tener un Ferrari SF90 Stradale híbrido que no se le parece en nada. Solo hay uno en el mundo",
-      "link": "https://www.xataka.com/movilidad/cliente-se-ha-gastado-millonada-tener-ferrari-sf90-stradale-hibrido-que-no-se-le-parece-nada-solo-hay-uno-mundo",
-      "description": "Ferrari ha desvelado su última creación única (one-off) en la Monterey Car Week, y se trata, sin duda, de uno de sus proyectos especiales más interesantes en años. Y es que el Ferrari CZ26 toma la base híbrida enchufable del SF90 Stradale y la envuelve en una ",
-      "pubDate": "2026-08-14T17:15:15Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/08c41d/ferrari-cz26-special-projects-00011-2048x1536/1024_2000.jpeg"
-    },
-    {
-      "title": "El mito de los auriculares inalámbricos y la radiación: por qué compararlos con un microondas no tiene ningún sentido",
-      "link": "https://www.xataka.com/medicina-y-salud/mito-auriculares-inalambricos-radiacion-que-compararlos-microondas-no-tiene-ningun-sentido",
-      "description": "A día de hoy es bastante común ver por la calle a personas que usan auriculares que funcionan a través de Bluetooth sin ningún tipo de cable de por medio. Para muchos aquí reina sobre todo la comodidad, pero hay algunas voces que apuntan a que es un auténtico ",
-      "pubDate": "2026-08-14T17:01:15Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/88b8ff/auriculares/1024_2000.jpeg"
-    },
-    {
       "title": "EEUU retira la visa al hijo de López Obrador: «Es una injerencia en la política mexicana» - The Objective",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeGpmN2RPQ2E1VzlYejBqVFFTWUVmbXhuQkJlcTFjeFRoTHpLNU5NTUZRa09zVFBtZFJUR2pKRVBNVFhvZ0U1V3AwaXk4R0FZQUd5b3gwRXdoUzh3WFdzdnhUTUZIVDktYW1ualVYRHdtQUNvaVowVnhpZXNUNkNnMWhqMWtfSVhLZ0hPX2xXZjV3YXRRXzduTXdfdmVudmp4R2cyVmtTTFI5TVF4d0FVYtIBtgFBVV95cUxOYldwSFdGNW5EZmw5ZEtEYUhOZ2RnYXROR0dDUTJDQ19uWXh3WjRSNDlnU19nbUFXMktqNEEtNGVwTGU0NW5KMmhCLXduQ3p0aUhDdDNSbWdPNjh2dlFvRlU0eEpvYmRQVy1tenp1UDQ1alloUFctUGh0OWFuajVDdW9RTU1mbktSenBVN1E4cnMzU01LY25DUG0wNjM5V0ExY2kwazFBaWI0UkdCNFBmV3MzSDlIUQ?oc=5",
       "description": "EEUU retira la visa al hijo de López Obrador: «Es una injerencia en la política mexicana»&nbsp;&nbsp;The Objective",
@@ -885,9 +894,9 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2945/live/c7871a50-97de-11f1-bb4c-d758974ed97b.jpg"
     },
     {
-      "title": "“Es un sentido de injerencia en la política mexicana”: Sheinbaum reacciona a cancelación de visa de Andy López Beltrán - El Informador",
+      "title": "“Es un sentido de injerencia en la política mexicana”: Sheinbaum reacciona a cancelación de visa de Andy López Beltrán - informador.mx",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMTdBVndCdXpORGNHMmE4ZEVER0RNVERKU0FGSTNXeWt3TXlOd2xZSm9EMjRjTWwwdFZXZVE4eHFwNTM2bGpxd2ZkNlkwMFIxTWRYLUVObEpabTQxcWhoVE9CWFd6N1l5OURCWmtSaXFub3N2RGVmMVRlNWxCdjVYSjdxa29YRWlfdWdYYUJ5Nk5WcUF4WXh1b1NtZTBGYkVNNlA1UHdCRzdYTVB1N083OXFvM3pUeF9HOHZDR3gtdGQ1S1dRYjF6OEYzaEVaVUhKVUR4N1FNTFZLaWN4ZTlwemVDSnZSVHExRmdUcXNYUTRvZWxWNmR6RlR5dw?oc=5",
-      "description": "“Es un sentido de injerencia en la política mexicana”: Sheinbaum reacciona a cancelación de visa de Andy López Beltrán&nbsp;&nbsp;El Informador",
+      "description": "“Es un sentido de injerencia en la política mexicana”: Sheinbaum reacciona a cancelación de visa de Andy López Beltrán&nbsp;&nbsp;informador.mx",
       "pubDate": "2026-08-14T15:39:36Z",
       "source": "Google News",
       "category": "México",
@@ -982,15 +991,6 @@
       "source": "BBC Mundo",
       "category": "Mundo",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/91ef/live/618147e0-9701-11f1-b72c-211ea4e0afc4.jpg"
-    },
-    {
-      "title": "UNAM niega examen de control a aspirante de Medicina con puntaje perfecto - Aristegui Noticias",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYVRKcmhVaFV2ZHpzWU85ZFhOY2piYno3b0FKbk5XTzUzVzZsUlBHaUdERHhHVkNLX1hUWXZVOVNMWVQ3OHlRalk0UFg2YnhiQnVxSFpvZFFHYmJlZ29QQ0pDMnp0eDBPTU4yOEJ3SWhPZ2JmYllKYVdiQXl5OWh3Q20yVGtuSlBhWVYzcl9abEFXTU16TDBhdmZKOWJkRU03UEZMNjdVVFV4ZUlfeVJkQm16dHRLWUE?oc=5",
-      "description": "UNAM niega examen de control a aspirante de Medicina con puntaje perfecto&nbsp;&nbsp;Aristegui NoticiasConcluye, en las sedes de León y Oaxaca, la aplicación del Examen de Control Presencial&nbsp;&nbsp;dgcs.unam.mxFalta más de la mitad de aspirantes a examen d",
-      "pubDate": "2026-08-13T20:23:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "Sheinbaum responde a Alito Moreno y descarta persecución política - sdpnoticias",
