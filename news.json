@@ -1,7 +1,70 @@
 {
-  "generated": "2026-08-16T07:20:27.016539+00:00",
+  "generated": "2026-08-16T08:12:52.150407+00:00",
   "count": 168,
   "articles": [
+    {
+      "title": "La polémica construcción de una mezquita en Japón que revela el dilema del país ante la inmigración",
+      "link": "https://www.bbc.com/mundo/articles/cn4n1522kygo?at_medium=RSS&at_campaign=rss",
+      "description": "A medida que Japón depende cada vez más de los trabajadores extranjeros, también se enfrenta al reto de cómo integrar nuevas culturas y religiones.",
+      "pubDate": "2026-08-16T08:01:58Z",
+      "source": "BBC Mundo",
+      "category": "Mundo",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57ab/live/e671d390-89a3-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "title": "El mapa de la desertificación en Europa da auténtico miedo: España ya roza el 53% de tierras áridas",
+      "link": "https://www.xataka.com/ecologia-y-naturaleza/mapa-desertificacion-europa-da-autentico-miedo-espana-roza-53-tierras-aridas",
+      "description": "Esa sensación de que ya no llueve tanto como cuando eras peque y que hace más calor no es una sospecha sino una realidad. Y que las DANAs sean más frecuentes, arrasando lo que pille a su paso e impidiendo que el terreno retenga el agua. En definitiva, que el c",
+      "pubDate": "2026-08-16T08:00:48Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/2b8d47/mapaaaaa/1024_2000.jpeg"
+    },
+    {
+      "title": "Cómo empezar de cero con Gemini Notebook (NotebookLM) aunque no tengas fuentes propias a las que preguntar",
+      "link": "https://hipertextual.com/guias/empezar-con-gemini-notebook-notebooklm-buscar-fuentes/",
+      "description": "NotebookLM, ahora Gemini Notebook, es de gran ayuda si necesitas procesar documentos, textos, videos y, en general, grandes cantidades de conocimiento. Si no entiendes algo, no tienes tiempo para leerlo todo o, simplemente, quieres ordenar tus propias notas, l",
+      "pubDate": "2026-08-16T08:00:00Z",
+      "source": "Hipertextual",
+      "category": "Tech",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Robot-Leyendo-Libros-Biblioteca.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Hjulmand: \"¿El tatuaje del Arsenal? Ya no lo tengo\"",
+      "link": "https://www.marca.com/futbol/atletico/2026/08/16/hjulmand-apasionado-liderazgo-encajare-estilo-atletico.html",
+      "description": "Novel como rojiblanco, su carrera se explica como capitán. Maestro de cómo colocarse en el campo, Hjulmand está convencido de que ha encontrado su sitio",
+      "pubDate": "2026-08-16T07:56:58Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Las redes cargan contra Natalia Palacios por quejarse de que no existen bajas por embarazo: \"Tu curro es irte de viaje\"",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/08/16/natalia-palacios-queja-existen-bajas-embarazos-redes-dictan-sentencia-curro-irte-viaje.html",
+      "description": "En España sí existen las bajas por embarazo reguladas, principalmente, mediante el Estatuto de los Trabajadores y otras leyes como la reciente Ley Orgánica 1/2023",
+      "pubDate": "2026-08-16T07:48:18Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "China se hizo famosa por sus jornadas laborales eternas. La solución ha sido echar a la calle a los empleados a su hora",
+      "link": "https://www.xataka.com/empresas-y-economia/china-se-hizo-famosa-sus-jornadas-laborales-eternas-solucion-ha-sido-echar-a-calle-a-empleados-a-su-hora-1",
+      "description": "La reducción de la jornada laboral parece ser un camino de no retorno que muchos países se han propuesto transitar. Algunos, como Grecia, no lo hacen con paso decidido. En cambio, otros cuya abnegación con el trabajo parecía inamovible, están sorprendiendo al ",
+      "pubDate": "2026-08-16T07:30:48Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/6e8862/blue-sky-qn1sz74hvjg-unsplash-1-/1024_2000.jpeg"
+    },
+    {
+      "title": "La hora de \"los buenos\"",
+      "link": "https://www.marca.com/futbol/real-madrid/2026/08/16/hora-buenos.html",
+      "description": "El Madrid cierra su pretemporada ante el Schalke (17.00 h) con Mbappé, Bellingham y los nuevos fichajes ya disponibles para coger rodaje antes del estreno liguero",
+      "pubDate": "2026-08-16T07:30:17Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
     {
       "title": "38 comandos para preguntarle a Linux todo sobre tu ordenador",
       "link": "https://hipertextual.com/guias/comandos-linux-hardware-componentes-sistema-ordenador/",
@@ -104,10 +167,10 @@
     {
       "title": "Presume José Ramón López visita a tienda en EU - Reforma",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYjBlTUlod0EyWVVsdHBNV01RM0lDZ09odnQ5dDZkTmFDUXNGZ0phc3Q3SzVVTC1JYWhfN18yVFlmTzlCMzhkYkJNQ0RfZWRoc1Btc3Z3WGU0MjF5VHNCX2hIOFMySzBWazQ1R3RqMVI2RzdscXhyZFlwOWQxQUlqN1ptbEVjazA?oc=5",
-      "description": "Presume José Ramón López visita a tienda en EU&nbsp;&nbsp;ReformaEsposa de José Ramón López Beltrán comparte estilo de vida en Estados Unidos, en medio de escándalo de Andy&nbsp;&nbsp;infobae.comVIDEO: Carolyn Adams, esposa de José Ramón y cuñada de Andy López",
+      "description": "Presume José Ramón López visita a tienda en EU&nbsp;&nbsp;ReformaVIDEO: Carolyn Adams, esposa de José Ramón y cuñada de Andy López, comparte fotos en Disneylandia&nbsp;&nbsp;El UniversalJosé Ramón López Beltrán comparte foto desde los Estados Unidos&nbsp;&nbsp",
       "pubDate": "2026-08-16T04:37:13Z",
       "source": "Google News MX",
-      "category": "Cultura",
+      "category": "Entretenimiento",
       "thumbnail": null
     },
     {
@@ -327,15 +390,6 @@
       "thumbnail": ""
     },
     {
-      "title": "Familia de mexicanos desaparecidos en Colombia asegura que mantiene la esperanza - El Universal",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRk9QVDBEUVlXUWJ2eXFvU0tLM3VYeEZzODd3RDRSRG90TFFSZ0tOVnYtakhSMk9lbHlpd2pxUUo0UFpzMWZhOGQ2UFlmLWVMUTVCWkVia3hRYnZMM3FNeFZVRkxaR09IbFU2T0laMUhlVFIzNHJjeUl5dWtrYngteE5hREwzZU95cWNwY1BCcGJpbGR2VS14UEszOFlQMDBib3Z0Ujd1bmZXTU5TU1VUMmh2bG0yQi0xSHBtQldlWEZ4TF81d2hjZVpRYWIwa1pjRkJrd19FeEZGLXZMeVg5clBoTjdSX0I4al8ybk0wV2wwaTFIQWNfNEo2N3F2M3N50gGUAkFVX3lxTE9uaVFuV2w2RWlJcVpzZm9vWXQtU3otSXZqZHRud2FYWmFnVVc4TXR0RUhaVDdCT2lZeUR3ck5mbFFfZV9BTDBQUWdndWt1M1BNTjk3dFJSOFZtdFdfRkZxbk5QQ3BoaHlyZVFxT3FJeDdqMERGNG9FcWppV1pxUzZ0cXNkZmZKTGQzMFFZQURuRGRwRW9wWEd0U0tzQUJaeFJVNkxzWFY0MWM3QmNfYmRNV0Q1MlNEZWhFX0RDRFR3REE5SW56aExzT0wtTkx0T1RqZlNGT3hRN3QzNHlONUZ5R2ZpaFVMRkctNFlKdlFlSWprTWZQaUZsQWQ1dUU1aHgzZ3NYSC0xRXUxcGNlOThrYV9JNA?oc=5",
-      "description": "Familia de mexicanos desaparecidos en Colombia asegura que mantiene la esperanza&nbsp;&nbsp;El UniversalMéxico pide dar celeridad a la búsqueda de una pareja mexicana desaparecida tras sismo en Colombia&nbsp;&nbsp;YahooFamiliares de mexicanos desaparecidos en ",
-      "pubDate": "2026-08-16T00:53:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "‘Ya la enseñé 20 veces’: Gobernador de Tamaulipas, Américo Villarreal, niega que EU le retirara la visa",
       "link": "https://www.elfinanciero.com.mx/estados/2026/08/15/gobernador-de-tamaulipas-americo-villarreal-niega-que-eu-le-haya-retirado-la-visa-ya-la-ensene-20-veces/",
       "description": "El gobernador de Tamaulipas, Américo Villarreal, negó que EU le haya retirado la visa y evitó opinar sobre la cancelación del documento a Andy López Beltrán.",
@@ -381,18 +435,18 @@
       "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/8gX2GYrFF2fpRnGHFW5FS3OvgPk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4P555DW2HNAZHIEHWDA2ATAE6A.jpeg"
     },
     {
-      "title": "Duras portadas en Inglaterra contra Enzo Fernández",
-      "link": "https://www.marca.com/futbol/album/2026/08/16/portadas-dia.html",
-      "description": "La gran jornada para el atletismo español en el Campeonato de Europa centra la atención de las portadas de la prensa deportiva especializa de este domingo 16 de agosto.",
-      "pubDate": "2026-08-15T23:31:52Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
+      "title": "Desde este sábado, Morena convoca a 202 asambleas por la soberanía - El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa2RwMmlySGlpTUFIX1JlNS1KZjFCNUFNSUwyNDNJU002VGZJSmlUVHA0cUM1SS01dXVqX2RYdVlyNEVSMXZ4SFBGckMxT1VVbTFUWk5HTUtDMVhlNFVZLVYtMTk5UzBIZ1k1cERhQ3FkS3lSbXAtRTlucUZjMFZXLXBqVjBwV25IbklvUm1kY1dzNFVBS1NQYnN2amw1aWo1azhrcmQwMDg4ZTIzeE9JSHg0b1F4Smo2OWlaOU50VTRuT0ZGVmNlMmQ3WkhYY0VsMHZxMm5RQmtZVXF0SG14X2JlYkwzODFBcUJGZFFLZEVUQVBfMGQxZ9IBjAJBVV95cUxNeVZkb3BMOEpjVkhtTWFsM2U5d3pubWpicjhjdXhMZXBBdHNORzZUY0lwSG1OdnR0NEN2Nnlmd1hCcmQtTWdYUWhIbTNiblBvODVnSW9ocGxBOGkyX1JIcmZyNUd2Y1NNc0I1amQ3cDV2QnAzSXF1QTNQcGVwZnJQR3lPMmhwMjRDcUFCUEVmZ0JqUllZRFRtaE5lME1CM19RY2JOX3psSWhFS19JNlhkU0JYR2I3V0ZwWW8zLTFEczVxRXkzaTFCZlF2RFgwZDE3aktUb3FjaHBhaC0yUHBpY1A1R19MWkg5VDNFQVNudm5fdTF0YzVEUFNYYWcwcnpDMmZmbjlKMVd3RjJk?oc=5",
+      "description": "Desde este sábado, Morena convoca a 202 asambleas por la soberanía&nbsp;&nbsp;El UniversalMery Pozos encabeza respaldo de morenistas a Claudia Sheinbaum en defensa de la soberanía&nbsp;&nbsp;El InformadorHidalgo se suma al frente nacional de Morena en defensa ",
+      "pubDate": "2026-08-15T23:38:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
       "title": "Muere madre que protegió a su hija en explosión en Morelos - Reforma",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb1VqenloYnM4VlRRWU11NXo2em1HRmtXRlhnd2J1Rk1fZDJTUzBEQzVwZ05rZTh3eEdFdEpXaUlFV1F6aFA2R1REVFl0ZFZ0VGQtWUxjNGF5eWtkUmtiQmN0WFhlYVFUcnU0OEN2dDdSVXFPMFBpRUt1d0h3MzJNVVhEbUNPUHpXNEYxOUdXUXlLTXJfbTdj?oc=5",
-      "description": "Muere madre que protegió a su hija en explosión en Morelos&nbsp;&nbsp;ReformaAgradecen colecta para víctima de explosión en Cuernavaca&nbsp;&nbsp;YahooMurió mujer una semana después de explosión de pipa de gas LP en Cuernavaca&nbsp;&nbsp;La JornadaMantiene Gob",
+      "description": "Muere madre que protegió a su hija en explosión en Morelos&nbsp;&nbsp;ReformaAgradecen colecta para víctima de explosión en Cuernavaca&nbsp;&nbsp;es-us.noticias.yahoo.comMurió mujer una semana después de explosión de pipa de gas LP en Cuernavaca&nbsp;&nbsp;La ",
       "pubDate": "2026-08-15T23:17:18Z",
       "source": "Google News MX",
       "category": "México",
@@ -426,15 +480,6 @@
       "thumbnail": null
     },
     {
-      "title": "Sevilla 2-1 Rayo Vallecano | Resumen LaLiga",
-      "link": "https://www.marca.com/futbol/primera-division/2026/08/16/sevilla-2-1-rayo-vallecano-resumen-laliga-video.html",
-      "description": "",
-      "pubDate": "2026-08-15T22:11:41Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
       "title": "Investigan homicidio tras accidente en Zona Hotelera de Cancún - sipse.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdThySEJrRWRNVXItODB6anpNRE1Cc29oZU5GUi1odk1uNVU2UlJQTVZrQlJrZDFqVjZ6QzlOS3RSb0VQcW9Ld01fTElmcVBqaEZIczEzUGNpY2lIdW1DN0haWUtrVmpEQmtUb042VmtYMGVZRVV0WXZDMzJiVzg4S2w0VzhQRnBBa0JCalVNYmNMVzdjYTR1cTdHazdxTDMxWWRxbA?oc=5",
       "description": "Investigan homicidio tras accidente en Zona Hotelera de Cancún&nbsp;&nbsp;sipse.comMuere hijo de Jean Succar Kuri en un accidente en Cancún Quintana Roo&nbsp;&nbsp;López-Dóriga DigitalMuere Jonathan Succar, hijo de Jean Succar Kuri, en fuerte accidente automov",
@@ -442,15 +487,6 @@
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
-    },
-    {
-      "title": "Dos penaltis rescatan al Sevilla",
-      "link": "https://www.marca.com/futbol/primera-division/cronica/2026/08/15/dos-penaltis-rescatan-sevilla.html",
-      "description": "Los andaluces dejan los tres primeros puntos en casa tras remontar frente al Rayo",
-      "pubDate": "2026-08-15T21:53:21Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
     },
     {
       "title": "La Embajada de Estados Unidos manda un mensaje tras el caso de Andy López Beltrán: “Se cancelará cualquier visa cuando existan razones para hacerlo” - EL PAÍS",
@@ -482,7 +518,7 @@
     {
       "title": "Landau llama a no distraer agenda bilateral México- EU por \"ocasional estallido de drama político\" - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeUQ1RFY5M3lnaFdveTNTUjRPaV92RVdWdFVFR2VwNS1mRWIxRzNGUlBnNklCdTBvUk1zZU9BbGJ2OS1tWUFiYTVBSFpQSE9VdlIyVVJ4VzFfM2l4bE1sRGlZQTRCRWxMNVBiSFJjUk95NUlOaFJIbXZBam10dXJ1ZWJYQmJGZjMzU1pVbXRhMC1xcnlGMHJuS1BUVlFGNURfQVRoSkx1dFJxMDlsUFVqZFE1OXhlSTFBNW1SMUpoaG9GVGF1VWpvelFQTkVNcGJqUlh2R2FkZ25Ncmt5SWRxWHd5aVI?oc=5",
-      "description": "Landau llama a no distraer agenda bilateral México- EU por \"ocasional estallido de drama político\"&nbsp;&nbsp;La JornadaUna visa no define a una persona.- Sheinbaum&nbsp;&nbsp;ReformaJosé Ramiro López Obrador acusa a EE UU de ir tras su hermano al cancelar la ",
+      "description": "Landau llama a no distraer agenda bilateral México- EU por \"ocasional estallido de drama político\"&nbsp;&nbsp;La JornadaJosé Ramiro López Obrador acusa a EE UU de ir tras su hermano al cancelar la visa de Andy: “Al que quieren no es al chico, sino al grande”&n",
       "pubDate": "2026-08-15T20:04:00Z",
       "source": "Google News MX",
       "category": "México",
@@ -507,9 +543,9 @@
       "thumbnail": "https://i.blogs.es/290dd2/ojos/1024_2000.jpeg"
     },
     {
-      "title": "Aumentan a 294 los muertos por terremoto en Colombia - DW.com",
+      "title": "Aumentan a 294 los muertos por terremoto en Colombia - dw.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaVRmMm5EZnBzTjZyVUpNUEptZ1YzS29BSXlmbHhXMGxjMlQ3UDdQLXdiNDZVWGgtSE5IVUZBb29lRnAxQXpQSDhSdjFNUjFYOVlWZTNKMmFlZ09NSUdHMVA1ZDdNSGZNYkFPYmQ1RVJwUjI2MGJkbEhKMlpLVU44empLZ0VsT3BwMUxpcWtn0gGOAUFVX3lxTE9rd0xJbFByXzVOWURqOTI0cWNwaURSWTBVWUM1QzNFSlBiNXdqeklfc212QUhJNWstaktMVjZYYUVxbFlCY3ZhQkZ1Wkg2VVRnUGhSeW14blRzVk44dk91XzRzTXBYU05vRTZzM2R5YTRBSjlHbDNQMDBMZWdEUEZtWVZZRUVvZnd4RVFlUmc?oc=5",
-      "description": "Aumentan a 294 los muertos por terremoto en Colombia&nbsp;&nbsp;DW.comDamnificados del sismo acusan falta de ayuda del gobierno de Colombia&nbsp;&nbsp;La JornadaEl Cairo enfrenta la reconstrucción tras terremoto en Colombia&nbsp;&nbsp;El ComentarioTerremoto de",
+      "description": "Aumentan a 294 los muertos por terremoto en Colombia&nbsp;&nbsp;dw.comDamnificados del sismo acusan falta de ayuda del gobierno de Colombia&nbsp;&nbsp;La JornadaEl Cairo enfrenta la reconstrucción tras terremoto en Colombia&nbsp;&nbsp;El ComentarioTerremoto de",
       "pubDate": "2026-08-15T18:54:54Z",
       "source": "Google News MX",
       "category": "Política",
@@ -570,6 +606,15 @@
       "thumbnail": "https://i.blogs.es/549c4c/ps---plantilla-portadas-xtk/1024_2000.jpeg"
     },
     {
+      "title": "Protección Civil pide despejar basura de coladeras ante riesgo de inundaciones por lluvias - unotv.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLWhoT3pKYmd0S1VuLXZCX2I2dkFvRFEzXzN2TVlWZUx5S2tfMHdreDlvRG9NMnkyTkRDeFVsS1NfMDMyc1RHa0lTNEQ5WFIyM1FiUnk3OE9GaE5oaEFsc1pZWmUyS3JyZWJROC1VenBlR2RrOHZ0YUtiUTk0bFBzWW9WNXBDNUZ4alJnM2ZER2ktZTl5LXQyYWRzMWsxemcwNlUwZ3lGQnZ2SG5TYWxkcXppeWxaSTZnZExid1JMdw?oc=5",
+      "description": "Protección Civil pide despejar basura de coladeras ante riesgo de inundaciones por lluvias&nbsp;&nbsp;unotv.comCNPC LLAMA A LA POBLACIÓN A MANTENER LIMPIAS CALLES Y COLADERAS PARA MITIGAR RIESGOS POR INUNDACIONES&nbsp;&nbsp;Gob MXClima hoy sábado 15 de agosto:",
+      "pubDate": "2026-08-15T16:03:10Z",
+      "source": "Google News MX",
+      "category": "Ciencia",
+      "thumbnail": null
+    },
+    {
       "title": "Miles de árboles limoneros en España viven una crisis histórica: el virus que ha puesto en jaque a toda la industria",
       "link": "https://www.xataka.com/magnet/limon-espanol-se-prometia-felices-campana-historica-que-virus-puso-jaque-miles-frutales",
       "description": "Su nombre quizás no te diga gran cosa, pero el virus de la clorosis nervial amarilla (CYVCV por sus siglas en inglés) supone desde hace meses un auténtico dolor de muelas para los agricultores que se dedican a cultivar cítricos. Uno más que se suma a las fluct",
@@ -588,15 +633,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/malware-chrome.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "López Beltrán denuncia revocación de visa por EU como acto hitleriano - MILENIO",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXdxa19yVXFOQUJNcG1RTWluT1ZLVmNFVlpPNXROUEtJV1RWeEhjMkE1TXpqMEJFaVVkMGdYUmVld2MwUll1a3hFczFwTTl5dFNBdnRlZWIxeU5iQV93akdjUnZRWFlMQk13dVFDNGQzTEhSS0dxUXg3M0kySFVEeHdmRkx4Vmxvc0RuY3FmUVdvYk94TDA5Z0tOYy1RMnVPbzhxdUc2Y0tkWUlCdG1kVtIBsAFBVV95cUxNOVhlbkdQT0tZMkY0NlhWZ1NHQ29xV2ptMEhPdFRuYVlQLXRPTWtyN2oyOHFCRTJaYVdYLXRiT1BDRDNkY2JacWNKMmZXRUVOcHdJczNtQ05GbXhHWHdmdGdlTXlUT21ua1lzVGxrZEY5ZFEtZnJNMFhqX2RjNVh0dUlDQzd3NVlCckVadmR6dklWRHRscXpJbWE3MlJZdk05dnBNQ0ZJMG9pSldzUDBBaQ?oc=5",
-      "description": "López Beltrán denuncia revocación de visa por EU como acto hitleriano&nbsp;&nbsp;MILENIO",
-      "pubDate": "2026-08-15T15:55:00Z",
-      "source": "Google News",
-      "category": "Política",
-      "thumbnail": null
-    },
-    {
       "title": "Durante décadas, creímos que la carne hizo grande nuestro cerebro. Ahora todo apunta a la demonizada azúcar",
       "link": "https://www.xataka.com/investigacion/durante-decadas-creimos-que-carne-hizo-grande-nuestro-cerebro-ahora-todo-apunta-a-demonizada-azucar",
       "description": "Durante décadas, la historia de la evolución se ha narrado como una epopeya carnívora y se imagina como un simio que baja de los árboles, empieza a cazar, consume carne y, gracias a ese chute de proteínas y grasas, desarrolla un cerebro desproporcionalmente gr",
@@ -604,24 +640,6 @@
       "source": "Xataka",
       "category": "Tech",
       "thumbnail": "https://i.blogs.es/3317da/carne-azucar/1024_2000.jpeg"
-    },
-    {
-      "title": "Registradas, 49% de líneas móviles; suspensión, dudosa - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaldzell1dmV3a1pXRGU0NXBnVExMRmlrZ1lndTJOaHJ4M3cwYlRXckE1WW5QbkRDS1JPU3lVazA2V3I2a050TTd5M3lZU05SOEtNalVYeFJxTzR2UzI0NlV4d1dmQ01sejkzNV9fWHJRZVQ1d0Z6dE54MERIdkFweUFWWFN1aXFHZ2tnR1dxckhWUUwxZXY5N3BWdXoyWmQwUHMxSW1yZU4?oc=5",
-      "description": "Registradas, 49% de líneas móviles; suspensión, dudosa&nbsp;&nbsp;La JornadaSerán Suspendidas en Horas: Hoy Vence Registro de Estas Líneas Telefónicas&nbsp;&nbsp;N+Este 15 de agosto compañías suspenderán estas líneas sin registrar; consulta aquí el calendario&",
-      "pubDate": "2026-08-15T15:20:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Irán responde a Trump: Ormuz no se puede conquistar ‘con un tuit ni con portaaviones’ - El Financiero",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdk9vT0VoT2JEMk9fRldwam4zYkl4LUtwQUhGbTZJY2NqRU5JSTFEb1ZWTWpGeWtpNnJ4T2IwMG1Qd1dRdWhmNkJiUU4zb0U2MjE2cU1vOWVCQlNVSlY5NHAwVGlyOWtzYUdjempsTTR6WDBMV1Zrc1dxN2R2Rk5vT2FOY3NhQm1MOGxScklIWEdkSnFDQ3BnaVVJUW0wOW5CRS1tOFRNLXh4UU8yYWVGeVJfS2d4VXg1Vi1oc0s1cmVqV25kanF6ak8yb3Y?oc=5",
-      "description": "Irán responde a Trump: Ormuz no se puede conquistar ‘con un tuit ni con portaaviones’&nbsp;&nbsp;El FinancieroPronto, el estrecho de Ormuz será territorio de EU: Trump&nbsp;&nbsp;La JornadaTeherán responde que el estrecho de Ormuz es iraní ante amenazas de Tru",
-      "pubDate": "2026-08-15T15:06:55Z",
-      "source": "Google News MX",
-      "category": "Política",
-      "thumbnail": null
     },
     {
       "title": "En 2013 EEUU lanzó 2.000 ratones cargados de paracetamol para aniquilar la criatura de una isla. Los resultados siguen sorprendiendo",
@@ -669,15 +687,6 @@
       "thumbnail": "https://i.blogs.es/65fc38/portada-analisis-monitor-odyssey-g80hs/1024_2000.jpeg"
     },
     {
-      "title": "Clima hoy sábado 15 de agosto: ondas tropicales provocarán lluvias intensas en varios estados - López-Dóriga Digital",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUHFDZms4LTVYVmc3cHQxbEtNd0lULVdhWVkxbEJvRHktWk5fR21tMVJHN2R0a3JRVzFvOTZEUFhJR0RESndiSWFXVlY0dkZvVkdQeHdrSDBSbTJfSGU4X0FRcGJSQXU5UWxSWWVRYlNhaHNWeUVHeGFUYWtaOV9jUnExSWNmNDJWZWJKVTdVMV9hY1FVTldTMjBhdEJVbi1BOEc3bjdiaENudkwzTzRCS2xQeENiVnB5bF83Qjk4WEtYTGE4?oc=5",
-      "description": "Clima hoy sábado 15 de agosto: ondas tropicales provocarán lluvias intensas en varios estados&nbsp;&nbsp;López-Dóriga DigitalCNPC LLAMA A LA POBLACIÓN A MANTENER LIMPIAS CALLES Y COLADERAS PARA MITIGAR RIESGOS POR INUNDACIONES&nbsp;&nbsp;Gob MXPrevé SMN lluvia",
-      "pubDate": "2026-08-15T14:01:44Z",
-      "source": "Google News MX",
-      "category": "Ciencia",
-      "thumbnail": null
-    },
-    {
       "title": "La URSS quiso conquistar el océano Ártico levantando faros nucleares en lugares remotos. Para sorpresa de nadie, acabó mal",
       "link": "https://www.xataka.com/magnet/urss-quiso-conquistar-oceano-artico-levantando-faros-nucleares-lugares-remotos-para-sorpresa-nadie-acabo-mal",
       "description": "¿Te interesaría trabajar en uno de los lugares más remotos del planeta, solo, aislado, soportando temperaturas gélidas y fortísimas racha de viento, asomado día y noche a un océano inhóspito? No suena demasiado tentador, ¿verdad? A los soviéticos de mediados d",
@@ -694,24 +703,6 @@
       "source": "Hipertextual",
       "category": "Tech",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/La-Casa-del-Dragon-final-explicado.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Acabamos de encontrar un mamífero en un lugar imposible: en Los Andes, a casi 7.000 metros de altura",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/acabamos-encontrar-mamifero-lugar-imposible-andes-a-7-000-metros-altura",
-      "description": "Cuando empiezas a subir metros y metros, la flora y la fauna cambian. Ni siquiera hace falta irse muy lejos: los campings en los Pirineos y las escapadas hasta alguna cima que servidora, y seguro que mucha gente que estáis leyendo esto, ha hecho a lo largo de ",
-      "pubDate": "2026-08-15T13:30:00Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/99e830/rati/1024_2000.jpeg"
-    },
-    {
-      "title": "Expertos coinciden: combinar fuerza y cardio no arruina tus ganancias musculares, salvo en una única excepción",
-      "link": "https://www.xataka.com/medicina-y-salud/expertos-coinciden-combinar-fuerza-cardio-no-arruina-tus-ganancias-musculares-salvo-unica-excepcion",
-      "description": "Si te has puesto a tope en el gimnasio, puede que alguien te haya dicho que tengas cuidado si también te gusta salir a correr, pues podría afectar negativamente a las ganancias de fuerza. Esto es lo que se conoce como “efecto interferencia”. Hay bastante evide",
-      "pubDate": "2026-08-15T13:00:38Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/399deb/fuerza-y-cardio/1024_2000.jpeg"
     },
     {
       "title": "‘El final de Oak Street’ (★★★★☆) es espeluznante y divertida, pero excesivamente caótica",
@@ -815,7 +806,7 @@
     {
       "title": "VIENE UN INVIERNO LLUVIOSO Y FRÍO - El Monitor de Parral",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80SVBCTWRjUzF3MkNrdmxaWUJXQnE1emlFdTdFM3YzZUN1N1BZUi1zY3ozMUJrUmppcUctVEdUVHd1MkRQV1MwcVhUNEhDSVdsRDNwODRxWDFwVy1qNWYtSg?oc=5",
-      "description": "VIENE UN INVIERNO LLUVIOSO Y FRÍO&nbsp;&nbsp;El Monitor de ParralHay 95% de probabilidad de un fenómeno de El Niño “muy fuerte” entre octubre y diciembre&nbsp;&nbsp;YahooMareas altas, calor, lluvias torrenciales: El Niño va camino de convertirse en el más inte",
+      "description": "VIENE UN INVIERNO LLUVIOSO Y FRÍO&nbsp;&nbsp;El Monitor de ParralHay 95% de probabilidad de un fenómeno de El Niño “muy fuerte” entre octubre y diciembre&nbsp;&nbsp;es-us.noticias.yahoo.comMareas altas, calor, lluvias torrenciales: El Niño va camino de convert",
       "pubDate": "2026-08-15T06:27:42Z",
       "source": "Google News MX",
       "category": "México",
@@ -829,15 +820,6 @@
       "source": "Hipertextual",
       "category": "Entretenimiento",
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Enredados-Disney.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "‘Star Wars: Starfighter’ se luce en la D23 con su primer teaser tráiler",
-      "link": "https://hipertextual.com/cine-television/star-wars-starfighter-se-luce-en-la-d23-con-su-primer-teaser-trailer/",
-      "description": "La D23 de Disney ha contado con un montón de sorpresas, anuncios y novedades sobre los próximos estrenos de la compañía. Y quizá uno de los más esperados es Star Wars: Starfighter, que no se ha perdido la cita y ha dejado su primer teaser tráiler. La próxima p",
-      "pubDate": "2026-08-15T05:49:47Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/06/Star-Wars-Starfighter-scaled.jpg?fit=1024%2C555&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
       "title": "\"La presión y las amenazas no están funcionando\": el dilema de cómo tratar al Talibán para generar un cambio en Afganistán",
@@ -858,12 +840,30 @@
       "thumbnail": null
     },
     {
+      "title": "Familiares viajan a Colombia ante falta de datos sobre mexicanos desaparecidos tras sismo - López-Dóriga Digital",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOVo4VzJTLTJxRDU3bWdsOTMwVEU0NXdja3hZLV9qLVFESHEzT3pBaktFMEpGaUpzWXRmaFpPYTFrS1dTai1NbWM1djFqSzBjcWxMc050NWdLd29UY0RabjFtZjYzd0dLcmlLcncxVVhSTlkwc1RTNm91d2tIbXRUVlFCS3F3bDlVNnBTX0EzekhpX0FMNVB3WUhMOHNzV0IzYzRaMnVNeWxMcXRjNktuUW1Nb1JFaktVNTh0a18wLW9QbjNtSUFF?oc=5",
+      "description": "Familiares viajan a Colombia ante falta de datos sobre mexicanos desaparecidos tras sismo&nbsp;&nbsp;López-Dóriga DigitalFamiliares de mexicanos desaparecidos en Colombia viajarán a Pereira para buscarlos&nbsp;&nbsp;El ComentarioTerremoto en Colombia: desapare",
+      "pubDate": "2026-08-15T01:20:26Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
       "title": "Intenta EU intervenir en la vida política de México, advierte Montiel - MVS Noticias",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEpmbVI4NEZOd0k1TGZBQm1qaTJqWWctbHdCV1RDcjVJRGNPWWZ4OTNUcjJZdWFTSExac1dzX2FHckRzSC1xNUlwRjJzWDNyb0hLOG8xM2dmckRKQTE5RENVdHktMnFnbS1VaGlqdVhMUEJrVWRoNVNqZUZvM0lKWmVGOGxFY1FOTm53cXpmZmlXRlV5YUhCY3VUYWJhZHZ5S0NGUW1YSEJKUi1BQmN2ZGttMk9EYUttclBlMFNsTWY?oc=5",
       "description": "Intenta EU intervenir en la vida política de México, advierte Montiel&nbsp;&nbsp;MVS Noticias",
       "pubDate": "2026-08-15T00:15:00Z",
       "source": "Google News",
       "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Afirma Trump que declarará Ormuz territorio de EU - elnorte.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUGNOQVZfd1lkb3lfQWhvZUdZUzF5RjkzOHpBRE5yTk9RaGVkVlYxOXE5dWJWWC1wcmVmVDNyd2JkNmtfb1VIaGY3YTFuc0FtRW1yUEY4d1lmSDcwWXktQ09BNWxlUnRfdURkMUM4NkMyMVFkd2tvZFowLWlja2NrVW9ZX3hCaE1hc0FsUEFiTzU?oc=5",
+      "description": "Afirma Trump que declarará Ormuz territorio de EU&nbsp;&nbsp;elnorte.comPronto, el estrecho de Ormuz será territorio de EU: Trump&nbsp;&nbsp;La JornadaTeherán responde que el estrecho de Ormuz es iraní ante amenazas de Trump: \"Solo se abrirá y se cerrará por o",
+      "pubDate": "2026-08-14T23:53:27Z",
+      "source": "Google News MX",
+      "category": "Política",
       "thumbnail": null
     },
     {
@@ -876,9 +876,9 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1065/live/b4fd8440-97ee-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "title": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU. - DW.com",
+      "title": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU. - dw.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcU1DTWdaaU1aWlhoYTMzdHZCM2JFZE1ad3BaektzZGtfZ2FZc2wwTVdncWZwQXV0TFFoNXRZMmxhUEdWNGFNb2U1QnBwYURGUmh5TzBKT3BITnR2MXo5NmVwZ2xiTEJJMFZDRkNBbE5HN2Fmd3NONXoxcVNYTDVZYXJEZTItMXZhN283Ql9vaHMzbE3SAZMBQVVfeXFMTmNyZ0hUcGNzQ1c2WE9IcnVYbWxqbmVCdHBZdHVVTEFOR05pbTFVNE5mS0EtWXdQMWM1S0NOYWlReTlwNHpoNEs4ajRCN3R4OTNFVUlzMkFyX3NFNU1hYk9MMFZ4RDJybTlZN2VTSHJ6MzdWRkR4QWwwTUJDSVFRM3I1WGpZRG83c0drZGkwUGRIbG1z?oc=5",
-      "description": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU.&nbsp;&nbsp;DW.com",
+      "description": "Sheinbaum dice que retiro de visas es \"injerencia\" de EE.UU.&nbsp;&nbsp;dw.com",
       "pubDate": "2026-08-14T22:45:53Z",
       "source": "Google News",
       "category": "México",
@@ -984,6 +984,15 @@
       "thumbnail": null
     },
     {
+      "title": "Acusa Sheinbaum injerencia política de EU por quitar visa a Andy🎦 - Tiempo La Noticia Digital",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHJTcDlFM3pJbHBfYlNNZHFhSDFkckExSjAzb1JKLTlnVHFZM0NmeVItVlhFTjI5SVpWSGdMcjFGaDJYUDBCNjNReFBvQ2xyYjZkQzZkbTEySlJoc2lQWHVwRlF4RlFESTdZOFgyV1lpOTh4SFRYZ3A2MkZZLUdtMkFGT2J1akJxRnVCTnlpSjBrajJsSHJlVmR3RFk2MjE0QzJrRFFQNmk?oc=5",
+      "description": "Acusa Sheinbaum injerencia política de EU por quitar visa a Andy🎦&nbsp;&nbsp;Tiempo La Noticia Digital",
+      "pubDate": "2026-08-14T14:26:00Z",
+      "source": "Google News",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
       "title": "Cancelación de visa a ‘Andy’ López Beltrán tiene ‘sentido político’, reclama Sheinbaum: ‘No es parejo’ - El Financiero",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSm9XWlFDc1lWQjJCZkNzSTVuZUxWR0gySEhndHdScFVnYVVackxjWTNOZFF2bzlNWlBrV1lyQ0c0U0lpMGZab1Q3dm1LRHJNcnNiRXV3MS0zLXlhMkVrajVUUGJYSWc2SkZ2Y3U3b29OODgxV1NIb3dxczBVdlBSa1gwMmVMQXl6TTlpeGxlOTV4NUlrMDB1dnRqdjlVR3hoTWFyalc5RWNBZm1YdzczYXRkVzZEZUF6OVE?oc=5",
       "description": "Cancelación de visa a ‘Andy’ López Beltrán tiene ‘sentido político’, reclama Sheinbaum: ‘No es parejo’&nbsp;&nbsp;El Financiero",
@@ -991,15 +1000,6 @@
       "source": "Google News",
       "category": "México",
       "thumbnail": null
-    },
-    {
-      "title": "La maestra de preescolar que lo dejó todo y se convirtió en guardiana de 200 pingüinos rey en el sur de Chile",
-      "link": "https://www.bbc.com/mundo/articles/cx25yexnw7eo?at_medium=RSS&at_campaign=rss",
-      "description": "\"Es maravilloso observarlos\", relata Cecilia Durán Gafo. Sus esfuerzos permitieron algo sin precedentes: el establecimiento de la única colonia de pingüinos rey en Chile y la más cercana al continente.",
-      "pubDate": "2026-08-14T10:42:34Z",
-      "source": "BBC Mundo",
-      "category": "Mundo",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bb61/live/d7251a70-9563-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "title": "\"Mientras mi padre no diga dónde está el cuerpo de mi madre, no debería ser puesto en libertad\"",
