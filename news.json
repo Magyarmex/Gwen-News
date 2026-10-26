@@ -1,33 +1,573 @@
 {
-  "generated": "2026-10-26T11:36:01.202944+00:00",
+  "generated": "2026-10-26T17:41:23.084067+00:00",
   "count": 168,
   "articles": [
     {
       "title": "Así te lo contamos: elección histórica en Brasil con el triunfo de Lula y el pedido de anulación de Flávio Bolsonaro",
       "link": "https://www.bbc.co.uk/mundo/live/cm5ynp5y1871t?at_medium=RSS&at_campaign=rss",
       "description": "A pesar de haber perdido en la primera vuelta, Luiz Inácio Lula da Silva logró una inédita victoria frente a Flávio Bolsonaro y será presidente por cuarta vez. La izquierda seguirá gobernando en la democracia más grande de América Latina.",
-      "pubDate": "2026-10-26T11:35:55Z",
+      "pubDate": "2026-10-26T17:41:15Z",
       "source": "BBC Mundo",
       "category": "Política",
       "thumbnail": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b2/live/14554c70-d0f7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Resultados de las elecciones en Brasil, en vivo | La UE celebra la victoria de Lula: “La democracia ha ganado en Brasil”",
-      "link": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html",
-      "description": "El actual presidente izquierdista logra una remontada épica y vence con el 51,7% al senador ultraderechista Flávio Bolsonaro (48,2%), con el 99,9% de los votos escrutados",
-      "pubDate": "2026-10-26T11:31:45Z",
-      "source": "El País",
-      "category": "Política",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/FWMUS6ZF3FMSBEA5UC3KSJR6UQ.jpg?auth=931c4a2bad805f9d7a8c0b38b943f6930ab1692833936cbdb5c52a2be5b9e13f"
+      "title": "Estrés al volante: la variable que las flotas comienzan a medir",
+      "link": "https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/09/30/estres-al-volante-la-variable-que-las-flotas-comienzan-a-medir/",
+      "description": "La presión por cumplir tiempos de entrega y metas de productividad convierten al estrés en un nuevo factor de riesgo para el transporte de carga. Geotab advierte que la tecnología puede contribuir a revertir esta situación.",
+      "pubDate": "2026-10-26T17:35:47Z",
+      "source": "El Financiero",
+      "category": "Entretenimiento",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/gVFmt0k1U344ZNOeENxVCQ_9O3s=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/YQRZNPH6BJCPZORI3533ZXN6UM.jpg"
     },
     {
-      "title": "MediaMarkt está liquidando en su outlet este portátil Lenovo con 32 GB de RAM DDR5, pantalla OLED y apenas 1,19 kg de peso",
-      "link": "https://www.xataka.com/seleccion/mediamarkt-esta-liquidando-su-outlet-este-portatil-lenovo-32-gb-ram-ddr5-pantalla-oled-apenas-1-19-kg-peso",
-      "description": "Estos días previos a que empiece noviembre (mes del Black Friday), no estamos viendo tantas ofertas destacadas en tecnología, especialmente en lo que respecta a ordenadores portátiles. ¿Eso significa que no hay ningún sitio donde encontrar equipos a buen preci",
-      "pubDate": "2026-10-26T11:31:28Z",
+      "title": "El HUAWEI WATCH D3 llega con una medición más precisa de la tensión arterial, tanto antes como después del ejercicio. También con descuento",
+      "link": "https://www.xataka.com/seleccion/huawei-watch-d3-llega-medicion-precisa-tension-arterial-antes-como-despues-ejercicio-tambien-descuento",
+      "description": "Ya estamos muy acostumbrados a los relojes inteligentes, especialmente a lo que respecta al seguimiento deportivo o de la salud. Los usamos para medir nuestros pasos, para controlar nuestro ritmo a la hora de correr o para ver cómo es nuestro descanso. Si quer",
+      "pubDate": "2026-10-26T17:31:29Z",
       "source": "Xataka",
+      "category": "Ciencia",
+      "thumbnail": "https://i.blogs.es/903e5e/portada-huawei-watch-d3/1024_2000.jpeg"
+    },
+    {
+      "title": "Alcaraz da las claves de lo que resta de curso: \"Necesito competición, torneos y ritmo de partidos\"",
+      "link": "https://www.marca.com/tenis/2026/10/26/alcaraz-da-claves-resta-curso-necesito-competicion-torneos-ritmo-partidos.html",
+      "description": "El murciano debuta este martes en Viena contra el ruso Khachanov",
+      "pubDate": "2026-10-26T17:09:02Z",
+      "source": "MARCA",
+      "category": "Política",
+      "thumbnail": ""
+    },
+    {
+      "title": "Wall Street abre con números verdes tras el anuncio de la salida a bolsa de Anthropic; BMV baja",
+      "link": "https://www.elfinanciero.com.mx/mercados/2026/10/26/wall-street-abre-con-numeros-verdes-tras-el-anuncio-de-la-salida-a-bolsa-de-anthropic-bmv-baja/",
+      "description": "En México, la BMV arranca la sesión con una baja de 0.35 por ciento este lunes.",
+      "pubDate": "2026-10-26T17:04:34Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/hQOhUbF5Ce0h9z4KXavZQLJ4ZZg=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ULUVIYMNC5FKPBXPOMSXE53UOA.jpeg"
+    },
+    {
+      "title": "Fitbit Edge, análisis: pensaba que era otra Smart Band cara hasta que empecé a entrenar con ella",
+      "link": "https://www.xataka.com/analisis/fitbit-edge-analisis-caracteristicas-precio-especificaciones",
+      "description": "La primera impresión que me dio es la de ser una Xiaomi Smart Band fabricada por Google. El aspecto exterior guarda ciertas similitudes, aunque la Fitbit Edge apunta a un público diferente: aquellos que hacen deporte y quieren un dispositivo avanzado sin que s",
+      "pubDate": "2026-10-26T17:01:28Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/d75e5b/fitbit-edge-5/1024_2000.jpeg"
+    },
+    {
+      "title": "Manuel del Valle liderará el Spanish Showcase de Cage Warriors ante Luan Duarte",
+      "link": "https://www.marca.com/combates-ufc/2026/10/26/manuel-valle-liderara-spanish-showcase-cage-warriors-luan-duarte.html",
+      "description": "Será el 7 de noviembre, en Londres",
+      "pubDate": "2026-10-26T17:00:23Z",
+      "source": "MARCA",
+      "category": "Cultura",
+      "thumbnail": ""
+    },
+    {
+      "title": "Esta petición con miles de firmas busca salvar ‘Mass Effect’ tras el cierre de BioWare",
+      "link": "https://hipertextual.com/videojuegos/peticion-salvar-mass-effect-bioware/",
+      "description": "El cierre de BioWare por parte de Electronic Arts está provocando gran preocupación por el futuro de algunas de las propiedades intelectuales más importantes del estudio. La referencia más importante es hacia Mass Effect, aunque algo similar sucede con Dragon ",
+      "pubDate": "2026-10-26T17:00:00Z",
+      "source": "Hipertextual",
+      "category": "Ciencia",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/mass-effect-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Melanie Leupolz, sobre su etapa en el Real Madrid: \"Parecía que daba un billón de pases cada día...\"",
+      "link": "https://www.marca.com/futbol/futbol-femenino/champions-league/2026/10/26/melanie-leupolz-sobre-etapa-real-madrid-parecia-daba-billon-pases-dia.html",
+      "description": "La alemana jugó también en el Bayern de Múnich, próximo rival de las blancas en la UWCL",
+      "pubDate": "2026-10-26T16:59:21Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Un niño de 8 años, ingresado en la UCI tras sufrir una descarga eléctrica al bajar de unas camas elásticas",
+      "link": "https://www.marca.com/tiramillas/sucesos/2026/10/26/nino-8-anos-ingresado-uci-sufrir-descarga-electrica-bajar-camas-elasticas-consuegra.html",
+      "description": "El pequeño sufrió la descarga al agarrarse a una barandilla",
+      "pubDate": "2026-10-26T16:42:24Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "¿Por qué no le aplicaron la 'Ley Vinicius' a Carlos Álvarez en México?: El vídeo lo delata",
+      "link": "https://www.marca.com/futbol/2026/10/26/le-aplicaron-ley-vinicius-carlos-alvarez-mexico-video-delata.html",
+      "description": "",
+      "pubDate": "2026-10-26T16:40:45Z",
+      "source": "MARCA",
+      "category": "México",
+      "thumbnail": ""
+    },
+    {
+      "title": "Triunfo de Lula da Silva ‘tira’ la Bolsa de São Paulo 16%... y suspende operaciones hasta por 30 minutos",
+      "link": "https://www.elfinanciero.com.mx/mundo/2026/10/26/triunfo-de-lula-da-silva-tira-la-bolsa-de-sao-paulo-16-y-suspende-operaciones-hasta-por-30-minutos/",
+      "description": "La Bolsa de São Paulo abrió con una fuerte caída del 16.6 por ciento, después de la reelección del presidente brasileño, Luiz Inácio Lula da Silva.",
+      "pubDate": "2026-10-26T16:34:57Z",
+      "source": "El Financiero",
+      "category": "Política",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/ER2YBCtZk3EHIE5CAv8QPDRM-QA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZYW4DLFLNZFHHG3XS4MLZDTDCM.jpg"
+    },
+    {
+      "title": "Las RTX 5090 se fabricaron para jugar. En China han encontrado un negocio mejor: desmontarlas para la IA",
+      "link": "https://www.xataka.com/componentes/rtx-5090-se-fabricaron-para-jugar-china-han-encontrado-negocio-mejor-desmontarlas-para-ia",
+      "description": "Ver un unicornio es más sencillo que encontrarse con una Nvidia RTX 5090. Diría que hasta es más probable tocar un billete de 500 euros: las tarjetas gráficas de alta capacidad se han puesto inacanzables. Mientras las tiendas apenas reciben existencias, y los ",
+      "pubDate": "2026-10-26T16:31:27Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/239461/portada-tarjetas-graficas-nvidia-rtx/1024_2000.jpeg"
+    },
+    {
+      "title": "Julián Quiñones va por el Balón de Oro 2026: ¿Dónde y a qué hora ver a los ganadores?",
+      "link": "https://www.elfinanciero.com.mx/deportes/2026/10/26/quien-gano-el-balon-de-oro-2026-lista-completa/",
+      "description": "Dos mexicanos están nominados al Balón de Oro: en la rama varonil está Julián Quiñónes, en la femenil Scarlett Camberos.",
+      "pubDate": "2026-10-26T16:30:36Z",
+      "source": "El Financiero",
       "category": "Economía",
-      "thumbnail": "https://i.blogs.es/fad806/portatil-lenovo-yoga-outlet-mediamarkt/1024_2000.jpeg"
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/r--sc308au12dv3X8zpNLWgO_iw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DKLQ4TMXAZAIZI6PABGCL2YX6A.jpeg"
+    },
+    {
+      "title": "Rafa Nadal volverá a las pistas en Las Vegas",
+      "link": "https://www.marca.com/tenis/2026/10/26/rafa-nadal-volvera-pistas-vegas.html",
+      "description": "El español anuncia su participación en el MGM Slam en la ciudad estadounidense el 28 de febrero de 2027",
+      "pubDate": "2026-10-26T16:29:17Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Los mercados brasileños viven su peor sesión en casi tres décadas tras la inesperada victoria de Lula",
+      "link": "https://elpais.com/economia/2026-10-26/los-mercados-brasilenos-afrontan-una-caida-historica-tras-la-inesperada-victoria-de-lula.html",
+      "description": "El real brasileño cae más de un 9% y el Bovespa se hunde un 17% después de que el mercado suspendiera temporalmente la negociación por las ventas masivas",
+      "pubDate": "2026-10-26T16:29:13Z",
+      "source": "El País",
+      "category": "Economía",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/H3YG7HVGEJNOTH6SOFHNTRD37U.jpg?auth=e33d83353f0655536352574bfd94f471a3d4d178edecf3ee88033c1df548a18e"
+    },
+    {
+      "title": "César Montes, ex del Espanyol, viajaba con su equipo en un tren que fue alcanzado por un dron en Rusia",
+      "link": "https://www.marca.com/futbol/2026/10/26/cesar-montes-ex-espanyol-viajaba-equipo-tren-alcanzado-dron-rusia.html",
+      "description": "",
+      "pubDate": "2026-10-26T16:25:23Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Brewers vs. Rays HOY: ¿Cuándo y dónde ver EN VIVO el Juego 3 de la Serie Mundial?",
+      "link": "https://www.elfinanciero.com.mx/deportes/2026/10/26/brewers-vs-rays-en-vivo-resultado-del-juego-3-de-la-serie-mundial-2026/",
+      "description": "Brewers vs. Rays: conoce los abridores Freddy Peralta y Robert Gasser, la sede del Juego 3 de la Serie Mundial 2026 y sus transmisiones en México.",
+      "pubDate": "2026-10-26T16:19:23Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/HYYm3rcusFUqDMVxzYKhLZzPBMs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LTZUKXUR5RDCPHC64OR7OZOO3M.jpg"
+    },
+    {
+      "title": "Todo esto llega a M+: la gala del Balón de Oro en exclusiva, partidos de LaLiga y Champions, varios estrenos de cine y series y más",
+      "link": "https://www.xataka.com/seleccion/todo-esto-llega-a-m-gala-balon-oro-exclusiva-partidos-laliga-champions-varios-estrenos-cine-series",
+      "description": "Cuando se acerca el final del año, toca elegir al mejor jugador y jugadora de fútbol del planeta. Aunque hay varios galardones en ese sentido, es siempre el Balón de Oro el que más repercusión tiene. Si quieres ver la gala donde se entregan los premios al comp",
+      "pubDate": "2026-10-26T16:15:28Z",
+      "source": "Xataka",
+      "category": "Política",
+      "thumbnail": "https://i.blogs.es/b47ab4/movistar-plus-balon-de-oro/1024_2000.jpeg"
+    },
+    {
+      "title": "‘Es un sector muy chiquito’: ¿Por qué los transportistas bloquean carreteras en México HOY?",
+      "link": "https://www.elfinanciero.com.mx/nacional/2026/10/26/es-un-sector-muy-chiquito-por-que-los-transportistas-bloquean-carreteras-en-mexico-hoy/",
+      "description": "La presidenta Sheinbaum explicó que la principal causa de la movilización de los transportistas es que se busca una doble deducción del pago del Impuesto Sobre la Renta (ISR).",
+      "pubDate": "2026-10-26T16:13:43Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/lHGIxrkQgx6yNJwNNEJUtAowK2E=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SOIDFZOTCRDERE6NVCGSPV3ONA.jpg"
+    },
+    {
+      "title": "Nuevo varapalo para Mette-Marit de Noruega: 60 alumnos demandan a su hermano",
+      "link": "https://www.marca.com/tiramillas/sociedad/2026/10/26/demandan-hermano-mette-marit-noruega-quiebra-escuela-aviacion-60-alumnos-reclaman-dinero.html",
+      "description": "Los estudiantes de Pilot Flight Academy reclaman responsabilidades por el cierre de la academia, que dejó a 160 aspirantes a piloto sin poder continuar su formación y provocó el despido de 40 trabajadores",
+      "pubDate": "2026-10-26T16:12:45Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Estrella de los nuevos X-Men de Marvel zanja los rumores sobre si aparecerá en ‘Avengers: Doomsday’",
+      "link": "https://hipertextual.com/cine-television/estrella-de-los-nuevos-x-men-de-marvel-zanja-los-rumores-sobre-si-aparecera-en-avengers-doomsday/",
+      "description": "Aunque Marvel se encuentra sumida de lleno en la promoción de Avengers: Doomsday, la compañía mira de lejos a su futuro, marcado por el reboot de X-Men. El estudio volverá a adaptar las historias del equipo mutante, que se convertirán en los protagonistas de s",
+      "pubDate": "2026-10-26T16:07:26Z",
+      "source": "Hipertextual",
+      "category": "Ciencia",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Marvel-reparto-X-Men.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Cargar el coche eléctrico sin garaje es el gran tema pendiente. Europa lo está resolviendo con farolas, bordillos y surcos en la acera",
+      "link": "https://www.xataka.com/movilidad/farolas-bordillos-surcos-acera-todas-medidas-alternativas-para-cargar-coche-electrico-fuera-casa-que-se-estan-probando",
+      "description": "Cargar en casa es la forma más barata y sencilla de utilizar un coche eléctrico, aparte de ser lo más coherente si tu próximo paso va a ser adquirir un coche de este tipo. Aunque igual no está de más darle una vuelta a lo de cargar el coche en la calle, o al m",
+      "pubDate": "2026-10-26T16:01:27Z",
+      "source": "Xataka",
+      "category": "Cultura",
+      "thumbnail": "https://i.blogs.es/6f7d62/myenergi-wkqhu1g2_sg-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "El viernes llegará a Lidl (por 8,99 euros) la solución para cocer huevos en un abrir y cerrar de ojos",
+      "link": "https://www.xataka.com/seleccion/viernes-llegara-a-lidl-8-99-euros-solucion-para-cocer-huevos-abrir-cerrar-ojos",
+      "description": "Lidl va renovando sus productos de la sección Bazar con mucha frecuencia y en ocasiones encontramos algunos que son curiosos y muy prácticos. Es el ejemplo del cuecehuevos Silvercrest, que llegará a los establecimientos físicos el próximo viernes 30 de octubre",
+      "pubDate": "2026-10-26T16:01:27Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/ff4f75/lidl/1024_2000.jpeg"
+    },
+    {
+      "title": "¿Por qué el triunfo de Lula da Silva en Brasil es una ‘pesadilla’ para Trump y Milei?",
+      "link": "https://www.elfinanciero.com.mx/mundo/2026/10/26/por-que-el-triunfo-de-lula-da-silva-en-brasil-es-una-pesadilla-para-trump-y-milei/",
+      "description": "Tras la victoria de Lula da Silva en las elecciones de Brasil, el opositor Flávio Bolsonaro no aceptó los resultados y pidió la anulación.",
+      "pubDate": "2026-10-26T15:52:22Z",
+      "source": "El Financiero",
+      "category": "Política",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/1Ah30ATTQ0zBZK4xWSdz9xqrpKQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/M5I3SZJ3TNDOXHFC77BTOEJAEM.jpg"
+    },
+    {
+      "title": "Elhousine Elazzaoui conquista su tercer título consecutivo de las Golden Trail World Series",
+      "link": "https://www.marca.com/deportes-aventura/2026/10/26/elhousine-elazzaoui-conquista-tercer-titulo-consecutivo-golden-trail-world-series.html",
+      "description": "El corredor de NNormal se impone en la Gran Final de Muju Trail, en Corea del Sur, y se convierte en el corredor más laureado de la historia del circuito",
+      "pubDate": "2026-10-26T15:46:27Z",
+      "source": "MARCA",
+      "category": "Entretenimiento",
+      "thumbnail": ""
+    },
+    {
+      "title": "Carrick, al límite: el Manchester United ya evalúa alternativas",
+      "link": "https://www.marca.com/futbol/premier-league/2026/10/26/carrick-limite-manchester-united-evalua-alternativas.html",
+      "description": "El entrenador está muy tocado tras la mala racha de resultados en Premier y Champions",
+      "pubDate": "2026-10-26T15:38:05Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Ivan Rakitic, sobre el cambio alimentario que impulsó su carrera: \"Tuve un poco de suerte\"",
+      "link": "https://www.marca.com/tiramillas/gastronomia/2026/10/26/ivan-rakitic-exjugador-sevilla-fc-sobre-cambio-alimentario-impulso-carrera-tuve-poco-suerte.html",
+      "description": "El quien fuer el capitán sevillista detalla el impacto que tuvo eliminar el gluten de sus comidas",
+      "pubDate": "2026-10-26T15:37:54Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "‘Tomó una buena decisión’: Sheinbaum ‘palomea’ renuncia de Guadalupe Taddei al INE",
+      "link": "https://www.elfinanciero.com.mx/nacional/2026/10/26/claudia-sheinbaum-mananera-temas-hoy-26-de-octubre-de-2026-en-vivo/",
+      "description": "Durante la conferencia matutina de la presidenta Sheinbaum se presentó el informe de Profeco sobre los precios de la gasolina.",
+      "pubDate": "2026-10-26T15:37:15Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/sZoC1eUUle3CUhkWp-CIjHZ6J_A=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/VAPUKMGZWFBAHAAJ3VFZ45EZ24.jpeg"
+    },
+    {
+      "title": "¿Cuánto pagarás por el nuevo iPad mini OLED en España y México? Todos sus precios",
+      "link": "https://hipertextual.com/apple/ipad-mini-oled-todos-sus-precios-en-espana-y-mexico/",
+      "description": "Apple ha dado el puntapié inicial a una seguidilla de lanzamientos que, si todo va según lo rumoreado, tendrá su anuncio principal este miércoles 28 con el MacBook Pro con pantalla táctil. Este lunes, la firma de Cupertino introdujo el esperado iPad mini con p",
+      "pubDate": "2026-10-26T15:33:59Z",
+      "source": "Hipertextual",
+      "category": "México",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Apple-iPad-mini-starlight-261026-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Fantasmas en los hoteles de las Series Mundiales",
+      "link": "https://www.marca.com/otros-deportes/2026/10/26/fantasmas-hoteles-series-mundiales.html",
+      "description": "Los edificios donde se hospedan como visitantes Milwaukee Brewers y Tampa Bay Rays mantienen amplias leyendas de embrujo",
+      "pubDate": "2026-10-26T15:33:42Z",
+      "source": "MARCA",
+      "category": "Entretenimiento",
+      "thumbnail": ""
+    },
+    {
+      "title": "Renuncia de Taddei, triunfo de Lula y calendario de pagos para pensiones del Bienestar, los temas de La Mañane - Milenio",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdzNqdjkxc1k2TVV1cnhldW5ndmhuX291Ym1kV2tkUkc2c2x5eDBialdmbVEwVE9mb3JfbmdTMm41bzdVaXIxUWUyMmJreFVJdzQ3WFp0bzh0MFhXbmlRYnNtUko0N1dCdnJXR1FyWGREYnB0UWxwSVQydVgwcHVaZ3I1SkVPdExQOVBBdVVnak1BYTJKUmVhak8xaXNrUdIBngFBVV95cUxORjllQzduckd4bzZEOEswcDFZRkZTNzZERF81MzNWVFp5TjNIdExPczE3R0xoeG1vUGExQ01xR2NodjUxeEhTMjBiZ2hscVFhSGpUekVENWxTSkd5N1IycFJBQkRWTFNJMktwa0NiY0dwc25PVVhNYndSZGRQSzVZUENNNW1aaDVmZ0lrcFlEc1IwMzZZcS0yOUdGbXRiQQ?oc=5",
+      "description": "Renuncia de Taddei, triunfo de Lula y calendario de pagos para pensiones del Bienestar, los temas de La Mañane&nbsp;&nbsp;MilenioLa mañanera de Sheinbaum, 26 de octubre, minuto a minuto&nbsp;&nbsp;El UniversalLa mañanera de Claudia Sheinbaum, 26 de octubre de ",
+      "pubDate": "2026-10-26T15:33:21Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Enzo Cazorla se asoma al primer equipo... ¡con 16 años!",
+      "link": "https://www.marca.com/futbol/oviedo/2026/10/26/enzo-cazorla-asoma-primer-equipo-santi-testigo.html",
+      "description": "El hijo de la leyenda del Oviedo, habitual en el Vetusta pese a su edad juvenil, se estrenó en una sesión con Calero ante la mirada de su padre",
+      "pubDate": "2026-10-26T15:32:06Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Lío con la lista de Italia: Berretini, fuera por su mala relación con otra estrella",
+      "link": "https://www.marca.com/tenis/copa-davis/2026/10/26/italia-reune-cobolli-musetti-olvida-berrettini.html",
+      "description": "Un supuesto lío de faldas le ha dejado fuera de la lista del capitán Volandri",
+      "pubDate": "2026-10-26T15:29:03Z",
+      "source": "MARCA",
+      "category": "Deportes",
+      "thumbnail": ""
+    },
+    {
+      "title": "Consejero del INE revela qué les dijo Guadalupe Taddei antes de su salida: ‘Ella no pensaba renunciar’",
+      "link": "https://www.elfinanciero.com.mx/nacional/2026/10/26/consejero-del-ine-revela-que-les-dijo-guadalupe-taddei-antes-de-su-salida-ella-no-pensaba-renunciar/",
+      "description": "Martín Faz, consejero del INE, reveló que Guadalupe Taddei aseguró ante sus compañeros que no tenía pensado renunciar.",
+      "pubDate": "2026-10-26T15:19:52Z",
+      "source": "El Financiero",
+      "category": "Economía",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/5fMwHxWD-_j7xz5ASlPDCVRzsbE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4EBGZLPIMVEFLLUGNXUF2WODOU.jpg"
+    },
+    {
+      "title": "El milagro de los nueve dedos",
+      "link": "https://elpais.com/america/2026-10-26/el-milagro-de-los-nueve-dedos.html",
+      "description": "La complicada correlación de fuerzas a la que se enfrentará Lula en su cuarto mandato muestran que las cosas no han vuelto ‘a su lugar’: el nuevo lugar es uno marcado por una derecha reaccionaria resistente, pero no invencible",
+      "pubDate": "2026-10-26T15:17:13Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/WSFJUYPC5RB6XCHKPK7RU3Y37A.jpg?auth=89214a2d3def63c57450ed94d429d16065c947af6da4214e27e419acdc91cba8"
+    },
+    {
+      "title": "Trazabilidad, T-MEC y el arte de navegar la volatilidad",
+      "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/26/trazabilidad-t-mec-y-el-arte-de-navegar-la-volatilidad/",
+      "description": "En México y la región, esta volatilidad tiene un catalizador adicional de alto impacto: la revisión del T-MEC y las crecientes exigencias de trazabilidad de insumos y reglas de origen. En sectores clave como el automotriz, metalmecánico y manufacturero, el deb",
+      "pubDate": "2026-10-26T15:04:29Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Y6boQ4t3PY9pXfkdEgYvrkgOxFM=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5QG2Z6XMSBEKLNERNP2252QVKM.jpg"
+    },
+    {
+      "title": "La frontera invisible entre la razón jurídica y el daño económico",
+      "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/26/la-frontera-invisible-entre-la-razon-juridica-y-el-dano-economico/",
+      "description": "El dilema de fondo aparece cuando el pleito no se arregla en una mesa de negociación y escala a un tribunal de arbitraje, un esquema privado donde las partes eligen a especialistas independientes para resolver controversias fuera de los juzgados públicos, cuya",
+      "pubDate": "2026-10-26T15:01:10Z",
+      "source": "El Financiero",
+      "category": "Cultura",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/aFCYBW01JL25g71JyWGnMHDuXjc=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FGTIGCTMUZFNTCAC4UT6YUPGYM.jpg"
+    },
+    {
+      "title": "¿Qué significa el repunte de los yields del Tesoro para las estrategias de inversión?",
+      "link": "https://www.elfinanciero.com.mx/opinion/colaborador-invitado/2026/10/26/que-significa-el-repunte-de-los-yields-del-tesoro-para-las-estrategias-de-inversion/",
+      "description": "La temática de IA y tecnología seguirá liderando el desempeño de las acciones. Sin embargo, los tentáculos de la IA se expanden por la economía y los mercados, y eso exige equilibrio.",
+      "pubDate": "2026-10-26T14:54:54Z",
+      "source": "El Financiero",
+      "category": "Tech",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/MrtioGQGzz37--deeyvhSfBnUlo=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/7GCOISEMJZF2ZDLDJ5FCEDZWII.jpg"
+    },
+    {
+      "title": "Anthropic acaba de dar uno de los pasos más importantes de la industria de la IA: abrir sus cuentas para salir a bolsa",
+      "link": "https://www.xataka.com/empresas-y-economia/anthropic-acaba-dar-uno-pasos-importantes-industria-ia-abrir-sus-cuentas-para-salir-a-bolsa",
+      "description": "Llevamos todo 2026 hablando de que uno de los puntos clave de la industria de la IA lo marcará el momento en el que OpenAI y Anthropic salgan a bolsa y, al menos en el caso de la segunda, las cosas ya están en marcha. Como la propia compañía ha comunicado, aca",
+      "pubDate": "2026-10-26T14:45:00Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/33b95f/original/1024_2000.jpeg"
+    },
+    {
+      "title": "Los gráficos que explican la inédita remontada de Lula en las elecciones presidenciales de Brasil",
+      "link": "https://www.bbc.com/mundo/articles/cr2ke8j4944po?at_medium=RSS&at_campaign=rss",
+      "description": "Los datos oficiales muestran que el triunfo del aspirante a la reelección fue resultado de una mejora de su desempeño electoral en distintas regiones del país y de una ampliación de su ventaja en áreas clave.",
+      "pubDate": "2026-10-26T14:44:31Z",
+      "source": "BBC Mundo",
+      "category": "Política",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e368/live/c5d29cf0-d14c-11f1-b587-a3ec61e669b1.jpg"
+    },
+    {
+      "title": "Calendario de pagos de Pensión del Bienestar: ¿Cuándo inician depósitos del bimestre noviembre-diciembre?",
+      "link": "https://www.elfinanciero.com.mx/nacional/2026/10/26/calendario-de-pagos-de-pension-bienestar-cuando-inician-los-depositos-del-bimestre-noviembre-diciembre/",
+      "description": "El último pago de 6 mil 400 pesos empezará a distribuirse a partir del martes 3 de noviembre. Los depósitos se suspenderán el lunes 16 de noviembre por el festivo de la Revolución Mexicana.",
+      "pubDate": "2026-10-26T14:38:31Z",
+      "source": "El Financiero",
+      "category": "Economía",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/GR8DJTd_OX4zE1o5AypwhETlKbY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RQJXCRICNFADPCG2YRTF4WCTIQ.png"
+    },
+    {
+      "title": "España tiene uno de los parques de vivienda pública más pobres de la OCDE. Y hay una ley de 2013 que ayuda a entenderlo",
+      "link": "https://www.xataka.com/magnet/espana-tiene-uno-parques-vivienda-publica-pobres-ocde-hay-ley-2013-que-ayuda-a-entenderlo",
+      "description": "Si algo ha comprobado España en las últimas semanas es el enorme calado (y complejidad) de su crisis residencial, uno de los detonantes del adelanto electoral. Para comprenderlo hay que manejar un poliédrico cóctel de factores, entre los que se incluye la lent",
+      "pubDate": "2026-10-26T14:31:27Z",
+      "source": "Xataka",
+      "category": "Entretenimiento",
+      "thumbnail": "https://i.blogs.es/1789e5/ivan-henao-04rz7r1fkhy-unsplash/1024_2000.jpeg"
+    },
+    {
+      "title": "Paro nacional de transportistas desata ‘caos’ en CDMX y Edomex: Bloqueos y alternativas viales EN VIVO",
+      "link": "https://www.elfinanciero.com.mx/cdmx/2026/10/26/paro-nacional-de-transportistas-en-vivo-en-que-carreteras-de-cdmx-y-edomex-hay-bloqueos-reporte-vial-hoy-26-de-octubre/",
+      "description": "Conoce las carreteras y puntos afectados por el paro nacional de transportistas de este lunes 26 de octubre.",
+      "pubDate": "2026-10-26T14:23:30Z",
+      "source": "El Financiero",
+      "category": "México",
+      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/TkkAtzorHYNvY88123PPPfzQcNs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UHCCHLRONNGDNEWKPL4X55IRXU.jpg"
+    },
+    {
+      "title": "La derecha pacta sus candidaturas en el Senado: el PP se retira en Gipuzkoa, Girona y Tarragona y Vox en otras seis provincias",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/la-derecha-pacta-sus-candidaturas-en-el-senado-pp-se-retira-en-gipuzkoa-girona-y-tarragona-y-vox-en-otras-seis-provincias.html",
+      "description": "La extrema derecha incluirá como “independientes” a sus candidatos en las listas del PP en donde no se presente",
+      "pubDate": "2026-10-26T14:20:57Z",
+      "source": "El País",
+      "category": "Política",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/JTMU6GY6HRHTTACYXXJD3CPXNM.jpg?auth=fb0df50f1b5dbdf6959378b7abc4bb8d6678fd7e699901f9659129723227540a"
+    },
+    {
+      "title": "Descuentos de hasta el 70%: los mejores chollos en Amazon hoy, 26 de octubre",
+      "link": "https://www.xataka.com/seleccion/descuentos-70-mejores-chollos-amazon-hoy-26-octubre",
+      "description": "Arranca una nueva semana y en Xataka Selección hemos estado navegando por Amazon para cazar los descuentos más potentes en tecnología. Si estás buscando renovar algunos de tus dispositivos, hemos seleccionado los productos con mejor relación calidad-precio y e",
+      "pubDate": "2026-10-26T14:15:29Z",
+      "source": "Xataka",
+      "category": "Política",
+      "thumbnail": "https://i.blogs.es/a34ca9/mejores-chollos-amazon-26-octubre/1024_2000.jpeg"
+    },
+    {
+      "title": "Elon Musk prometió una película de 'La Odisea' generada con IA y Grok acaba de publicar sus primeros siete minutos",
+      "link": "https://www.xataka.com/robotica-e-ia/elon-musk-prometio-pelicula-odisea-generada-ia-grok-acaba-publicar-sus-primeros-siete-minutos",
+      "description": "Nuestra capacidad de asombro se está erosionando. Desde que OpenAI abrió ChatGPT al público, el 30 de noviembre de 2022, la inteligencia artificial (IA) no ha dejado de sorprendernos poniendo en nuestras manos capacidades que antes de esa fecha parecían imposi",
+      "pubDate": "2026-10-26T14:15:28Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/2c9ee4/odisea/1024_2000.jpeg"
+    },
+    {
+      "title": "La mayoría de los presidentes de derecha de países vecinos reconocen el triunfo de Lula en Brasil a pesar de los cuestionamientos de Bolsonaro",
+      "link": "https://www.bbc.com/mundo/articles/cm5yn43g9nn4o?at_medium=RSS&at_campaign=rss",
+      "description": "El derechista radical José Antonio Kast en Chile y el mandatario colombiano Abelardo de la Espriella señalaron que aceptaban el resultado de las elecciones brasileñas.",
+      "pubDate": "2026-10-26T14:11:59Z",
+      "source": "BBC Mundo",
+      "category": "Política",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d87/live/3a18c410-d14b-11f1-9eb5-811878e0f07d.jpg"
+    },
+    {
+      "title": "Calendario de pagos de Pensión del Bienestar: ¿Cuándo inician depósitos del bimestre noviembre-diciembre? - El Financiero",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRGp4VEFSZHBSajhxVzFfZElqZzdkY0FDSWZsVkZueXJMeHQ4R3BQOGN4VU5BVXpndG9SYnBsSVhIQmwtcGJMTFpOdV8xbFFBN1hMR1NWR0NFQS1tcU55emg2bjBoR1RUSUw2TnNMUkI1SVlpVEh3UWdyWXl5ZUw1bDJDRDRRYXhwZU1PaXJWZm51cWZQU3lQd2Z2WFlTUnA5R05EczVqTmFfcWhlZzRpeDlWd3FYVDJPN3dvQmZISVFIM3hkblNQcVBHTmlqYkdEQ0dQRm9WQ3ozZjBRQzF0bl93RGh6czBTZmpv?oc=5",
+      "description": "Calendario de pagos de Pensión del Bienestar: ¿Cuándo inician depósitos del bimestre noviembre-diciembre?&nbsp;&nbsp;El FinancieroFechas de pago de pensiones y programas del Bienestar del bimestre noviembre-Diciembre 2026&nbsp;&nbsp;La JornadaBienestar anuncia",
+      "pubDate": "2026-10-26T14:04:32Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Netflix ingresa más que nunca, pero vende pocos anuncios. La consecuencia son mil despidos y dos directivos históricos en la calle",
+      "link": "https://www.xataka.com/streaming/netflix-ingresa-que-nunca-vende-pocos-anuncios-consecuencia-mil-despidos-dos-directivos-historicos-calle",
+      "description": "Netflix ha presentado sus resultados del tercer trimestre y, en la superficie, cuadran con las expectativas: 12.870 millones de dólares de ingresos, un 11,8% más que hace un año, y un margen operativo del 34,6%. Eso sí: ha rebajado lo que espera ingresar por p",
+      "pubDate": "2026-10-26T14:01:27Z",
+      "source": "Xataka",
+      "category": "Entretenimiento",
+      "thumbnail": "https://i.blogs.es/4a0db4/netflix2154/1024_2000.jpeg"
+    },
+    {
+      "title": "Claves del acuerdo entre el PP y Vox para las listas del Senado: ¿dónde cede Abascal?, ¿en qué provincias se retira Feijóo?",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/claves-del-acuerdo-entre-el-pp-y-vox-para-las-listas-del-senado-donde-cede-abascalen-que-provincias-se-retira-feijoo.html",
+      "description": "El pacto afecta a las candidaturas de 23 provincias a la Cámara alta",
+      "pubDate": "2026-10-26T13:58:28Z",
+      "source": "El País",
+      "category": "Política",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/IZZYIT5PWVAJJOTBBU4UZROG4Q.jpg?auth=507e8b7badfdfc4e6727cc64f9cef315b78bdd473dd8e277a1ec8538651dc050"
+    },
+    {
+      "title": "Sheinbaum expresa su alegría por el triunfo de Lula en Brasil; \"es una bocanada de aire fresco para América Latina\" - La Jornada",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOS0VyRjAtYnBvMHVLemdWMy1VNW9nMzhGRExmT05uTGdlNmI1MGo2TXNVNEl2RkpqOXR5YUdGYUI1UTh0UXpPQnhkQU1BM1BUYmc3TWREV3JuMVgxLTZtRkhhUnRiN2w2TFhSc1M2Mk1CVGNnRjNFSllFMUYxNThwVFFfdzVwQlByUDd4c0taWnAtalFaZmdBcVhWSkFGZ2puS0NKZmxEQWJkdzU2clkxbG5wSTMxdURTY2wwU1lXQXZ4QTZYaWlSU1E2dW95SkVYWmJEcDBUMlV2bXl4OUw1UTBrYTNfeHNYRlh1dy04czVqUEh2bkd5SFhTNGhxam1leDYxTUJtdng?oc=5",
+      "description": "Sheinbaum expresa su alegría por el triunfo de Lula en Brasil; \"es una bocanada de aire fresco para América Latina\"&nbsp;&nbsp;La JornadaLula y Sheinbaum, tándem poderoso. Ahora, Morena a hacer la tarea de 2027&nbsp;&nbsp;SDPnoticias.comAcercarse al pueblo sie",
+      "pubDate": "2026-10-26T13:46:00Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Los millonarios han huido de California por un impuesto, pero Meta ha encontrado la forma de retener a Mark Zuckerberg: blindarlo",
+      "link": "https://www.xataka.com/empresas-y-economia/mark-zuckerberg-amenazo-abandonar-california-elevado-impuestos-propia-meta-tuvo-que-negociar-que-se-quedara",
+      "description": "Millonarios de Silicon Valley como Serguéi Brin,&nbsp;Larry Page o Peter Thiel ya han hecho su mudanza a Florida ante la amenaza de California de implantar un impuesto a las grandes fortunas. Ni cortos ni perezosos, los grandes magnates de la tecnología se han",
+      "pubDate": "2026-10-26T13:45:00Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/7b5d2d/jeff-bezos/1024_2000.jpeg"
+    },
+    {
+      "title": "España tiene todo un corredor ferroviario completamente abandonado y ya hay quien quiere recuperarlo con 35.000 traviesas recicladas",
+      "link": "https://www.xataka.com/movilidad/espana-tiene-todo-corredor-ferroviario-completamente-abandonado-hay-quien-quiere-recuperarlo-35-000-traviesas-recicladas",
+      "description": "\"Una malversación de dinero público en toda regla\". Para la plataforma Corredor Oeste, sólo hay una definición posible para lo que está haciendo ADIF con la destrucción de 35.000 traviesas que podrían resucitar una vieja línea de mercancías. Al menos, eso es l",
+      "pubDate": "2026-10-26T13:31:27Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/a6b220/linea_plasencia-astorga_03/1024_2000.jpeg"
+    },
+    {
+      "title": "El nuevo iPad Mini 2026 no sólo estrena panel OLED: también se planta con un A20 Pro para jugar en la liga de los mayores",
+      "link": "https://www.xataka.com/tablet/apple-ipad-mini-caracteristicas-precio-ficha-tecnica",
+      "description": "Se esperaba para este miércoles 28, pero se ha adelantado a las previsiones de Mark Gurman. Por sorpresa, Apple ha lanzado el iPad Mini 2026 que no sólo trae la esperada novedad de un panel OLED, sino que incorpora el mismo SoC que ya nos ha sorprendido en el ",
+      "pubDate": "2026-10-26T13:26:00Z",
+      "source": "Xataka",
+      "category": "Tech",
+      "thumbnail": "https://i.blogs.es/9a9da2/captura-de-pantalla-2026-10-26-a-las-14.44.51/1024_2000.png"
+    },
+    {
+      "title": "Así votó cada municipio de Brasil: las grandes ciudades y el voto de terceros dieron la vuelta a la elección",
+      "link": "https://elpais.com/america/2026-10-26/asi-voto-cada-municipio-de-brasil-las-grandes-ciudades-y-el-voto-de-terceros-dieron-la-vuelta-a-la-eleccion.html",
+      "description": "La remontada de Lula se apoyó en las capitales y en el voto de los candidatos eliminados, pese al giro de la mayoría de municipios hacia el bolsonarismo",
+      "pubDate": "2026-10-26T13:25:51Z",
+      "source": "El País",
+      "category": "Política",
+      "thumbnail": null
+    },
+    {
+      "title": "¡Por fin, Apple! El iPad mini OLED es oficial: más potente y delgado que nunca, pero también más caro",
+      "link": "https://hipertextual.com/apple/nuevo-ipad-mini-oled-octubre-2026/",
+      "description": "Después de años de rumores, el iPad mini con pantalla OLED por fin es real. Apple acaba de lanzar la esperada actualización de su tablet más pequeña, que llega con varias novedades además del nuevo panel. El dispositivo recibe su primera gran actualización de ",
+      "pubDate": "2026-10-26T13:09:55Z",
+      "source": "Hipertextual",
+      "category": "Tech",
+      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Apple-iPad-mini-hero-261026-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
+    },
+    {
+      "title": "Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MQTlISUh3cklFMU0tWVFJS2VIU25iUWJzUEJTSzktbTljb21ZdkZDZldYdFp6ekJqYzhUQTQ0N2I1RWZEaXgzanpsbERwU21WTXNwMXlqS2ZxR0k5?oc=5",
+      "description": "Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos&nbsp;&nbsp;BBCLula, esperanza de Latinoamérica // Bolsonaro desconoce, ¿y Trump? // Brasil-México, eje progresista // Taddei, renuncia y lec",
+      "pubDate": "2026-10-26T12:06:15Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Por qué Flávio Bolsonaro pide anular las elecciones en Brasil y qué posibilidades tiene de lograrlo, según los expertos",
+      "link": "https://www.bbc.com/mundo/articles/c6vg7pg5gezno?at_medium=RSS&at_campaign=rss",
+      "description": "Flávio Bolsonaro afirmó que era \"imposible reconocer\" la victoria de Lula y pidió anular las elecciones en Brasil, pero ¿qué posibilidades hay de que su solicitud prospere?",
+      "pubDate": "2026-10-26T12:03:08Z",
+      "source": "BBC Mundo",
+      "category": "Mundo",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3a0/live/68eb6e70-d14e-11f1-9eb5-811878e0f07d.jpg"
+    },
+    {
+      "title": "¿Qué es Blocus? La etiqueta en redes que desató los disturbios en Barcelona",
+      "link": "https://elpais.com/espana/catalunya/2026-10-26/que-es-blocus-la-etiqueta-en-redes-que-desato-los-disturbios-en-barcelona.html",
+      "description": "Perfiles de TikTok crean convocatorias inspiradas en las protestas en Francia para reclutar a jóvenes",
+      "pubDate": "2026-10-26T12:01:25Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/VMF4K2SSEZARDITV2NZ77ERJLM.jpg?auth=538e4da3498c900a2563b8537852d8bb22922e39b0da189d97efa3e9ad96361f"
+    },
+    {
+      "title": "Qué es la fotónica y cómo puede lograr que los centros de datos de la IA consuman menos agua y energía",
+      "link": "https://www.bbc.com/mundo/articles/cmd93xe1w0vjo?at_medium=RSS&at_campaign=rss",
+      "description": "Para ahorrar energía y aumentar la capacidad, los centros de datos están pasando del cableado de cobre a la tecnología que utiliza luz.",
+      "pubDate": "2026-10-26T11:55:29Z",
+      "source": "BBC Mundo",
+      "category": "Tech",
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c236/live/039691e0-d134-11f1-be77-d1864d279cb0.jpg"
+    },
+    {
+      "title": "Vito Quiles suspende su acto en Bilbao por sugerencia de la Ertzaina, que ve riesgo “muy elevado” de incidentes por su presencia",
+      "link": "https://elpais.com/espana/2026-10-26/la-universidad-de-deusto-suspende-su-actividad-en-bilbao-por-temor-a-incidentes-en-el-acto-de-vito-quiles.html",
+      "description": "La Universidad de Deusto ha suspendido toda su actividad esta tarde en el campus de Bilbao debido a las movilizaciones de colectivos antifascistas en contra del agitador ultra",
+      "pubDate": "2026-10-26T11:53:44Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3N5B75UBUFAMZFS7TY5NPIPNUM.jpg?auth=a7fb2fbb52288803f71b58865c99efd4d303d62b43b71c0f3d659a98c7d3fead"
+    },
+    {
+      "title": "Respiramos, pero sin bajar la guardia",
+      "link": "https://elpais.com/opinion/2026-10-26/respiramos-pero-sin-bajar-la-guardia.html",
+      "description": "La victoria de Lula muestra que aún es posible despertar el instinto de supervivencia de un pueblo y convierte a Brasil en un faro para un mundo acechado por la extrema derecha",
+      "pubDate": "2026-10-26T11:46:41Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/NLICJYZS4FCPZHLZV57ASQIQF4.JPG?auth=182dda28497d55db2c2a7fc9b0a2c1f108f27567ed2cb3a0d343b05626affb41"
     },
     {
       "title": "\"Brasil no será patio trasero de nadie\": el discurso de Lula tras remontar y ganar las elecciones presidenciales frente a Bolsonaro",
@@ -39,24 +579,6 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e709/live/cdadbee0-d12f-11f1-a94e-6dd2aca774ac.jpg"
     },
     {
-      "title": "¿Giro a lo Rodri? Mbappé desata la histeria",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/10/26/giro-rodri-mbappe-desata-histeria.html",
-      "description": "El crack francés dispara un 408% sus opciones de ganar el Balón de Oro",
-      "pubDate": "2026-10-26T11:21:49Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Alcaraz, Jódar, Davidovich, Granollers y Pedro Martínez, un ‘dream team’ para la Davis",
-      "link": "https://www.marca.com/tenis/copa-davis/2026/10/26/alcaraz-jodar-davidovich-granollers-pedro-martinez-dream-team-davis.html",
-      "description": "David Ferrer presenta en Madrid a sus cinco jugadores, adelantados por MARCA, de cara a la 'Final a 8'",
-      "pubDate": "2026-10-26T11:18:13Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
       "title": "Cómo un movimiento estudiantil que nació de una tragedia acabó con 14 años de dominio político de Aleksandar Vučić en Serbia",
       "link": "https://www.bbc.com/mundo/articles/cm78pv28195xo?at_medium=RSS&at_campaign=rss",
       "description": "Ahora, tras ganar las elecciones, el movimiento tendrá que superar su desorganización y nombrar a un primer ministro, para lo cual no hay un candidato claro.",
@@ -64,87 +586,6 @@
       "source": "BBC Mundo",
       "category": "Mundo",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a6c1/live/423f7880-d12f-11f1-a94e-6dd2aca774ac.jpg"
-    },
-    {
-      "title": "Lunin, el 'clasicómano' del Madrid",
-      "link": "https://www.marca.com/futbol/real-madrid/2026/10/26/lunin-clasicomano-madrid.html",
-      "description": "Ha ganado cuatro de sus cinco partidos con el Barça, el rival al que más veces se ha medido de blanco",
-      "pubDate": "2026-10-26T11:12:54Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
-    },
-    {
-      "title": "Jorge Martín ya prepara el milagro de correr en Sepang",
-      "link": "https://www.marca.com/motor/motogp/gp-malasia/2026/10/26/jorge-martin-prepara-milagro-correr-sepang.html",
-      "description": "Así busca rodar el viernes e intentar salvar sus opciones en MotoGP 2026",
-      "pubDate": "2026-10-26T11:10:52Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "22 partidos después, el Betis se queda a cero",
-      "link": "https://www.marca.com/futbol/betis/2026/10/26/apago-luz-22-partidos-despues-betis-queda-cero.html",
-      "description": "Los verdiblancos habían marcado en todos los partidos desde el 0-0 con el Espanyol en abril",
-      "pubDate": "2026-10-26T11:05:53Z",
-      "source": "MARCA",
-      "category": "Política",
-      "thumbnail": ""
-    },
-    {
-      "title": "Contador reinventa su equipo y busca crecer 'cazando' a un socio de la Fórmula 1",
-      "link": "https://www.marca.com/ciclismo/2026/10/26/contador-reinventa-equipo-busca-crecer-cazando-socio-formula-1.html",
-      "description": "La sociedad de los hermanos Contador e Ivan Basso incorpora a su primer socio externo para ampliar sus horizontes deportivos y comerciales e impulsar el talento japonés",
-      "pubDate": "2026-10-26T11:05:31Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Hoy en Lidl la envasadora al vacío que permite conservar alimentos húmedos y delicados",
-      "link": "https://www.xataka.com/seleccion/hoy-lidl-envasadora-al-vacio-que-permite-conservar-alimentos-humedos-delicados",
-      "description": "Siempre viene bien tener a mano algún dispositivo o accesorio que nos permita conservar mejor los alimentos. Con esto podemos evitar que se deterioren con el paso de los días. Y si tienes un Lidl cerca, mucho ojo porque el próximo viernes llegará a los estable",
-      "pubDate": "2026-10-26T11:01:29Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/0e14d5/lidl/1024_2000.jpeg"
-    },
-    {
-      "title": "El móvil se está ensanchando. Lo extraño no es el formato nuevo, sino que hayamos aguantado diez años con el anterior",
-      "link": "https://www.xataka.com/moviles/movil-se-esta-ensanchando-extrano-no-formato-nuevo-sino-que-hayamos-aguantado-diez-anos-anterior",
-      "description": "En septiembre de 2012, Apple presentó el iPhone 5 con una idea que sostuvo durante años. Por primera vez agrandaba la pantalla del iPhone, de 3,5 a 4 pulgadas, pero lo hacía cambiando la proporción: misma anchura, más altura. El razonamiento era el pulgar. Al ",
-      "pubDate": "2026-10-26T11:01:27Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/3e78ea/anchos/1024_2000.jpeg"
-    },
-    {
-      "title": "Cómo afectaría al T-MEC una mayoría demócrata",
-      "link": "https://www.elfinanciero.com.mx/opinion/jorge-molina-larrondo/2026/10/26/como-afectaria-al-t-mec-una-mayoria-democrata/",
-      "description": "Los demócratas buscan recuperar el control del Congreso de Estados Unidos en las elecciones intermedias, lo que podría limitar la agenda de Donald Trump durante los próximos dos años.",
-      "pubDate": "2026-10-26T11:00:00Z",
-      "source": "El Financiero",
-      "category": "Política",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/mA33az7DL7Jx63yz6tnJTBHZIks=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BW2R23PVPBG4TAGG5DTFD4MIX4.jpg"
-    },
-    {
-      "title": "Yucatán estrena la primera bienal internacional de arte de México",
-      "link": "https://www.elfinanciero.com.mx/opinion/victor-jose-lopez-martinez/2026/10/26/yucatan-estrena-la-primera-bienal-internacional-de-arte-de-mexico/",
-      "description": "La apuesta cultural del gobierno de Joaquín Díaz Mena busca posicionar a Yucatán como un nuevo centro artístico de México, mediante exposiciones gratuitas, el impulso al talento local y la preservación de la herencia maya.",
-      "pubDate": "2026-10-26T11:00:00Z",
-      "source": "El Financiero",
-      "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/wDRykki6Zbg77jwoyISu9qjGTUA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/BA3T62YEMZBPVNWF2NDAW22VLQ.png"
-    },
-    {
-      "title": "Julián Quiñones va por el Balón de Oro 2026: ¿Dónde y a qué hora ver a los ganadores?",
-      "link": "https://www.elfinanciero.com.mx/deportes/2026/10/26/quien-gano-el-balon-de-oro-2026-lista-completa/",
-      "description": "Dos mexicanos están nominados al Balón de Oro: en la rama varonil está Julián Quiñónes, en la femenil Scarlett Camberos.",
-      "pubDate": "2026-10-26T11:00:00Z",
-      "source": "El Financiero",
-      "category": "Economía",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/r--sc308au12dv3X8zpNLWgO_iw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DKLQ4TMXAZAIZI6PABGCL2YX6A.jpeg"
     },
     {
       "title": "3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil",
@@ -156,175 +597,31 @@
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2ef/live/50d2f430-d12a-11f1-9a61-7b8d75492b97.jpg"
     },
     {
-      "title": "El \"Culicoides\", un insecto de apenas 2 mm que es el protagonista de propagar el virus Shamonda",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/culicoides-insecto-apenas-2-mm-que-protagonista-propagar-virus-shamonda",
-      "description": "Hasta hace apenas unos meses, el virus Shamonda era un patógeno considerado estrictamente animal que había sido detectado de manera esporádica en algunas zonas de África y Japón desde los años setenta. Sin embargo, su reciente y veloz irrupción en el continent",
-      "pubDate": "2026-10-26T10:45:27Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/40e138/oms/1024_2000.jpeg"
+      "title": "Almeida admite el error “indiscutible” en la recalificación de la ciudad del Real Madrid, pero asegura que “no frustra la operación”",
+      "link": "https://elpais.com/espana/madrid/2026-10-26/almeida-admite-el-error-indiscutible-en-la-recalificacion-de-la-ciudad-del-real-madrid-pero-asegura-que-no-frustra-la-operacion.html",
+      "description": "El Ayuntamiento recalificó en verano los terrenos del club blanco en Valdebebas con un informe que calcula mal el beneficio para las arcas municipales: sube de 1,46 a 98,6 millones",
+      "pubDate": "2026-10-26T10:06:44Z",
+      "source": "El País",
+      "category": "Mundo",
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/SECPBBCB2VI7VHH44RFAT2SQPM.jpg?auth=3850170c957af3eb21ced01d3f23e79c280702132c73be1be653e419204baf9e"
     },
     {
-      "title": "La última hora del Balón de Oro en las apuestas",
-      "link": "https://www.marca.com/apuestas-deportivas/predicciones/2026/10/26/mbappe-cuela-ultima-hora-balon-oro-apuestas.html",
-      "description": "Kylian ha pegado un 'subidón' en las últimas horas: supera a Lamine... pero todavía está por detrás de Kane",
-      "pubDate": "2026-10-26T10:37:18Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ejemplar Cubarsí: no va a la gala del Balón de Oro para priorizar el descanso",
-      "link": "https://www.marca.com/futbol/barcelona/2026/10/26/ejemplar-cubarsi-gala-balon-oro-priorizar-descanso.html",
-      "description": "El central está nominado al trofeo Kopa",
-      "pubDate": "2026-10-26T10:34:24Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Los centros de datos tiran a la atmósfera el calor que podría calentar una ciudad. Ahora quieren vendérnoslo como calefacción “casi gratis”",
-      "link": "https://www.xataka.com/magnet/centros-datos-tiran-a-atmosfera-calor-que-podria-calentar-ciudad-ahora-quieren-vendernoslo-como-calefaccion-casi-gratis",
-      "description": "Un servidor es, a efectos prácticos, un radiador carísimo que además hace millones de cálculos. Toda esa energía residual que no llega a buen término se transforma en energía calorífica. Los centros de datos trabajan las 24 horas y se refrigeran sin pausa, así",
-      "pubDate": "2026-10-26T10:31:28Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/8d42d7/centro-de-datos/1024_2000.jpeg"
-    },
-    {
-      "title": "Mbappé: \"Es mi lobo\", las palabras del francés al referirse a Diomande tras El Clásico",
-      "link": "https://www.marca.com/futbol/2026/10/26/mbappe-mi-lobo-palabras-frances-referirse-diomande-clasic-video.html",
-      "description": "",
-      "pubDate": "2026-10-26T10:20:12Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "El patrocinador más antiguo del Real Madrid renueva su contrato hasta 2033: lleva desde la década de los 40",
-      "link": "https://www.marca.com/tiramillas/sociedad/2026/10/26/patrocinador-antiguo-real-madrid-renueva-contrato-2033-lleva-decada-40.html",
-      "description": "Mahou lleva desde hace más de 80 años acompañando al club madridista",
-      "pubDate": "2026-10-26T10:12:10Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Ducati estalla por Marc Márquez y Qatar",
-      "link": "https://www.marca.com/motor/motogp/gp-malasia/2026/10/26/ducati-estalla-marc-marquez-qatar-le-culpan-fuera-quiere.html",
-      "description": "Tardozzi critica a otros que no dan la cara",
-      "pubDate": "2026-10-26T10:10:43Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Lamine y el Balón de Oro como alivio al inesperado bajón del Barça",
-      "link": "https://www.marca.com/futbol/barcelona/2026/10/26/lamine-balon-oro-alivio-inesperado-bajon-barca.html",
-      "description": "La derrota en París y en el Clásico deja tocados al equipo, al club y a la afición",
-      "pubDate": "2026-10-26T10:08:45Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Traición",
-      "link": "https://www.elfinanciero.com.mx/opinion/macario-schettino/2026/10/26/traicion/",
-      "description": "Ahora quieren evitar que ese juicio venga de fuera. Por eso se envuelven en la bandera, se llenan la boca de soberanía y acusan a sus detractores de traición. Lo que están haciendo es construir una “narrativa” de defensa nacional que les sirva de cobertura.",
-      "pubDate": "2026-10-26T10:06:33Z",
-      "source": "El Financiero",
-      "category": "Entretenimiento",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/kqYmfIK4YrNai7r7kIJ5FIOM_oQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/Q3ZTD4RP2NFB5CRLMGWWMGLFCY.jpg"
-    },
-    {
-      "title": "Action tiene la solución (por menos de 10 euros) para poder tener organizado tu escritorio",
-      "link": "https://www.xataka.com/seleccion/action-tiene-solucion-10-euros-para-poder-tener-organizado-tu-escritorio",
-      "description": "El desorden en la zona de trabajo o estudio suele acumularse con facilidad: bloc de notas, bolígrafos, cables y pequeños accesorios que terminan invadiendo toda la mesa y restando concentración y, por lo tanto, productividad. Para poner fin a este caos visual ",
-      "pubDate": "2026-10-26T10:03:29Z",
-      "source": "Xataka",
-      "category": "Ciencia",
-      "thumbnail": "https://i.blogs.es/1a7eb4/action-tienda/1024_2000.jpeg"
-    },
-    {
-      "title": "El Barça lo paga muy caro",
-      "link": "https://www.marca.com/futbol/barcelona/2026/10/26/barca-aprende-errores.html",
-      "description": "Dura semana para el Barça con dos derrotas frente a PSG y Real Madrid",
-      "pubDate": "2026-10-26T10:01:40Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Badosa pasa a octavos de Guangzhou con susto: le tienen que tomar la presión y las constantes vitales",
-      "link": "https://www.marca.com/tenis/2026/10/26/badosa-estrena-casillero-victorias-solitario-lee-pasa-octavos-wta-guangzhou.html",
-      "description": "La española impone su jerarquía y gana en dos rápidos sets para citarse con Kraus",
-      "pubDate": "2026-10-26T09:58:48Z",
-      "source": "MARCA",
-      "category": "Deportes",
-      "thumbnail": ""
-    },
-    {
-      "title": "Paro nacional de transportistas desata ‘caos’ en CDMX y Edomex: Bloqueos y alternativas viales EN VIVO",
-      "link": "https://www.elfinanciero.com.mx/cdmx/2026/10/26/paro-nacional-de-transportistas-en-vivo-en-que-carreteras-de-cdmx-y-edomex-hay-bloqueos-reporte-vial-hoy-26-de-octubre/",
-      "description": "Conoce las carreteras y puntos afectados por el paro nacional de transportistas de este lunes 26 de octubre.",
-      "pubDate": "2026-10-26T09:57:16Z",
-      "source": "El Financiero",
+      "title": "Taddei, de abanderada de la “austeridad republicana” a los escándalos de corrupción - EL PAÍS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFlRSnY4SldPdWVVdFhfOHJqbEZYMXItYktQWHNiXzJJeU9sdUsybmtFT3hKZXRXSkVVcDB6amxIZm1hOGctTHVGQmRxYjcwZmJHLVM5X0lITXhBaXdtUHdTVVNRbzFDRnFZNGZ4RnREbnA0MWpwV2lSM2ZXLU1fNVA3eTNydDl4S1lmMWZTTHoybW1Kc1VxN3Q5ZkJTVmQ3ZmVJUUJ5RnZnQTFHb2NqR3NIVk9wQ24xbmZCaHB0aw?oc=5",
+      "description": "Taddei, de abanderada de la “austeridad republicana” a los escándalos de corrupción&nbsp;&nbsp;EL PAÍSSheinbaum defiende a Taddei de las burlas y respalda su renuncia: “No puede haber sombras de corrupción”&nbsp;&nbsp;EL PAÍSEntrevista de la Consejera Electora",
+      "pubDate": "2026-10-26T09:30:00Z",
+      "source": "Google News MX",
       "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/TkkAtzorHYNvY88123PPPfzQcNs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UHCCHLRONNGDNEWKPL4X55IRXU.jpg"
+      "thumbnail": null
     },
     {
-      "title": "Premian a Punto Travel Center de OXXO",
-      "link": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/10/26/premian-a-punto-travel-center-de-oxxo/",
-      "description": "El galardón, entregado en Las Vegas, premia la integración de áreas de descanso, talleres mecánicos, alimentos y pensión nocturna en un mismo espacio diseñado para operadores de carga.",
-      "pubDate": "2026-10-26T09:37:23Z",
-      "source": "El Financiero",
-      "category": "Ciencia",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/o-rXl2mxxsmA4Ae_-UwOA_NKUZU=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RFSEEM5VW5ALNGJDDKZYRUEIEQ.png"
-    },
-    {
-      "title": "Mexicanos no sueltan ‘el cash’: Uso de efectivo sigue presente en sus gastos diarios",
-      "link": "https://www.elfinanciero.com.mx/economia/2026/10/26/mexicanos-no-sueltan-el-cas-uso-de-efectivo-sigue-presente-en-sus-gastos-diarios/",
-      "description": "El 98% de la población en México acostumbró usar efectivo para sus gastos diarios.",
-      "pubDate": "2026-10-26T09:29:46Z",
-      "source": "El Financiero",
+      "title": "La reunión de Ariadna Montiel con El Guano, escribe Héctor De Mauleón - El Universal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWjNRWE5JdzFDel9tVlJHN25uVHdFM2d3SkdEbDhnNHhoWU9rOGVTOWFKanE5eG84VnhVNFZfSFBpUmkwSUxmeFNKdUFBa2FGb0xUZkpxa2pNU3h3QldtcEVkTUV5M2RITFlLS25zNEg4VXVVYnY5Y3ZSU3o1eDhkV1E2bG5UUVdIQW53Z3J4Yy1kbDJldXlOQ3F0SE9mc0ZEamc?oc=5",
+      "description": "La reunión de Ariadna Montiel con El Guano, escribe Héctor De Mauleón&nbsp;&nbsp;El Universal“Por entregar a exfiscal y desesperación acusan a Ariadna”: Mayra 🎦&nbsp;&nbsp;Tiempo La Noticia DigitalPérez Cuéllar respalda a Sheinbaum y anuncia acciones legales c",
+      "pubDate": "2026-10-26T09:26:51Z",
+      "source": "Google News MX",
       "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/br8htsOX86TD0QGTmW8eapzU39M=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/5UFI5WIPDNGM7NJ4TU6LGVHLLI.jpg"
-    },
-    {
-      "title": "Viento del Este, viento del Oeste",
-      "link": "https://www.elfinanciero.com.mx/opinion/antonio-navalon/2026/10/26/viento-del-este-viento-del-oeste/",
-      "description": "Una vez más, aquello que destruyó el mundo de ayer se convierte en la principal amenaza de nuestro presente.",
-      "pubDate": "2026-10-26T09:20:56Z",
-      "source": "El Financiero",
-      "category": "Economía",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/r2EYC63xfJTA1nIpqIayTyHJhtI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MXZ6KSMDBBGA3EHFIREXQRIS7U.jpg"
-    },
-    {
-      "title": "Ofertas en reacondicionados de MediaMarkt con grandes descuentos en el Samsung Galaxy S26 de 512 GB, en televisores, monitores y más",
-      "link": "https://www.xataka.com/seleccion/ofertas-reacondicionados-mediamarkt-grandes-descuentos-samsung-galaxy-s26-512-gb-televisores-monitores",
-      "description": "MediaMarkt está celebrando una campaña de ofertas centrada en productos reacondicionados. Hay buenos precios en móviles, pero también en televisores, monitores e incluso lectores de libros electrónicos. Si no quieres esperar al Black Friday, atento a estos cho",
-      "pubDate": "2026-10-26T09:15:29Z",
-      "source": "Xataka",
-      "category": "Política",
-      "thumbnail": "https://i.blogs.es/0437a1/mediamarkt/1024_2000.jpeg"
-    },
-    {
-      "title": "Economía en México repunta 3.5 por ciento y alienta alza en pronósticos",
-      "link": "https://www.elfinanciero.com.mx/economia/2026/10/26/economia-en-mexico-repunta-35-por-ciento-y-alienta-alza-en-pronosticos/",
-      "description": "Favorece un mayor dinamismo industrial, particularmente en las manufacturas.",
-      "pubDate": "2026-10-26T09:08:20Z",
-      "source": "El Financiero",
-      "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/JTmkHEO5tJXaenXDhmiSmilNT3Q=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZD6EWMABQFCO5BSNT2VKP2NV3E.jpg"
-    },
-    {
-      "title": "Huawei Watch D3, análisis: la mayor sorpresa de este reloj llega cuando empieza a hincharse la correa",
-      "link": "https://www.xataka.com/analisis/huawei-watch-d3-analisis-caracteristicas-precio-especificaciones",
-      "description": "Hace tiempo que los relojes inteligentes dieron el salto a medidores de salud constantes. O casi, porque, pese a sus múltiples sensores, casi ninguno está certificado como dispositivo médico. Los Huawei Watch D escapan de la norma, ya que la marca incluye una ",
-      "pubDate": "2026-10-26T09:00:00Z",
-      "source": "Xataka",
-      "category": "Ciencia",
-      "thumbnail": "https://i.blogs.es/aad23e/huawei-watch-d3-2/1024_2000.jpeg"
+      "thumbnail": null
     },
     {
       "title": "Huawei lanza en España el Watch D3, su reloj que mide la presión arterial con certificación médica",
@@ -336,130 +633,31 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/huawei-watch-d3-00.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "La desbandada que se viene en el INE",
-      "link": "https://www.elfinanciero.com.mx/opinion/confidencial/2026/10/26/la-desbandada-que-se-viene-en-el-ine/",
-      "description": "Muchos consejeros alertaron de la falta de experiencia de las personas que Taddei colocó en puestos clave, y de los despidos masivos que ejecutó para colocar a sus afines, y la consecuencia natural de su dimisión sería la desbandada en pleno proceso electoral ",
-      "pubDate": "2026-10-26T08:46:41Z",
-      "source": "El Financiero",
-      "category": "Economía",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/yTyq1Gl0s8neGhkKQ3kp-hxbnnw=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2EZE2JP55RFMDLQDMTATYSA2KY.jpg"
-    },
-    {
-      "title": "Oposición exige ‘cero impunidad’ a Guadalupe Taddei: ‘No basta con irse, exigimos investigar’",
-      "link": "https://www.elfinanciero.com.mx/nacional/2026/10/26/oposicion-exige-cero-impunidad-a-guadalupe-taddei-no-basta-con-irse-exigimos-investigar/",
-      "description": "Legisladores del PRI y PAN exigieron esclarecer las presuntas irregularidades en el INE, aplicar sanciones y garantizar una sucesión transparente tras la renuncia de Taddei.",
-      "pubDate": "2026-10-26T08:35:48Z",
-      "source": "El Financiero",
-      "category": "Economía",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/f9F2-XgNpQ8ZlvbknonJcxNO34c=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2HYEJU42QJBL5LDNZHKWNVZR4A.jpg"
-    },
-    {
-      "title": "Taddei, instrumento desechable",
-      "link": "https://www.elfinanciero.com.mx/opinion/raymundo-riva-palacio/2026/10/26/taddei-instrumento-desechable/",
-      "description": "Durazo fue el principal impulsor de Taddei y su relación se ha forjado con nombramientos cruzados para familiares o cercanos de ellos.",
-      "pubDate": "2026-10-26T08:34:44Z",
-      "source": "El Financiero",
-      "category": "Economía",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/2PAfHf5LsZdgplI9mxzvXoh7YP0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZCZH6CZIPRBBVPNSKZS7JRVBI4.jpg"
-    },
-    {
-      "title": "África quiere plantar 100 millones de árboles desde hace 19 años. Ahora su Muralla Verde en el Sáhara coge forma",
-      "link": "https://www.xataka.com/ecologia-y-naturaleza/africa-quiere-plantar-100-millones-arboles-hace-19-anos-ahora-su-muralla-verde-sahara-coge-forma",
-      "description": "A lo largo de los casi 8.000 kilómetros que separan Senegal de Yibuti, el continente africano está inmerso en uno de los proyectos de ingeniería ecológica y adaptación climática más ambiciosos que conocemos y que es conocido como la 'Gran Muralla Verde'. Su ob",
-      "pubDate": "2026-10-26T08:31:29Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/4f307b/arboles-satelites/1024_2000.jpeg"
-    },
-    {
-      "title": "Transportistas convocan a huelga nacional por violencia y ‘golpe’ fiscal",
-      "link": "https://www.elfinanciero.com.mx/empresas/2026/10/26/transportistas-convocan-a-paro-nacional-por-violencia-y-golpe-fiscal-a-empresas-anuncian-bloqueos/",
-      "description": "Inactividad de transportistas frenará el flujo de mercancías, provocando daño de 21 mil 500 millones de pesos diarios.",
-      "pubDate": "2026-10-26T08:21:11Z",
-      "source": "El Financiero",
-      "category": "Economía",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/YbB5XwRVHt1NxwsgOxlYFkUH2Vk=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/4BAUS2H7XFGR5O26RRBRRHRSJY.jpeg"
-    },
-    {
-      "title": "Sinaloa: entre la inseguridad y la apuesta industrial",
-      "link": "https://www.elfinanciero.com.mx/opinion/jeanette-leyva/2026/10/26/sinaloa-entre-la-inseguridad-y-la-apuesta-industrial/",
-      "description": "Con Imelda Castro perfilada como probable candidata de Morena, la senadora tendría ante sí una entidad que necesita recuperar la seguridad, reactivar el empleo y convertir las inversiones anunciadas en crecimiento económico y todo, en una entidad que tiene más",
-      "pubDate": "2026-10-26T08:19:47Z",
-      "source": "El Financiero",
-      "category": "México",
-      "thumbnail": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/bet6Ru4_EcmLf3KeKg1ZLsCWZI4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/3FF2HXRMRVCLZCKECG4ZVYRW2I.jpg"
-    },
-    {
       "title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota",
       "link": "https://www.bbc.com/mundo/articles/ck1wvz44jy0go?at_medium=RSS&at_campaign=rss",
       "description": "Lula logró el triunfo sobre Flavio Bolsonaro y es el primer político en Brasil en ganar el balotaje tras haber sido segundo en la primera vuelta. Su rival, sin embargo, pedirá la anulación de los comicios.",
       "pubDate": "2026-10-26T08:11:47Z",
       "source": "BBC Mundo",
       "category": "Mundo",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/57a9/live/94c666a0-d0e3-11f1-ad70-07daa2562508.jpg"
+      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3aef/live/be39ad90-d13c-11f1-8d4e-ef1672a07d66.jpg"
     },
     {
-      "title": "Hoy llega a Lidl este calefactor cerámico tipo split por 29,99 euros e ideal para calentar el baño o estancias pequeñas",
-      "link": "https://www.xataka.com/seleccion/hoy-llega-a-lidl-este-calefactor-ceramico-tipo-split-29-99-euros-e-ideal-para-calentar-bano-estancias-pequenas",
-      "description": "Con la llegada de las bajas temperaturas, calentar rápidamente estancias de uso puntual como el cuarto de baño o un despacho sin necesidad de encender la calefacción central se convierte en una prioridad en casa para no disparar la factura de la luz. Los calef",
-      "pubDate": "2026-10-26T06:48:08Z",
-      "source": "Xataka",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i.blogs.es/600369/electrodomesticos-tono-pastel-lidl/1024_2000.jpeg"
-    },
-    {
-      "title": "En 1964, URSS poseía un mineral clave para fabricar el nuevo avión espía de EEUU... y EEUU la engañó para conseguirlo",
-      "link": "https://www.xataka.com/magnet/1964-urss-poseia-mineral-clave-para-fabricar-nuevo-avion-espia-eeuu-eeuu-engano-para-conseguirlo",
-      "description": "Quizás no lo parezca por su aspecto, tan futurista que no desentonaría entre el atrezo de una peli del universo Marvel, pero el avión espía SR-71 \"Blackbird\" es una reliquia de la Guerra Fría. Cuando voló por primera vez, en 1964, el Despacho Oval lo ocupaba L",
-      "pubDate": "2026-10-26T06:00:00Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/9a6419/mirlo/1024_2000.jpeg"
-    },
-    {
-      "title": "Reportan muerte de streamer ‘El Komanche’ en Monterrey; identidad aún sin confirmación oficial - López-Dóriga Digital",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2pWb2hSVnRuREUxLW5nNWZsMzhwUlNCYkJWWUo4eXNVbVB1YkNSOEVVeGhKN0VtU2J1NThWR3dfNGFwRlBPclNGZkNCQVdRaGduVlJJNUo5Mkg0aUUyV2lkX0oxWHUzTWZrczlsM3gxdmdxUHBxR2JVazU5QWNNeGJNSEF5NXdCV3RWU19TRUcyQ3RFY3BaSGNnc3dGTWtzbjZsUG1CRDR3SXR0Q3ExOVdhTFVjZTlPZTBKTm5LQ2RKV2s?oc=5",
-      "description": "Reportan muerte de streamer ‘El Komanche’ en Monterrey; identidad aún sin confirmación oficial&nbsp;&nbsp;López-Dóriga DigitalReportan suicidio en sector Cumbres; sería un influencer&nbsp;&nbsp;El NorteMuere Komanche, streamer salvadoreño, a los 30 años: últim",
-      "pubDate": "2026-10-26T05:50:04Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqVGp4ZGM4aHpyYUVrcXZCcDhXWkhJeXFoQ0htdU9KYTBySHMyR1lva2pNV0NibUxJUjVZWlotMlVGa1hwOHYtQ0djNTF0OEZUcURjdlktVGNKVzRi?oc=5",
-      "description": "Lula gana las elecciones de Brasil con una remontada histórica pero Bolsonaro pide la anulación y no reconoce la derrota&nbsp;&nbsp;BBC3 claves detrás de la histórica remontada electoral de Lula para ganar su cuarto mandato como presidente de Brasil&nbsp;&nbsp",
-      "pubDate": "2026-10-26T05:04:11Z",
+      "title": "Anuncian paro nacional de transportistas: ¿En qué estados habrá bloqueos este lunes 26 de octubre? - El Financiero",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOT09PTTg2eGdTbGlxUVpVZElRSXlJTjR5YV91V1RCdjNHN01QRXFUbEFoSFJoUGhIaFpkLVh5X3BpQUlsWXQ1dGtkT2haNnNDUjNyM1BlVkthVlQxWE5DQUhDMzZEVU1GTHlLMnhWQTJFeko0c1FEVlk3cTQtYmNKdVVKM1hZRV9yLW9Za2UxanVkN243NGNiRjJCeGMtWmhUU3U5TW44cklDNzk1eFl1UjlXaXUycnRFRFVRb1BRUzN5TDdFYk1nRVdDcUtyQUxEZlJfeGJJcTlxbDIzUHlUVjh6bUd1SzVJMVN2X1RzVmZwa005aWdLTUxCdw?oc=5",
+      "description": "Anuncian paro nacional de transportistas: ¿En qué estados habrá bloqueos este lunes 26 de octubre?&nbsp;&nbsp;El FinancieroDefiende Gobierno recorte de beneficios “excesivos” ante bloqueos de transportistas&nbsp;&nbsp;El ComentarioParo nacional de transportist",
+      "pubDate": "2026-10-26T06:49:01Z",
       "source": "Google News MX",
       "category": "Política",
       "thumbnail": null
     },
     {
-      "title": "El sistema de telepeaje de Japón dejó de funcionar durante 38 horas y muchos conductores hicieron lo que les pareció más lógico: pagar",
-      "link": "https://www.xataka.com/movilidad/sistema-telepeaje-japon-dejo-funcionar-durante-38-horas-muchos-conductores-hicieron-que-les-parecio-logico-pagar",
-      "description": "Japón es un país de contrastes. Por un lado, es una sociedad en la que se han normalizado las máquinas de vending con braguitas usadas, situaciones laborales cercanas a la esclavitud o la vigilancia extrema. Por otro, están obsesionados con la limpieza y tiene",
-      "pubDate": "2026-10-26T05:00:14Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/3d94a6/captura-de-pantalla-2025-05-28-a-las-12.32.11/1024_2000.jpeg"
-    },
-    {
-      "title": "Los buques de guerra marroquíes que irrumpieron en aguas de Ceuta se saltaron las normas de seguridad marítima",
-      "link": "https://elpais.com/espana/2026-10-26/los-buques-de-guerra-marroquies-que-irrumpieron-en-aguas-de-ceuta-se-saltaron-las-normas-de-seguridad-maritima.html",
-      "description": "La patrullera de la Armada ‘Isla Pinto’ estuvo a punto de colisionar con una embarcación militar de Rabat",
-      "pubDate": "2026-10-26T04:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/B2AGVL4HINCIFGJSIY4SHHTY5Q.jpeg?auth=b2818551905405d937b661905e79eeb6282436975f25c65cd1a47e038b35caf1"
-    },
-    {
-      "title": "“Para nosotros es histórico”: cómo Jordi Wild logró el sí de Sánchez, Feijóo, Abascal y Colau para ir a su casa",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-10-26/para-nosotros-es-historico-como-jordi-wild-logro-el-si-de-sanchez-feijoo-abascal-y-colau-para-ir-a-su-casa.html",
-      "description": "El ‘podcast’ ‘The Wild Project’, con solo dos trabajadores, logra un hito sin precedentes en la comunicación española. Su creador, un ‘youtuber’ que de pequeño quería ser actor, tiene millones de seguidores y gran tirón entre los chicos jóvenes",
-      "pubDate": "2026-10-26T04:30:01Z",
-      "source": "El País",
-      "category": "Entretenimiento",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/TA5QVSUY6NGNLCX5YVOKVE2S5M.jpg?auth=82dfe6250319e163642fb3ce9328065f014fa94ae7ed86877245ca664035b953"
+      "title": "FESC y “Harfuchs” detienen al Isra, de los Rusos, en restaurante de Mexicali - Semanario ZETA",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONlJleHBoOUYzV24yYnlTbWEtdVJxdGlGSndtUmZyalJPQ2Q5US0xcjk2S05XaG5qZC1mS2JsY0ViR3JHVWdiY1hxcG9saVZfRzJyZDVzQzZOVk9KSzc4cTU4VkRMZ0lqQ3ZSX1RrNVlaeElSM2FXd1FDTE9yZGpzME5vOUF5aDY4Z1dLcjhpUmVaZm5aMUxVZFlvVlNHTmlISzJwckJqNEo?oc=5",
+      "description": "FESC y “Harfuchs” detienen al Isra, de los Rusos, en restaurante de Mexicali&nbsp;&nbsp;Semanario ZETAFuerzas federales detienen en Mexicali al Isra, operador regional de Los Rusos&nbsp;&nbsp;EL PAÍSCae “El Isra” en operativo de coordinación institucional&nbsp",
+      "pubDate": "2026-10-26T05:54:40Z",
+      "source": "Google News MX",
+      "category": "México",
+      "thumbnail": null
     },
     {
       "title": "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio: sube de 1,46 a 98,6 millones",
@@ -468,7 +666,7 @@
       "pubDate": "2026-10-26T04:30:01Z",
       "source": "El País",
       "category": "Ciencia",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XFXTCJX2JDJBKPOJFP22MY7SBU.jpg?auth=643a3a6af2e1d85bae79b4a9ba97994abb9ec393a85c9e9d2eee875ebd1e77e2"
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/DYF7HIR7RNG6DATOFBHUDKX6GA.jpg?auth=895d08165ec557cd7be246deb887e7a37c267d3032c91feb44b2b7e34832b275"
     },
     {
       "title": "Por qué las guarderías son una bomba vírica: qué dice la ciencia y cómo sobreviven los padres a los contagios constantes",
@@ -480,24 +678,6 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/MCV77M2YJNCLTHWDXSZDFCZLWY.jpg?auth=7488e98e6f7e4e107605782eb00a297002526be72501bf4e2b5f9776a916403b"
     },
     {
-      "title": "Stevie Wonder: el sumo sacerdote del soul sigue obrando milagros",
-      "link": "https://elpais.com/cultura/2026-10-26/stevie-wonder-el-sumo-sacerdote-del-soul-sigue-obrando-milagros.html",
-      "description": "El artista conmemora con una gira los 50 años de ‘Songs in the Key of Life’, un disco doble que dejó pequeño cualquier hito de la música afroamericana. Asistimos a su concierto en Estocolmo",
-      "pubDate": "2026-10-26T04:30:01Z",
-      "source": "El País",
-      "category": "Entretenimiento",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/QFTPARXHYJFFRIN7LLKSH2QMEY.jpg?auth=d8496c39385ec1f1f926353a5dfea8008698e62cfedf30e2380e838a124d07a4"
-    },
-    {
-      "title": "Mónica Marchante: “El periodismo deportivo está enfermo. Oigo preguntas de vergüenza ajena”",
-      "link": "https://elpais.com/deportes/2026-10-26/monica-marchante-el-periodismo-deportivo-esta-enfermo-oigo-preguntas-de-verguenza-ajena.html",
-      "description": "La veterana comunicadora critica el físico que se exige a las mujeres en su profesión “mientras ellos pueden ser calvos y gordos”",
-      "pubDate": "2026-10-26T04:30:01Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/3SYP3LFRFZF7TH6LVJBUJ6CBRA.JPG?auth=00729121442ed45062681f36765f247020903f91858e4428e7f6dd54eafcf001"
-    },
-    {
       "title": "Sergi Arola (cocinero): “Me pasó como a los alcohólicos, no percibí el batacazo que me estaba dando”",
       "link": "https://elpais.com/gastronomia/2026-10-26/sergi-arola-cocinero-me-paso-como-a-los-alcoholicos-no-percibi-el-batacazo-que-me-estaba-dando.html",
       "description": "Vuelve a tener restaurante en Madrid con Austral, un nuevo proyecto gastronómico inspirado en la cocina del Pacífico Sur y el recetario tradicional de Chile, país en el que reside desde hace siete años, que incluirá además un pisco bar",
@@ -507,24 +687,6 @@
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/RPQOT2EKRVBK3NLBV2SM3FMGQ4.jpg?auth=0a359a5e1a068736e19e69256859f12f99adb70b27edb0156605f4f1646325b2"
     },
     {
-      "title": "Justin Trudeau dejó la política, pero no la fama: de su vida junto a Katy Perry a sus nuevos proyectos",
-      "link": "https://elpais.com/gente/2026-10-26/justin-trudeau-dejo-la-politica-pero-no-la-fama-de-su-vida-junto-a-katy-perry-a-sus-nuevos-proyectos.html",
-      "description": "Tras abandonar el cargo de primer ministro hace 19 meses, el canadiense, célebre desde la cuna por su apellido, sigue siendo foco de atención. Lo es por su romance con la cantante de ‘I Kissed a Girl’, su nueva faceta dando discursos por el mundo y su reciente",
-      "pubDate": "2026-10-26T04:30:00Z",
-      "source": "El País",
-      "category": "Entretenimiento",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/CEWLWGL5EZATJNFWTPBTDNBVS4.jpg?auth=e47a161c15e25a051fe0d5c8d5de6f1f426131c161aea455dd6215c19070b5c6"
-    },
-    {
-      "title": "Miles de personas salen a las calles a recibir a Machado: “Viene a apretar el acelerador”",
-      "link": "https://elpais.com/america/2026-10-26/la-oposicion-vuelve-a-tomar-las-calles-en-venezuela-tras-el-regreso-de-machado-viene-a-apretar-el-acelerador.html",
-      "description": "El retorno de la dirigente reactiva la esperanza de acelerar la transición política en el país tras la detención de Nicolás Maduro y la tutela de Washington",
-      "pubDate": "2026-10-26T04:02:13Z",
-      "source": "El País",
-      "category": "Mundo",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/F3KSQMLIW5GXJHEF2KZMSDTR2A.jpg?auth=29dfbaa716f4aba2f25da0f4ddc338e6318bbfe31057a99ff460129269b2fb12"
-    },
-    {
       "title": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
       "link": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html",
       "description": "Los ultras se muestran abatidos, pero anuncian una batalla legal contra lo que califican de “canallada”",
@@ -532,15 +694,6 @@
       "source": "El País",
       "category": "Mundo",
       "thumbnail": "https://imagenes.elpais.com/resizer/v2/3APMXGMW3NMFPOCFFORFQM4424.jpg?auth=754b19e9103d29720ed69ca3cc3c04c2a27b273060ce1c86cd8835e9d5940427"
-    },
-    {
-      "title": "Canacar va a paro nacional este lunes, se esperan bloqueos - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSmdXRXhsRDJYRUtFbVlubmtRS1BRSmM4c2dIcU15QUY2LVpvVHUtUFp4U2hhdjl5cVVQMEZyUU5tSjcxQUhkWTFFa18ydEhhUVp2MlR1OFg1VmcwMU9YeDFmQl9oN3RSejFaVjhpQnllcElMTlZEYjFyYjFBeDVheUZXVzl4S1FuWDF0SHRrWW54Wk1DOGQ4Um5GanFXZmZ3aXdQRU9zbWxHX0JsbUZFWWJ3?oc=5",
-      "description": "Canacar va a paro nacional este lunes, se esperan bloqueos&nbsp;&nbsp;La JornadaParo nacional de transportistas desata ‘caos’ en CDMX y Edomex: Bloqueos y alternativas viales EN VIVO&nbsp;&nbsp;El FinancieroCanacar va a paro nacional hoy; Segob exhorta al diál",
-      "pubDate": "2026-10-26T02:22:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "\"¡Finalmente, Caracas, estoy aquí!\": la líder opositora María Corina Machado regresa a Venezuela 10 meses después",
@@ -579,42 +732,6 @@
       "thumbnail": null
     },
     {
-      "title": "Lula, la épica de la izquierda mundial",
-      "link": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html",
-      "description": "El presidente de Brasil, antiguo obrero y sindicalista, perseverante y pragmático, impide la vuelta al poder de la ultraderecha con los Bolsonaro",
-      "pubDate": "2026-10-26T00:16:56Z",
-      "source": "El País",
-      "category": "Política",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/XBU5ABKZMRC6XOJGJ3IWXHODGE.jpeg?auth=36a67de75ea1bd46d446da23093f9fd6567c83c85cbeae9e772b8b4b85226399"
-    },
-    {
-      "title": "El líder serbio Aleksandar Vucic reconoce la derrota electoral ante un movimiento de protesta liderado por estudiantes",
-      "link": "https://www.bbc.com/mundo/articles/cmx28l1xy5j2o?at_medium=RSS&at_campaign=rss",
-      "description": "El líder populista de derecha, en el poder desde hace 12 años, afirma que es \"evidente\" que su partido ha perdido la votación, considerada un referéndum sobre el futuro del país.",
-      "pubDate": "2026-10-26T00:00:46Z",
-      "source": "BBC Mundo",
-      "category": "Política",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e676/live/8534e970-d0c8-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "En crisis del IMSS, hijo de AMLO celebra plan para rastrear medicinas - Puente Libre",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa01LXzdyc1JjVE1UeThna1FaaXVwXzhtTDNSN2dzQ0NLRXo5aWFfcTNMbmp0cFdiVldHcDRyNHI1bjZUVmFMZ2FUV2xpZDZGSXZ2aENOcVRBR3pNcXBQMWhkNm1Pb0hNdGtvOVFmeXBob1JZekF4U1lzS2x6cHpaOGRoM0tZNVI5YTg2QmRGRHpXa2Y3ckFON2JzcUs4RXFiSkEwa1p0eEhHUkswOWc?oc=5",
-      "description": "En crisis del IMSS, hijo de AMLO celebra plan para rastrear medicinas&nbsp;&nbsp;Puente LibreVer más títulos y perspectivas en Google Noticias",
-      "pubDate": "2026-10-25T23:45:18Z",
-      "source": "Google News MX",
-      "category": "Tech",
-      "thumbnail": null
-    },
-    {
-      "title": "El mejor Real Madrid nace en el Camp Nou y tumba al Barcelona con un doblete de Mbappé",
-      "link": "https://elpais.com/deportes/futbol/2026-10-25/el-mejor-madrid-nace-en-el-camp-nou-y-tumba-al-barcelona-con-un-doblete-de-mbappe.html",
-      "description": "El delantero francés corona el excelente plan de partido de Mourinho frente a un equipo azulgrana que jugó a remolque",
-      "pubDate": "2026-10-25T22:48:12Z",
-      "source": "El País",
-      "category": "Política",
-      "thumbnail": "https://imagenes.elpais.com/resizer/v2/UCKTAX6QLJGTDKGWX3AXPKYABE.jpg?auth=aa78a95e9f62e1577f54bce93eb4c3b3222ac10f560fb9022a113a0613151e70"
-    },
-    {
       "title": "Guadalupe Taddei renuncia al INE - Forbes México",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43ZkRiRXNqU1ZNQjJ6R2YtemVYeExTbXhCc3JUMXF5amk2akxKRlhiaTFIZHNHLS14TlpxSG5NUl9WX3REaTFaUUtPcmdIdXlWTWNEcFUyY2hMRVFDMlFucWVfVzhOdw?oc=5",
       "description": "Guadalupe Taddei renuncia al INE&nbsp;&nbsp;Forbes México",
@@ -624,27 +741,18 @@
       "thumbnail": null
     },
     {
-      "title": "Guadalupe Taddei renuncia al INE acorralada por el escándalo de corrupción con contratistas - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1JQOGNSeWZZdkdzRmczdVVvM2E5dXpYZlVoeUZiMXdQeTZLMWRlT25rT3FkcUpoT3N2bExxSVUyUUhMc21TNGFrN3ozT2tob1U1bnFjRktSUG90UE1HVVo5SXo3aFhFc2E1Z2hfdS05RWNJUEFOZUxXTW9FLS1venl6dDNjeEtPUzk3QXFUaW91ZjJ1TGJ6Z3dkWFIyRW5vWkQ3b19fZUppWkYxZ1lZdFFwaS1SMEZwTDNJSDVuR0NJSm9ZWWtSck1peUY2Z9IB4gFBVV95cUxQak5RTzdQOThVamktR2xQZW43NFh1bkVNMDRBTG5zM3VFTHJwRHRuZXFfNDEwZC1wek5LMVhlb2dCNVpyZkg0TzR2N0dNV3ZtN2JBSFhwY2JqNG9pNzVxOFU3RHBUVWl1RDk1SGJhZW82VGw4QVNDcE92TFdGQnlHTllXTlAzNnVYS29qNGIyTUk2bXZDSUdObFhrRFYzcUExa3lqMHhpN0dZd0V1bkoxbGdQSzlOQnNBSnRsTmVWTS1PZGF2alVhMTFKUjE0LWd1MXdhUmpYNzdiUjJxNFp6NnRn?oc=5",
-      "description": "Guadalupe Taddei renuncia al INE acorralada por el escándalo de corrupción con contratistas&nbsp;&nbsp;EL PAÍSFin del caso Taddei // Se le cayó el argumento a la derecha // Urge un relevo con neutralidad política - Ciudad Perdida&nbsp;&nbsp;La JornadaLa jefa d",
-      "pubDate": "2026-10-25T22:36:08Z",
+      "title": "Francia vivió otro fin de semana de protestas y miles de personas se manifestaron en toda Europa - CNN en Español",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckhjLXdGWEIxdUdMWW83MkVNbmYzMFJ3dTZnbHhuVWpHaGJKNW5IWVlmdE1EQ24zbXNVMXM2MEtST2QybmlNd1RBVWh4QUNlUVBwSmJEXzFXNWRMdWhKREh2dk1HQlM5WDhIUndzSkdNVS1oV1BqUGxhVkFUT1JGUlQtZ1NpajRLNFBnb21R?oc=5",
+      "description": "Francia vivió otro fin de semana de protestas y miles de personas se manifestaron en toda Europa&nbsp;&nbsp;CNN en EspañolMacron admite que la tensión en la calle no desaparecerá pero evita declarar el estado de emergencia en Francia&nbsp;&nbsp;EL PAÍSAlerta M",
+      "pubDate": "2026-10-25T21:53:00Z",
       "source": "Google News MX",
       "category": "México",
       "thumbnail": null
     },
     {
-      "title": "En Europa existe un museo dedicado a grandes productos fallidos. Detrás está un antiguo empleado de Google",
-      "link": "https://www.xataka.com/magnet/europa-existe-museo-dedicado-a-grandes-productos-fallidos-detras-esta-antiguo-empleado-google",
-      "description": "Estamos acostumbrados a entrar en un museo para encontrarnos con aquello que merece ser recordado. En España basta pensar en el Prado, el Reina Sofía o el Guggenheim Bilbao, pero también tenemos espacios dedicados a historias mucho más recientes, como OXO Muse",
-      "pubDate": "2026-10-25T20:00:10Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/8b4c08/museo-fracasos-portada/1024_2000.jpeg"
-    },
-    {
       "title": "Defensa del ex fiscal de Chihuahua, César Jáuregui, impugnará vinculación por traición a la patria - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNHFwaE9HLTUtZmJNOFc5NXQyNVBGSTcxVnJhZlY3UGlESHREWWwySGh4cjZGc3VBS2VQemtXVkU4d0llMk1yOXVHN0JfaXVLYVE1akdIYlZMSU14VHdfSXk1ZHF6RGhraVpnTHRqWWJNY2JySjZZcjhRSzNHNVNZc3pDNThrNXV2anNsZDg1S1AxX29WbGRQcFFVeklocW5DOUpFQ09PS3pHRDF2MFlIWXFheTFRdWI4Nlp6MU5vRVZJTEZCWFBqTl9MRmhocGUwaWVQNzNFZ1JrQkJIUFUtcWp3UTlfdw?oc=5",
-      "description": "Defensa del ex fiscal de Chihuahua, César Jáuregui, impugnará vinculación por traición a la patria&nbsp;&nbsp;La JornadaVinculan a proceso a César Jáuregui por presunta traición a la patria&nbsp;&nbsp;El ComentarioFGR obtiene vinculación a proceso contra César",
+      "description": "Defensa del ex fiscal de Chihuahua, César Jáuregui, impugnará vinculación por traición a la patria&nbsp;&nbsp;La JornadaVinculan a proceso a César Jáuregui por presunta traición a la patria&nbsp;&nbsp;El Comentario“Apelaremos; juez desechó delito de coalición ",
       "pubDate": "2026-10-25T19:58:00Z",
       "source": "Google News MX",
       "category": "México",
@@ -658,15 +766,6 @@
       "source": "BBC Mundo",
       "category": "Mundo",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/654c/live/26d45cf0-ceff-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "title": "Lidl soluciona (por 7,99 euros) un problema cotidiano en casa cuando llega el frío, vuelven las lluvias y sube la humedad",
-      "link": "https://www.xataka.com/seleccion/lidl-soluciona-7-99-euros-problema-cotidiano-casa-cuando-llega-frio-vuelven-lluvias-sube-humedad",
-      "description": "Hace ya más de un mes que entró en España el otoño y, con él, han llegado las primeras borrascas y lluvias generalizadas. Algo que, sumado a la bajada de las temperaturas, hace que suba la humedad interior (sobre todo, en zonas costeras) de casas y pisos. Un a",
-      "pubDate": "2026-10-25T19:16:09Z",
-      "source": "Xataka",
-      "category": "Tech",
-      "thumbnail": "https://i.blogs.es/196559/lidl-solucion-humedad/1024_2000.jpeg"
     },
     {
       "title": "¿Qué pasará con las IP de ‘Mass Effect’ y ‘Dragon Age’ tras el cierre de BioWare?",
@@ -689,10 +788,19 @@
     {
       "title": "María Corina Machado regresa a Venezuela - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlphS3p0a0p5QUFaNnR0bFVjYUtZT1lzTEpvUy1VWFhFRGRHazBGUEpySG9VZTlGTHJmamZmdHRFQzNMbF9jZGNWV0padk82ZmFTZjlSUXo0RV96S0JONDltVW9tNVAydEVfd3dGN0M1dC1EQ1I0Zi00NWFXeHJSYXJMSWFLbnFja1ZUSDBBUEZKZzFNXzNCaUt2ZHRjNkhtRDBWNTdXTE8yQQ?oc=5",
-      "description": "María Corina Machado regresa a Venezuela&nbsp;&nbsp;The New York TimesAtribuye Rubio regreso de Machado al diálogo con apoyo de EU&nbsp;&nbsp;ReformaLa líder opositora Machado regresa a Venezuela en medio del júbilo de una multitud&nbsp;&nbsp;YahooTrump dice n",
+      "description": "María Corina Machado regresa a Venezuela&nbsp;&nbsp;The New York TimesEl regreso de María Corina Machado sacude el tablero político y mete presión a una transición en Venezuela&nbsp;&nbsp;EL PAÍSAfirma Machado disposición a reunirse con Delcy en Venezuela&nbsp",
       "pubDate": "2026-10-25T17:18:18Z",
       "source": "Google News MX",
-      "category": "Política",
+      "category": "México",
+      "thumbnail": null
+    },
+    {
+      "title": "Cómo una mansión de California se convirtió en la \"casa de los horrores\" por el supuesto abuso a 14 niños subrogados - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YRi1zM1pWQkIyTDg1YmhickpEVnFoTWJWVnRld1RubTNNRFZlNEZXc1Bzbjh3TlZUU3o1REFFcWVmMlR6OXBQam4tdExmSGR5U1ZGQzdGRXRsYTZD0gFiQVVfeXFMT2E5VFdCMHI5aUpOMURkeERLVnlvMVduLVYzYmNNajhjbjhEVFRmRXNhR3g1NUwyV054SUlUdm9uYkNHdFNhNFU0S3VHQUdlam9VMThQY1lGSS1tbW9KOERTZEE?oc=5",
+      "description": "Cómo una mansión de California se convirtió en la \"casa de los horrores\" por el supuesto abuso a 14 niños subrogados&nbsp;&nbsp;BBC",
+      "pubDate": "2026-10-25T17:14:07Z",
+      "source": "Google News MX",
+      "category": "México",
       "thumbnail": null
     },
     {
@@ -723,24 +831,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/wildwood-review_gacz.1200.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Huracán 'Vance' se degrada a tormenta tropical; prevén lluvias intensas en cuatro estados - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTkRjaExqUVVZZzJuVFJ3NFlfSG9Vdll4eTBfUEh1OVNNajhIT3VXOUprVW0yekN5TzBxeHk0aWVQMG9jYkY0MTRyd2U5blV1Rnhab1dsRi11QjM5N3FNS0hKa0tKaHZWQURDcXhvZG5uWVlIalZDdXNqX0RjM1A1WExPQjQ1MXRaNVplZ1p5OTQyT3hWYzdnU2Frdk1PTHpmYU1Qdm5MeWxQT1pDQlQtci1xYWpkYzlHbjE1cEdzQlJXZVV0cW8wZkFuZWZCQk0?oc=5",
-      "description": "Huracán 'Vance' se degrada a tormenta tropical; prevén lluvias intensas en cuatro estados&nbsp;&nbsp;La JornadaCoordinan plan preventivo en Colima y 4 estados más por cercanía de “Vance”&nbsp;&nbsp;El ComentarioDespliegan misión de coordinación en 5 estados po",
-      "pubDate": "2026-10-25T15:59:00Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Fuerza internacional contra las pandillas de Haití contradice a Bukele y no descarta que los cuerpos encontrados sean los 4 soldados salvadoreños",
-      "link": "https://www.bbc.com/mundo/articles/cqev3nexxp91o?at_medium=RSS&at_campaign=rss",
-      "description": "El presidente de El Salvador rechazó que, como publicó The New York TImes, sus militares desaparecidos hubieran sido encontrados en Puerto Príncipe.",
-      "pubDate": "2026-10-25T15:43:12Z",
-      "source": "BBC Mundo",
-      "category": "Política",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c7e/live/9ad7c750-d011-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "title": "5 películas animadas en ‘stop motion’ que puedes ver ahora mismo",
       "link": "https://hipertextual.com/cine-television/5-peliculas-animadas-en-stop-motion-que-puedes-ver-ahora-mismo/",
       "description": "Wildwood: El bosque salvaje de Laika, que se estrena este fin de semana en España, es, además de una estupenda película, un logro técnico. Eso, al combinar una historia de redención, aventura infantil y profundo simbolismo con stop motion. Hacerlo, además, con",
@@ -768,10 +858,10 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/The-devils-Hipertextual.jpg?fit=1024%2C624&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Obama acusa a Trump de \"caos y crueldad\" antes de las elecciones de medio mandato - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVBaWUVGLXoyVnhoLW16ODhZNkV3UUU2MlFEOTVfd2R4QXVFUW1sWW1jWldpRWRPMmNYMU1VaTZCSDEtMHFIRVpyV3lGWGJrSWlJNzRHOHFhTlJGaHdfcDhQallpVHB1cHpQZkxIbDhGY2wzS2hGUHM4YmdmUUtBRDc5YjA1RzRzX2ZQaHpjRzRrVzJCVUpmX1B4SEtjVmRwYVBVS0NDQnVOQkRlSDhTRdIBsAFBVV95cUxNQUVhc3I3SHV4ZHJ3bk1fRjBIb2FHWmFFN3l3QXRGaU14WGdvdnJBTFRrR2E2cW9Jb3FkWTZfME5KVXdkM2MwSWRTVEhRdWY4YzlJal9RSmdPX25MRzlsRnpyXy1YYUl4c21qcnJSSURlQnQtb0o0RjVJbUVYd3ozc0xNem1rYkZsM2llUXV1ZlpFTkp4U2M1RkpHX3NRaEEzbV9ETVp4bW12cmRJRFo1Zg?oc=5",
-      "description": "Obama acusa a Trump de \"caos y crueldad\" antes de las elecciones de medio mandato&nbsp;&nbsp;DW.comObama en su regreso a la batalla electoral: “La gente está harta de estar harta. Se respira un aire de cambio”&nbsp;&nbsp;EL PAÍS\"Es nuestra última oportunidad d",
-      "pubDate": "2026-10-25T11:02:37Z",
+      "title": "Eisenkot, el general que puede hacer caer a Netanyahu - El Universal",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1RzTmFKSGEzWnpsNHdiRl9RZThUa1RLa1N6QzdrQlR5RUtKMWpwNjljUGxpNVlwczc2M05zRXpfOVB1eUJXcjBNRW1nN1gzQ3gyeGx3M2tBSHBvTURaNTJGSS1HcC1EY1lnNFVnalo4MXB6bFB4dWNIOW9IQmFyNlFPeThiTHM4c0Zva0V2YTJaUUow?oc=5",
+      "description": "Eisenkot, el general que puede hacer caer a Netanyahu&nbsp;&nbsp;El UniversalIsrael celebrará sus elecciones más importantes en años. ¿Qué está en juego?&nbsp;&nbsp;CNN en EspañolSin voto exterior, miles de israelíes aterrizan en Tel Aviv entre cantos y riñas ",
+      "pubDate": "2026-10-25T10:07:00Z",
       "source": "Google News MX",
       "category": "Política",
       "thumbnail": null
@@ -788,29 +878,11 @@
     {
       "title": "Netanyahu promete destruir Hebrón; asaltan barrios y desplazan a familias - La Jornada",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1OVZYT0tnbjdGbG04eXUxOUhBZUlUcGJKOUcwQ0ZubnN0X09XMXdzWG1GVVRla183bTVxa1lGQjc1QUQyZFZGTWtSN2JicFQ0RUFoRmtCM3EyVUs0cEFHSFdB?oc=5",
-      "description": "Netanyahu promete destruir Hebrón; asaltan barrios y desplazan a familias&nbsp;&nbsp;La JornadaMás de 2.670 \"desplazados por la fuerza\" en Hebrón por un operativo israelí, según la Autoridad Palestina&nbsp;&nbsp;YahooAl menos 250 familias han sido expulsadas d",
+      "description": "Netanyahu promete destruir Hebrón; asaltan barrios y desplazan a familias&nbsp;&nbsp;La JornadaVer más títulos y perspectivas en Google Noticias",
       "pubDate": "2026-10-25T09:36:32Z",
       "source": "Google News MX",
-      "category": "México",
+      "category": "Tech",
       "thumbnail": null
-    },
-    {
-      "title": "Cientos de miles salen a las calles con nuevas protestas en Francia - La Jornada",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14eHQxVk5vUGQ4aF83N3M0bW1XWHc1SWtReURRM05HLVNQTG1JemhCX1FNU1J4RW1xTkl1eGUtX0x2eG5PcWhEekhHc0FLUlZyWlR4UGREN2ZTalgwX1JsY01B?oc=5",
-      "description": "Cientos de miles salen a las calles con nuevas protestas en Francia&nbsp;&nbsp;La JornadaFrancia: cientos de miles salen a las calles con nuevas protestas&nbsp;&nbsp;La JornadaHay 1.435 detenidos en Francia por las manifestaciones del sábado, \"sin incidentes g",
-      "pubDate": "2026-10-25T09:36:32Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
-      "title": "Momias congeladas y rutas vikingas: los secretos que está revelando el derretimiento de los hielos",
-      "link": "https://www.bbc.com/mundo/articles/c3n0498l71vwo?at_medium=RSS&at_campaign=rss",
-      "description": "El mundo está experimentando un rápido deshielo debido al cambio climático, lo que está dejando al descubierto artefactos antiguos que se han conservado perfectamente durante miles de años.",
-      "pubDate": "2026-10-25T09:01:47Z",
-      "source": "BBC Mundo",
-      "category": "Ciencia",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fa22/live/8e53c220-c63b-11f1-b99d-0127a94fa1d0.jpg"
     },
     {
       "title": "El truco con IA para quitar todos los anuncios y hacer tu Smart TV más rápida",
@@ -822,15 +894,6 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/smart-tv.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Los Tamaulipecos toman el liderato del Campeonato Nacional Charro 2026 - El Sol de México",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODM5YXpzSVlBWmljSjE0VXJGbzdIX2hWOEpmWEM5RFpzcEJWLWFLS05EcVp5LWxrT1RlYVZMUHlFQVE2dkhRZzhxYW5OT3FqSHhid01VTkk0X3hDR2M3cHFqbUtVdlRzZGxreTBUV01ENEZlYU83REM2YTdwOXVKX3pqbHBTaHZVaWFZaE0xN2R1Q09idXg0YjZRc1A4REFDRlRfS1hWRVRwdFh0OS02ajNULUpCaEIwUzJDUDE3aw?oc=5",
-      "description": "Los Tamaulipecos toman el liderato del Campeonato Nacional Charro 2026&nbsp;&nbsp;El Sol de MéxicoLos Tamaulipecos hacen historia en la Arena Potosí imponiendo récord nacional con 457 puntos&nbsp;&nbsp;Federación Mexicana de CharreríaGrupo Violante asalta el s",
-      "pubDate": "2026-10-25T06:25:35Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "Quién es Gadi Eisenkot, el general retirado que perdió un hijo en Gaza y desafía a Netanyahu en las primeras elecciones en Israel desde el ataque del 7 de octubre",
       "link": "https://www.bbc.com/mundo/articles/cj1dw0en7n36o?at_medium=RSS&at_campaign=rss",
       "description": "El excomandante supone la mayor amenaza política para el primer ministro Benjamin Netanyahu en las próximas elecciones generales.",
@@ -838,15 +901,6 @@
       "source": "BBC Mundo",
       "category": "Mundo",
       "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2dd/live/b4c06e70-ce58-11f1-a166-e30097724580.png"
-    },
-    {
-      "title": "Lluvias se presentan al norte de Chihuahua; autoridades piden evitar zonas de riesgo - El Sol de México",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1RKSHYzUzZseEE3TkVfVlNRRVRwVkY4SlFLUlExNExSNklWVDVvcjhkMEF3LVRBY1Q3NWdvTThuTk5rUVBZX2Z2UFdYUEp1dUg1c0dPVWRGaGQtWkQyR3VSUUhmcXg4QWpyNzJ4UDZzek44dXYxVEZ0NnpndjlCRW12dEpzR0NkdGNKQVFZWWg4eTlXTHRzOUdsTXpEN3BRN3ZQOUJSRG9sbnM2el9iUGF2LXNFSkkzbUtrWlZiRm9ITnBidktzR1V2ajBtbjJIZElhcw?oc=5",
-      "description": "Lluvias se presentan al norte de Chihuahua; autoridades piden evitar zonas de riesgo&nbsp;&nbsp;El Sol de MéxicoPrevé CEPC continuidad de las lluvias este domingo con mayor intensidad en regiones sur y sureste&nbsp;&nbsp;| Portal Gubernamental del Estado de Ch",
-      "pubDate": "2026-10-25T00:33:53Z",
-      "source": "Google News MX",
-      "category": "México",
-      "thumbnail": null
     },
     {
       "title": "México cumple entrega mínima anual de agua a EU pese a sequía extrema: SRE - La Jornada",
@@ -876,66 +930,12 @@
       "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/05/Emma.jpg?fit=1024%2C713&amp;quality=70&amp;strip=all&amp;ssl=1"
     },
     {
-      "title": "Cómo EE.UU. se ha convertido en una gerontocracia que no representa el perfil de edad del país",
-      "link": "https://www.bbc.com/mundo/articles/c8r4y3543zv3o?at_medium=RSS&at_campaign=rss",
-      "description": "Un país sin futuro para los jóvenes: ¿por qué los políticos de mayor edad parecen tener un control tan férreo sobre el sistema político estadounidense?",
-      "pubDate": "2026-10-24T16:56:13Z",
-      "source": "BBC Mundo",
-      "category": "Mundo",
-      "thumbnail": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b452/live/6fcffcd0-ce3b-11f1-a86f-f78305ec9987.jpg"
-    },
-    {
-      "title": "Si tienes una pantalla OLED, esta app gratuita corrige uno de los peores problemas de Windows",
-      "link": "https://hipertextual.com/tecnologia/automatizar-hdr-sdr-windows-smart-hdr-manager/",
-      "description": "Activar y desactivar manualmente el HDR es una de las tareas más tediosas para quienes usan Windows con un monitor compatible, sobre todo si es OLED. Si juegas o ves vídeos en YouTube y luego vuelves al escritorio, es probable que tengas que usar el atajo de t",
-      "pubDate": "2026-10-24T16:00:00Z",
-      "source": "Hipertextual",
-      "category": "Tech",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/pantalla-oled-windows.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "‘Sentido y sensibilidad’ es una película genial para los fans de Jane Austen",
-      "link": "https://hipertextual.com/cine-television/sentido-y-sensibilidad-es-una-pelicula-genial-para-los-fans-de-jane-austen/",
-      "description": "Sentido y sensibilidad de Georgia Oakley se enfrenta a varios problemas de entrada. En primer lugar, la importancia de la espléndida adaptación de 1995 de Ang Lee del mismo libro de Jane Austen. Una obra ganadora del Óscar y que todavía se considera una joya e",
-      "pubDate": "2026-10-24T15:00:00Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Elinor-and-Marianne-in-Sense-and-Sensibility.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "¿Cómo termina ‘Clayface’ y qué le pasó realmente al villano?",
-      "link": "https://hipertextual.com/cine-television/como-termina-clayface-y-que-le-paso-realmente-al-villano/",
-      "description": "Clayface es una sorprendente combinación entre un body horror impactante y la historia de un villano de DC que se hace cada vez más trágica. Entre ambas cosas, la nueva película del Universo DC de James Gunn tiene varias de las escenas más impactantes de la fr",
-      "pubDate": "2026-10-24T14:00:00Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/clayface-6.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
-      "title": "Los 5 mejores finales del cine contemporáneo",
-      "link": "https://hipertextual.com/cine-television/los-5-mejores-finales-del-cine-contemporaneo/",
-      "description": "¿Qué hace el final de una película ser memorable en el cine contemporáneo? Las razones son variadas y casi nunca coinciden entre sí. Desde un giro absolutamente impactante como en El sexto sentido, a uno doloroso y conmovedor como en La bola negra. O si vamos ",
-      "pubDate": "2026-10-24T13:00:00Z",
-      "source": "Hipertextual",
-      "category": "Entretenimiento",
-      "thumbnail": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Finales-impactantes.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1"
-    },
-    {
       "title": "Maru Campos en modo kamikaze - EL PAÍS",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEtCYXpic3JnRDlZU2xXamxwaDVtU0hiVXFCSTJPQm9FbVZXN1haWGdWZEl0Nk5JXzFvR0tnWTlvUkg0WThkYzA1TFdLQXdrTE1zeEJFbGRZelhPSExyRlUyZ1ExSzVCb3cxUktoVkY4QkhCTDNfYmZXU3J4YjdrR0hXTWzSAZgBQVVfeXFMT2t2azFubUdjN0xnN2VNLUNzZWd5R1FZaXo4Tnk3SnVsUV9BUEJBOU1lVTNUN2p4RzVTU2J3QjUxalFhWmdQQlpFb1U3WlZHLTZNbHBScUgtT2Zmb3dWUldYUlZQNUFDeGZONU9IVUg3U0UwTG03akp2ZE1vZ2lNZy1mQ2RUXzA1Y1EwaTZIS3N2MS1NZmVIdWQ?oc=5",
       "description": "Maru Campos en modo kamikaze&nbsp;&nbsp;EL PAÍS",
       "pubDate": "2026-10-24T09:30:00Z",
       "source": "Google News",
       "category": "Política",
-      "thumbnail": null
-    },
-    {
-      "title": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVhnNmFKRnR3RUhPYlFGdURJbnBNaWpmUk9RZXdMbUMtM0VsRWc1VWd3ako0dVdkUmVZMFZzSWpZQlNnTzJGWGZrVEx4NDAwX2RMY2kzSXFua1o4c1Fvak95bmRLQ0NCbVdpZ3ZCLVF4RE1YMEdDTzVnUEczVThrcWowMDZhY2hMS2tzNmtXQTN6ZHNxZWxvWjFHUTFrRjAxalR6UmdmWWVmdW9HeTZvQ2ZCa3kwNXo2elVaStIB0AFBVV95cUxQVkJWZWpaVUg0TFo4Nk1CWlNSMmpFWTBHRThoak5Hckp4SE04M3IzNFFvRmFIb09XZ3lKWEkyWHdZSGtoUEJzUUpneURYYXlxa084MzlLclh5d0FpSm5TejdKMnZYZkQ0YkxnNjZHa1FiLV9KTzRPeldMYVBZVFBTcVA0cTFNcFJhTHB3YmlLUkxUWmptX1phbFdnZFAzUlo3OXN1c3lkOG1sWGhlTmFFWURtUjYyVlpPdTRTelFqdWdMcmxtRVRaYVEyZm5wQ2NY?oc=5",
-      "description": "Viven fuera de Israel; ahora vuelven para votar contra Netanyahu&nbsp;&nbsp;EL PAÍSGadi Eisenkot, el general discreto capaz de derrotar a Netanyahu&nbsp;&nbsp;EL PAÍSIsrael celebrará sus elecciones más importantes en años. ¿Qué está en juego?&nbsp;&nbsp;CNN en",
-      "pubDate": "2026-10-24T03:40:00Z",
-      "source": "Google News MX",
-      "category": "México",
       "thumbnail": null
     },
     {
@@ -957,15 +957,6 @@
       "thumbnail": null
     },
     {
-      "title": "México retrocede 19 lugares en dos décadas: El estancamiento de la economía de las mujeres - TV Azteca",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV25ZaFp1NVNTZF9sYWpOaWJxMmkxWjd1Q0IxZDBaNWNFOXZfNGxnNFdtOFNrajctSlRmT185VUwyMGo5dHpSX3VBOGRRTV90MGxwaEpRNG11VDZUZXVRZ0tSUjlxZUVzLUk0Y05OWEVoZnlPVXVOZHlaN09zQ25sU1V4dU11MUNVdE5EU0w0VDJsRDVXay1NTHVLOHdsalNZNzFicmRyTEdzYkFfSEhDU2lFWlV4WG1IVFBNUHo3Y0h0Z9IBzwFBVV95cUxPUW1tQk1udEQzYmhrUGExMmRTYmNLT1pPSjZYNVJvWjNiaFoxRFUwQi1CSElfOHhfcGI2eHZXSkZIem1rOEtFeHBDM25saU9wRURKWWtVcXB1ODJZY013aFFuRVktXzczeVA1OEduc1ZOdVVwS3UwVGk5VEhKZDRLb3M4R3pKQUZHTXo4aGd4WUV3cEhId1loczJiNGxhU2VFeDkwbVdQX3RBcmZnT2NLM3JHbmVESG1uYkFGS1pDQW5vV3lwdk0wdTJFYk80b1k?oc=5",
-      "description": "México retrocede 19 lugares en dos décadas: El estancamiento de la economía de las mujeres&nbsp;&nbsp;TV Azteca",
-      "pubDate": "2026-10-23T15:38:19Z",
-      "source": "Google News",
-      "category": "México",
-      "thumbnail": null
-    },
-    {
       "title": "¿Por qué hay tantas protestas en México y no afectan a la popularidad de la presidenta Claudia Sheinbaum? - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14TTlKaFFfeERCczRUNzByX0ZDMlRLcUp2YXNnZ2R0TmhjM3pkam5iQ1diUXZ5Qlczdm9QQWVZdnY0bkd3YXN1RkQ1VHc3ZVRWWlZEdmJSRU1JaDBm0gFiQVVfeXFMTXF5SkJ3c3M4QlRsY19WbkV6RkgyRnRtSkUtUlBnYnlFOW14QkRjNnp6b0t1c09HNUFUeE84S0puSm1sbzdjeW5lVjZ2a0x5Qlh4cVFHRk5BTUZXX3IwUU5OWEE?oc=5",
       "description": "¿Por qué hay tantas protestas en México y no afectan a la popularidad de la presidenta Claudia Sheinbaum?&nbsp;&nbsp;BBC",
@@ -975,19 +966,19 @@
       "thumbnail": null
     },
     {
-      "title": "México. Una tragicomedia: la operación ilegal de la CIA en Chihuahua tensa la política mexicana - Resumen Latinoamericano -",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWUVXQnk1elMtN0pQLS1NT0R4NjFxV1RDcHZSN2tRWE1QREVjT1JwR1FQZzVyQjQ5aEdsb0VhZ05ZTmg5WXptTmQyLXF3ZUN0WmhsRDlPeDlIOGh0elFoeHNZUzlIREpicGgtUjhKTE91cG52aktKWXdkMTk0RUJybHA4S0J6Q2JrSlFzTkFCam5MTnkzTWUyN2hyQS1WX2gtX3lld1p2OUNJV0tmdXJFWFQ3QkJJdk80WFBTMlNUNlNiMkJVYTdLM3pLR3FQcU5EdFM4d0Q5MUNvUHR0?oc=5",
-      "description": "México. Una tragicomedia: la operación ilegal de la CIA en Chihuahua tensa la política mexicana&nbsp;&nbsp;Resumen Latinoamericano -",
-      "pubDate": "2026-10-22T23:42:32Z",
+      "title": "¿Hasta dónde llega la seguridad y dónde empieza la política entre México y Estados Unidos? - TRT Español",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9XaGZYM3dyX2s1WGdQWE9VUTU0ejRGcXNPWVJiM0JWNzZnMTFJVzNUMW5zaDlLb3NYcThyVU9wTUFIN0hQQWxJT0VxOVRrR3F2VEdvanJJOEJ4Z2s?oc=5",
+      "description": "¿Hasta dónde llega la seguridad y dónde empieza la política entre México y Estados Unidos?&nbsp;&nbsp;TRT Español",
+      "pubDate": "2026-10-23T09:25:52Z",
       "source": "Google News",
       "category": "México",
       "thumbnail": null
     },
     {
-      "title": "México es de las \"grandes tragedias del periodismo\": RSF - El Economista",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNERqcG1Ka3B0UUpzazVZV0ZsOWllaW5pQzlXTk82SFlRNmIyZUFaZFg3QzFGWEowR0NqbnVyY2FKWkE5Z1Bxd0I4a3JrODZwZVZ2eEplSW1JZWpMMFN4eUZ4b1J4dFBRMWVlSVhhRUZVV3l0dlAwWm1HUTNzbmtWSFVtdW5TVHU4d0xzb3NKRDF5aVVvMzV2cmNTTTM5LTN3MlNR0gGoAUFVX3lxTE1XSWZjeE03aFlDSjJmN2gtRVRuZ25MOUFRQk14MnVFbXNRNUtNUEwzeWdDaGZuM1MtOGI4SFVDaGIyUjV5ZVVuenZLWmx6QWd2aTdKNTVSTEVyZlpnOC0zN281TlBBVTJzVmEybXEtcktrSGxvUUVzd1czalJsTmtWU0dNSk9HN1ExMFpqLWVVMFEwN3UzTnIxNTRmd1JtS0Z6UE9iVG1zSQ?oc=5",
-      "description": "México es de las \"grandes tragedias del periodismo\": RSF&nbsp;&nbsp;El Economista",
-      "pubDate": "2026-10-22T22:50:30Z",
+      "title": "México. Una tragicomedia: la operación ilegal de la CIA en Chihuahua tensa la política mexicana - Resumen Latinoamericano -",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWUVXQnk1elMtN0pQLS1NT0R4NjFxV1RDcHZSN2tRWE1QREVjT1JwR1FQZzVyQjQ5aEdsb0VhZ05ZTmg5WXptTmQyLXF3ZUN0WmhsRDlPeDlIOGh0elFoeHNZUzlIREpicGgtUjhKTE91cG52aktKWXdkMTk0RUJybHA4S0J6Q2JrSlFzTkFCam5MTnkzTWUyN2hyQS1WX2gtX3lld1p2OUNJV0tmdXJFWFQ3QkJJdk80WFBTMlNUNlNiMkJVYTdLM3pLR3FQcU5EdFM4d0Q5MUNvUHR0?oc=5",
+      "description": "México. Una tragicomedia: la operación ilegal de la CIA en Chihuahua tensa la política mexicana&nbsp;&nbsp;Resumen Latinoamericano -",
+      "pubDate": "2026-10-22T23:42:32Z",
       "source": "Google News",
       "category": "México",
       "thumbnail": null
@@ -1026,6 +1017,15 @@
       "pubDate": "2026-10-17T08:06:30Z",
       "source": "Google News",
       "category": "Tech",
+      "thumbnail": null
+    },
+    {
+      "title": "México, política antiobesidad: eficaz - El Economista",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUEctOEdreW1Ba2dNT1JhLUdNM1N2Z2pnYV9oMGRaM2JXNVZZbUVkMTJLczk1dXZZWDRHX1R6aDU3b0hnRlY2OGRUeFN1VU9HbkpJT0t0SUlkMGZKZDctcUpIM1R0eWhYZHlQWFhZalMxa1FRWnRMTlp1elloTGNSTFB0N0lPSzJnMlYzX24wQ2NoYzNEOFJzMG1jZF_SAaIBQVVfeXFMTXlMdFVUT2lBckZaTWVHTFpUUXJNcVUxU01sRXVoTE1PSUp0TS1WbkZEMWhOWWV1TU1iZEFwQTg0OEMwZkJXbjFQTGgtaWZtdW9VTk95RTZNTVduTmNVOS1meXpDNmdKRk83LWxkX3ZNMFRIWUwyYWFrYkZVYzZwUFJmUHF3ZmpjWk1UaTZqOERzbFpyak9feXlLREZJZ0JNbUd3?oc=5",
+      "description": "México, política antiobesidad: eficaz&nbsp;&nbsp;El Economista",
+      "pubDate": "2026-10-12T07:00:00Z",
+      "source": "Google News",
+      "category": "México",
       "thumbnail": null
     },
     {
